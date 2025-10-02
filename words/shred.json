@@ -1,0 +1,962 @@
+{
+  "sentences": [
+    {
+      "en": "You should shred any documents with personal information.",
+      "pt": "Você deve triturar quaisquer documentos com informações pessoais."
+    },
+    {
+      "en": "First, shred the chicken and set it aside.",
+      "pt": "Primeiro, desfie o frango e reserve."
+    },
+    {
+      "en": "There wasn't a shred of evidence to support his claim.",
+      "pt": "Não havia nem um pingo de evidência para apoiar a alegação dele."
+    },
+    {
+      "en": "He loves to shred on his electric guitar.",
+      "pt": "Ele adora solar freneticamente em sua guitarra elétrica."
+    },
+    {
+      "en": "The critic's review completely shredded the new movie.",
+      "pt": "A crítica do crítico destruiu completamente o novo filme."
+    },
+    {
+      "en": "Can you shred some carrots for the salad?",
+      "pt": "Você pode ralar umas cenouras para a salada?"
+    },
+    {
+      "en": "The office has a new industrial paper shredder.",
+      "pt": "O escritório tem um novo triturador de papel industrial."
+    },
+    {
+      "en": "His reputation was left in shreds after the scandal.",
+      "pt": "A reputação dele ficou em farrapos após o escândalo."
+    },
+    {
+      "en": "She's a great snowboarder; she can really shred.",
+      "pt": "Ela é uma ótima snowboarder; ela realmente manda muito bem."
+    },
+    {
+      "en": "The recipe calls for a cup of shredded cheese.",
+      "pt": "A receita pede uma xícara de queijo ralado."
+    },
+    {
+      "en": "He tore the letter to shreds in a fit of anger.",
+      "pt": "Ele rasgou a carta em pedaços num acesso de raiva."
+    },
+    {
+      "en": "The lawyer shredded the witness's testimony during cross-examination.",
+      "pt": "O advogado despedaçou o depoimento da testemunha durante o interrogatório."
+    },
+    {
+      "en": "I need to shred these old bank statements.",
+      "pt": "Preciso triturar estes extratos bancários antigos."
+    },
+    {
+      "en": "There is not one shred of truth in his story.",
+      "pt": "Não há um pingo de verdade na história dele."
+    },
+    {
+      "en": "My cat likes to shred the toilet paper.",
+      "pt": "Meu gato gosta de rasgar o papel higiênico."
+    },
+    {
+      "en": "The guitarist ended the concert with a solo that just shredded.",
+      "pt": "O guitarrista encerrou o show com um solo que simplesmente arrebentou."
+    },
+    {
+      "en": "This machine can shred tree branches into mulch.",
+      "pt": "Esta máquina pode triturar galhos de árvores para fazer adubo."
+    },
+    {
+      "en": "She had lost every shred of her confidence.",
+      "pt": "Ela havia perdido cada pingo de sua confiança."
+    },
+    {
+      "en": "This slow-cooked pork is so tender you can shred it with a fork.",
+      "pt": "Esta carne de porco cozida lentamente é tão macia que você pode desfiá-la com um garfo."
+    },
+    {
+      "en": "His argument was shredded by the opposition.",
+      "pt": "O argumento dele foi destruído pela oposição."
+    },
+    {
+      "en": "We bought a bag of pre-shredded lettuce.",
+      "pt": "Nós compramos um saco de alface já picada."
+    },
+    {
+      "en": "The flag was in shreds after the storm.",
+      "pt": "A bandeira estava em farrapos depois da tempestade."
+    },
+    {
+      "en": "Do you prefer to shred your own cheese or buy it already shredded?",
+      "pt": "Você prefere ralar seu próprio queijo ou comprá-lo já ralado?"
+    },
+    {
+      "en": "The prosecutor claimed there was not a single shred of remorse from the defendant.",
+      "pt": "O promotor alegou que não havia um único pingo de remorso por parte do réu."
+    },
+    {
+      "en": "The skateboarder was shredding at the skate park.",
+      "pt": "O skatista estava arrebentando na pista de skate."
+    },
+    {
+      "en": "It's important to shred any mail that contains your address.",
+      "pt": "É importante triturar qualquer correspondência que contenha seu endereço."
+    },
+    {
+      "en": "Her beautiful dress was torn to shreds on the fence.",
+      "pt": "O lindo vestido dela foi rasgado em pedaços na cerca."
+    },
+    {
+      "en": "The new book was shredded by nearly every reviewer.",
+      "pt": "O novo livro foi massacrado por quase todos os críticos."
+    },
+    {
+      "en": "For this recipe, you need to shred the zucchini.",
+      "pt": "Para esta receita, você precisa ralar a abobrinha."
+    },
+    {
+      "en": "He held on to the last shred of hope.",
+      "pt": "Ele se agarrou ao último fio de esperança."
+    },
+    {
+      "en": "The shredder is jammed with too much paper.",
+      "pt": "O triturador está emperrado com papel demais."
+    },
+    {
+      "en": "The lead guitarist is known for his ability to shred.",
+      "pt": "O guitarrista principal é conhecido por sua habilidade de tocar muito rápido."
+    },
+    {
+      "en": "She showed not a shred of sympathy for his situation.",
+      "pt": "Ela não demonstrou a menor compaixão pela situação dele."
+    },
+    {
+      "en": "I use shredded coconut in my cake recipe.",
+      "pt": "Eu uso coco ralado na minha receita de bolo."
+    },
+    {
+      "en": "The rival company's proposal was shredded in the meeting.",
+      "pt": "A proposta da empresa rival foi totalmente rechaçada na reunião."
+    },
+    {
+      "en": "Please don't shred this document; it's important.",
+      "pt": "Por favor, não triture este documento; ele é importante."
+    },
+    {
+      "en": "The storm left the sails in shreds.",
+      "pt": "A tempestade deixou as velas em farrapos."
+    },
+    {
+      "en": "He searched for any shred of evidence that could prove his innocence.",
+      "pt": "Ele procurou por qualquer fiapo de evidência que pudesse provar sua inocência."
+    },
+    {
+      "en": "The surfer was shredding the massive waves.",
+      "pt": "O surfista estava arrebentando nas ondas gigantes."
+    },
+    {
+      "en": "Shredded beef tacos are my favorite.",
+      "pt": "Tacos de carne desfiada são os meus favoritos."
+    },
+    {
+      "en": "There is not a shred of doubt in my mind that he is guilty.",
+      "pt": "Não há a menor sombra de dúvida em minha mente de que ele é culpado."
+    },
+    {
+      "en": "The professor shredded her poorly written essay.",
+      "pt": "O professor acabou com a redação mal escrita dela."
+    },
+    {
+      "en": "You need a good shredder to destroy credit cards.",
+      "pt": "Você precisa de um bom triturador para destruir cartões de crédito."
+    },
+    {
+      "en": "She tried to maintain a shred of dignity throughout the ordeal.",
+      "pt": "Ela tentou manter um pingo de dignidade durante toda a provação."
+    },
+    {
+      "en": "The machine that shreds documents is very loud.",
+      "pt": "A máquina que tritura documentos é muito barulhenta."
+    },
+    {
+      "en": "I watched him shred a whole block of cheese in seconds.",
+      "pt": "Eu o vi ralar um bloco inteiro de queijo em segundos."
+    },
+    {
+      "en": "Her nerves were in shreds before the presentation.",
+      "pt": "Os nervos dela estavam em frangalhos antes da apresentação."
+    },
+    {
+      "en": "That rock band has a guitarist who can really shred.",
+      "pt": "Aquela banda de rock tem um guitarrista que realmente toca muito."
+    },
+    {
+      "en": "We need to shred the cabbage for the coleslaw.",
+      "pt": "Precisamos picar o repolho para a salada de repolho."
+    },
+    {
+      "en": "The defense attorney shredded the prosecution's main argument.",
+      "pt": "O advogado de defesa destruiu o principal argumento da promotoria."
+    },
+    {
+      "en": "Without a shred of proof, you can't make such accusations.",
+      "pt": "Sem um pingo de prova, você não pode fazer tais acusações."
+    },
+    {
+      "en": "The dog managed to shred the new sofa cushion.",
+      "pt": "O cachorro conseguiu rasgar a nova almofada do sofá."
+    },
+    {
+      "en": "This recipe is better with finely shredded carrots.",
+      "pt": "Esta receita fica melhor com cenouras finamente raladas."
+    },
+    {
+      "en": "There was a pile of paper shreds next to the machine.",
+      "pt": "Havia uma pilha de tiras de papel ao lado da máquina."
+    },
+    {
+      "en": "The band's performance was amazing; they were all shredding.",
+      "pt": "A performance da banda foi incrível; todos estavam arrebentando."
+    },
+    {
+      "en": "The powerful winds tore the tent to shreds.",
+      "pt": "Os ventos fortes rasgaram a barraca em pedaços."
+    },
+    {
+      "en": "He writes articles that shred the government's policies.",
+      "pt": "Ele escreve artigos que destroem as políticas do governo."
+    },
+    {
+      "en": "Can I shred this pile of old magazines?",
+      "pt": "Posso triturar esta pilha de revistas velhas?"
+    },
+    {
+      "en": "She had only a few shreds of memory from her early childhood.",
+      "pt": "Ela tinha apenas alguns fragmentos de memória de sua primeira infância."
+    },
+    {
+      "en": "The company shreds all its confidential waste.",
+      "pt": "A empresa tritura todo o seu lixo confidencial."
+    },
+    {
+      "en": "He gave his testimony without a shred of emotion.",
+      "pt": "Ele deu seu depoimento sem um pingo de emoção."
+    },
+    {
+      "en": "The new snowboarder is learning how to shred.",
+      "pt": "O novo snowboarder está aprendendo a mandar bem."
+    },
+    {
+      "en": "I love adding shredded mozzarella to my pasta.",
+      "pt": "Eu adoro adicionar mussarela ralada na minha massa."
+    },
+    {
+      "en": "The expert witness shredded the plaintiff's case.",
+      "pt": "A testemunha especialista destruiu o caso do autor."
+    },
+    {
+      "en": "The puppy will shred anything you leave on the floor.",
+      "pt": "O cachorrinho vai rasgar qualquer coisa que você deixar no chão."
+    },
+    {
+      "en": "His alibi was torn to shreds by the new evidence.",
+      "pt": "O álibi dele foi despedaçado pela nova evidência."
+    },
+    {
+      "en": "After you shred the documents, please recycle the paper.",
+      "pt": "Depois de triturar os documentos, por favor, recicle o papel."
+    },
+    {
+      "en": "The band is looking for a new guitarist who can shred like a pro.",
+      "pt": "A banda está procurando um novo guitarrista que consiga solar como um profissional."
+    },
+    {
+      "en": "There isn't a shred of decency in that man.",
+      "pt": "Não há um pingo de decência naquele homem."
+    },
+    {
+      "en": "For this dish, you can shred the meat using two forks.",
+      "pt": "Para este prato, você pode desfiar a carne usando dois garfos."
+    },
+    {
+      "en": "The politician's speech was shredded in the morning papers.",
+      "pt": "O discurso do político foi massacrado nos jornais da manhã."
+    },
+    {
+      "en": "He found a small shred of cloth caught on the nail.",
+      "pt": "Ele encontrou um pequeno retalho de tecido preso no prego."
+    },
+    {
+      "en": "It's a good habit to shred your receipts.",
+      "pt": "É um bom hábito triturar seus recibos."
+    },
+    {
+      "en": "Her confidence was in shreds after his harsh comments.",
+      "pt": "A confiança dela estava em frangalhos após os comentários rudes dele."
+    },
+    {
+      "en": "The biker was shredding the dirt track.",
+      "pt": "O ciclista estava arrebentando na pista de terra."
+    },
+    {
+      "en": "Would you like shredded lettuce on your sandwich?",
+      "pt": "Você gostaria de alface picada no seu sanduíche?"
+    },
+    {
+      "en": "There is no shred of scientific evidence to back up his theory.",
+      "pt": "Não há nenhum fiapo de evidência científica para apoiar a teoria dele."
+    },
+    {
+      "en": "The manager shredded the team's performance report.",
+      "pt": "O gerente criticou duramente o relatório de desempenho da equipe."
+    },
+    {
+      "en": "This high-capacity shredder can shred up to 100 pages at once.",
+      "pt": "Este triturador de alta capacidade pode triturar até 100 páginas de uma vez."
+    },
+    {
+      "en": "She was left with only shreds of her former life.",
+      "pt": "Ela ficou com apenas fragmentos de sua vida anterior."
+    },
+    {
+      "en": "He learned to shred on the guitar by watching videos online.",
+      "pt": "Ele aprendeu a solar na guitarra assistindo a vídeos online."
+    },
+    {
+      "en": "How finely should I shred the cabbage?",
+      "pt": "Quão fino devo picar o repolho?"
+    },
+    {
+      "en": "He faced the accusations without a shred of fear.",
+      "pt": "Ele enfrentou as acusações sem um pingo de medo."
+    },
+    {
+      "en": "The birds use shreds of plastic to build their nests.",
+      "pt": "Os pássaros usam pedaços de plástico para construir seus ninhos."
+    },
+    {
+      "en": "His latest novel was shredded by the literary community.",
+      "pt": "Seu último romance foi destruído pela comunidade literária."
+    },
+    {
+      "en": "Be careful not to shred your fingers on the grater.",
+      "pt": "Cuidado para não ralar seus dedos no ralador."
+    },
+    {
+      "en": "The old wallpaper came off in shreds.",
+      "pt": "O papel de parede antigo saiu em tiras."
+    },
+    {
+      "en": "The best part of the song is when the bass player starts to shred.",
+      "pt": "A melhor parte da música é quando o baixista começa a solar."
+    },
+    {
+      "en": "There was not a shred of kindness in his voice.",
+      "pt": "Não havia um pingo de bondade em sua voz."
+    },
+    {
+      "en": "I need to shred these documents before I leave the office.",
+      "pt": "Preciso triturar estes documentos antes de sair do escritório."
+    },
+    {
+      "en": "The company's new strategy was shredded by industry analysts.",
+      "pt": "A nova estratégia da empresa foi massacrada pelos analistas do setor."
+    },
+    {
+      "en": "Shredded potatoes are used to make hash browns.",
+      "pt": "Batatas raladas são usadas para fazer hash browns."
+    },
+    {
+      "en": "His argument was left in shreds after the debate.",
+      "pt": "O argumento dele ficou em frangalhos após o debate."
+    },
+    {
+      "en": "He's been practicing every day, and now he can really shred.",
+      "pt": "Ele tem praticado todos os dias, e agora ele realmente manda bem."
+    },
+    {
+      "en": "She clung to the last shred of her dignity.",
+      "pt": "Ela se agarrou ao último pingo de sua dignidade."
+    },
+    {
+      "en": "The machine shreds plastic bottles for recycling.",
+      "pt": "A máquina tritura garrafas de plástico para reciclagem."
+    },
+    {
+      "en": "The play was so bad that the audience's patience was in shreds.",
+      "pt": "A peça era tão ruim que a paciência do público estava em frangalhos."
+    },
+    {
+      "en": "The documentary shreds the myths surrounding the historical event.",
+      "pt": "O documentário desfaz os mitos que cercam o evento histórico."
+    },
+    {
+      "en": "Add a topping of shredded cheddar cheese.",
+      "pt": "Adicione uma cobertura de queijo cheddar ralado."
+    },
+    {
+      "en": "Without a shred of hesitation, she jumped into the water to save the child.",
+      "pt": "Sem a menor hesitação, ela pulou na água para salvar a criança."
+    },
+    {
+      "en": "The shredder needs to be emptied.",
+      "pt": "O triturador precisa ser esvaziado."
+    },
+    {
+      "en": "He put on his favorite metal album and started to shred on his air guitar.",
+      "pt": "Ele colocou seu álbum de metal favorito e começou a solar em sua guitarra de ar."
+    },
+    {
+      "en": "The wind had torn the newspaper to shreds.",
+      "pt": "O vento havia rasgado o jornal em pedaços."
+    },
+    {
+      "en": "The coach shredded the team's lazy performance after the game.",
+      "pt": "O técnico criticou duramente o desempenho preguiçoso do time após o jogo."
+    },
+    {
+      "en": "You can use a food processor to shred the vegetables quickly.",
+      "pt": "Você pode usar um processador de alimentos para ralar os legumes rapidamente."
+    },
+    {
+      "en": "I couldn't find a single shred of information about him online.",
+      "pt": "Não consegui encontrar um único fragmento de informação sobre ele online."
+    },
+    {
+      "en": "It's against company policy to throw away documents without shredding them first.",
+      "pt": "É contra a política da empresa jogar fora documentos sem antes triturá-los."
+    },
+    {
+      "en": "The kids are learning to shred on their new skateboards.",
+      "pt": "As crianças estão aprendendo a mandar bem em seus novos skates."
+    },
+    {
+      "en": "The artist's reputation was shredded by accusations of plagiarism.",
+      "pt": "A reputação do artista foi destruída por acusações de plágio."
+    },
+    {
+      "en": "A small shred of paper was the only clue left at the scene.",
+      "pt": "Um pequeno pedaço de papel foi a única pista deixada na cena."
+    },
+    {
+      "en": "Shredded ginger adds a nice flavor to the stir-fry.",
+      "pt": "Gengibre ralado adiciona um sabor agradável ao refogado."
+    },
+    {
+      "en": "There is not a shred of possibility that I will agree to that.",
+      "pt": "Não há a menor possibilidade de eu concordar com isso."
+    },
+    {
+      "en": "The book shreds the romantic notion of war.",
+      "pt": "O livro desfaz a noção romântica da guerra."
+    },
+    {
+      "en": "Be careful when you shred the paper; don't let your tie get caught.",
+      "pt": "Tenha cuidado ao triturar o papel; não deixe sua gravata prender."
+    },
+    {
+      "en": "His life was in shreds after the divorce.",
+      "pt": "A vida dele estava em frangalhos após o divórcio."
+    },
+    {
+      "en": "The local band is known for shredding classic rock covers.",
+      "pt": "A banda local é conhecida por tocar covers de rock clássico de forma incrível."
+    },
+    {
+      "en": "I like to put shredded carrots and beets in my salads.",
+      "pt": "Eu gosto de colocar cenoura e beterraba raladas nas minhas saladas."
+    },
+    {
+      "en": "He was a man without a shred of compassion.",
+      "pt": "Ele era um homem sem um pingo de compaixão."
+    },
+    {
+      "en": "The politician's lies were shredded by the journalist's investigation.",
+      "pt": "As mentiras do político foram expostas pela investigação do jornalista."
+    },
+    {
+      "en": "The old painting was peeling off the wall in shreds.",
+      "pt": "A pintura antiga estava descascando da parede em tiras."
+    },
+    {
+      "en": "What kind of documents do you typically shred?",
+      "pt": "Que tipo de documentos você normalmente tritura?"
+    },
+    {
+      "en": "The new manager's plan was shredded by the experienced employees.",
+      "pt": "O plano do novo gerente foi criticado pelos funcionários experientes."
+    },
+    {
+      "en": "He has a special attachment for his food processor that can shred and slice.",
+      "pt": "Ele tem um acessório especial para seu processador de alimentos que pode ralar e fatiar."
+    },
+    {
+      "en": "The last shred of sunlight disappeared below the horizon.",
+      "pt": "O último raio de sol desapareceu abaixo do horizonte."
+    },
+    {
+      "en": "She watched a video of a professional skier shredding down the mountain.",
+      "pt": "Ela assistiu a um vídeo de um esquiador profissional descendo a montanha em alta velocidade."
+    },
+    {
+      "en": "The company's stock value was torn to shreds after the bad news.",
+      "pt": "O valor das ações da empresa foi dizimado após as más notícias."
+    },
+    {
+      "en": "This shredder can also handle staples and small paper clips.",
+      "pt": "Este triturador também consegue lidar com grampos e pequenos clipes de papel."
+    },
+    {
+      "en": "Without a shred of irony, he said he was the most humble person he knew.",
+      "pt": "Sem um pingo de ironia, ele disse que era a pessoa mais humilde que conhecia."
+    },
+    {
+      "en": "The debate was intense, and both candidates shredded each other's arguments.",
+      "pt": "O debate foi intenso, e ambos os candidatos destruíram os argumentos um do outro."
+    },
+    {
+      "en": "Shredded paper can be used as packing material.",
+      "pt": "Papel triturado pode ser usado como material de embalagem."
+    },
+    {
+      "en": "He was known for his ability to shred complex legal documents and find loopholes.",
+      "pt": "Ele era conhecido por sua habilidade de analisar minuciosamente documentos legais complexos e encontrar brechas."
+    },
+    {
+      "en": "That was an amazing guitar solo! He was totally shredding!",
+      "pt": "Que solo de guitarra incrível! Ele estava totalmente arrebentando!"
+    },
+    {
+      "en": "She was left with only shreds of her memories after the accident.",
+      "pt": "Ela ficou com apenas fragmentos de suas memórias após o acidente."
+    },
+    {
+      "en": "The cook demonstrated how to properly shred lettuce for tacos.",
+      "pt": "O cozinheiro demonstrou como picar alface corretamente para tacos."
+    },
+    {
+      "en": "The case was dismissed because there was not a single shred of credible evidence.",
+      "pt": "O caso foi arquivado porque não havia um único fiapo de evidência crível."
+    },
+    {
+      "en": "The eagle's talons can shred its prey.",
+      "pt": "As garras da águia podem dilacerar sua presa."
+    },
+    {
+      "en": "The team's strategy was torn to shreds by the opponent's strong defense.",
+      "pt": "A estratégia do time foi por água abaixo pela forte defesa do oponente."
+    },
+    {
+      "en": "The band's new album is full of fast-paced songs where the guitarist just shreds.",
+      "pt": "O novo álbum da banda está cheio de músicas rápidas onde o guitarrista simplesmente sola muito."
+    },
+    {
+      "en": "To protect against identity theft, you must shred sensitive papers.",
+      "pt": "Para se proteger contra roubo de identidade, você deve triturar papéis confidenciais."
+    },
+    {
+      "en": "He felt every shred of his being was tired.",
+      "pt": "Ele sentia que cada fibra de seu ser estava cansada."
+    },
+    {
+      "en": "Her theory was shredded by her peers at the conference.",
+      "pt": "A teoria dela foi massacrada por seus colegas na conferência."
+    },
+    {
+      "en": "I like my pizza with lots of shredded basil on top.",
+      "pt": "Eu gosto da minha pizza com muito manjericão picado por cima."
+    },
+    {
+      "en": "The document was so old that it fell into shreds when I touched it.",
+      "pt": "O documento era tão antigo que se desfez em pedaços quando eu o toquei."
+    },
+    {
+      "en": "The young musician's dream was to shred on stage in front of thousands.",
+      "pt": "O sonho do jovem músico era solar no palco na frente de milhares de pessoas."
+    },
+    {
+      "en": "The company had to shred thousands of misprinted brochures.",
+      "pt": "A empresa teve que triturar milhares de brochuras impressas com erro."
+    },
+    {
+      "en": "She offered him not a shred of comfort.",
+      "pt": "Ela não lhe ofereceu um pingo de consolo."
+    },
+    {
+      "en": "The investigative report shredded the administration's official story.",
+      "pt": "O relatório investigativo desmentiu a história oficial da administração."
+    },
+    {
+      "en": "The recipe says to shred the potatoes before frying them.",
+      "pt": "A receita diz para ralar as batatas antes de fritá-las."
+    },
+    {
+      "en": "The team's hopes of winning were torn to shreds in the final quarter.",
+      "pt": "As esperanças de vitória do time foram por água abaixo no último quarto."
+    },
+    {
+      "en": "He put his old journals through the shredder, one by one.",
+      "pt": "Ele passou seus diários antigos pelo triturador, um por um."
+    },
+    {
+      "en": "She listened to his excuses without believing a single shred of them.",
+      "pt": "Ela ouviu as desculpas dele sem acreditar em uma única palavra delas."
+    },
+    {
+      "en": "The new film was shredded by critics for its weak plot.",
+      "pt": "O novo filme foi destruído pelos críticos por seu enredo fraco."
+    },
+    {
+      "en": "The wind was so strong it threatened to shred the sails.",
+      "pt": "O vento era tão forte que ameaçava rasgar as velas."
+    },
+    {
+      "en": "He's a talented musician who can shred on almost any stringed instrument.",
+      "pt": "Ele é um músico talentoso que consegue solar em quase qualquer instrumento de cordas."
+    },
+    {
+      "en": "Shredded paper is surprisingly difficult to piece back together.",
+      "pt": "Papel triturado é surpreendentemente difícil de juntar novamente."
+    },
+    {
+      "en": "There was not a shred of green to be seen in the desert landscape.",
+      "pt": "Não havia um pingo de verde a ser visto na paisagem desértica."
+    },
+    {
+      "en": "The politician's proposal was shredded during the public debate.",
+      "pt": "A proposta do político foi massacrada durante o debate público."
+    },
+    {
+      "en": "This kitchen tool is designed to shred vegetables with ease.",
+      "pt": "Este utensílio de cozinha é projetado para ralar vegetais com facilidade."
+    },
+    {
+      "en": "The kite was torn to shreds after it crashed into the tree.",
+      "pt": "A pipa ficou em pedaços depois que bateu na árvore."
+    },
+    {
+      "en": "The heavy metal festival was full of guitarists trying to shred faster than each other.",
+      "pt": "O festival de heavy metal estava cheio de guitarristas tentando solar mais rápido que os outros."
+    },
+    {
+      "en": "The spy had to shred the secret message after reading it.",
+      "pt": "O espião teve que triturar a mensagem secreta depois de lê-la."
+    },
+    {
+      "en": "She examined every shred of the contract before signing.",
+      "pt": "Ela examinou cada detalhe do contrato antes de assinar."
+    },
+    {
+      "en": "His new art installation was shredded as being pretentious.",
+      "pt": "Sua nova instalação de arte foi criticada como sendo pretensiosa."
+    },
+    {
+      "en": "The best way to make pulled pork is to cook it slowly until you can shred it.",
+      "pt": "A melhor maneira de fazer carne de porco desfiada é cozinhá-la lentamente até que você possa desfiá-la."
+    },
+    {
+      "en": "The city's plan for the new stadium was torn to shreds by community groups.",
+      "pt": "O plano da cidade para o novo estádio foi rechaçado por grupos comunitários."
+    },
+    {
+      "en": "He spent the afternoon shredding a huge pile of documents.",
+      "pt": "Ele passou a tarde triturando uma pilha enorme de documentos."
+    },
+    {
+      "en": "Not a shred of her testimony could be verified.",
+      "pt": "Nenhum fragmento de seu depoimento pôde ser verificado."
+    },
+    {
+      "en": "The author's first draft was shredded by his editor, forcing him to start over.",
+      "pt": "O primeiro rascunho do autor foi massacrado por seu editor, forçando-o a recomeçar."
+    },
+    {
+      "en": "The cat's claws can shred the furniture if you're not careful.",
+      "pt": "As garras do gato podem rasgar os móveis se você não tomar cuidado."
+    },
+    {
+      "en": "That skater can shred; he makes difficult tricks look easy.",
+      "pt": "Aquele skatista manda muito bem; ele faz manobras difíceis parecerem fáceis."
+    },
+    {
+      "en": "I need to buy a new shredder; this one keeps overheating.",
+      "pt": "Preciso comprar um novo triturador; este aqui vive superaquecendo."
+    },
+    {
+      "en": "He delivered the bad news without a shred of compassion.",
+      "pt": "Ele deu a má notícia sem um pingo de compaixão."
+    },
+    {
+      "en": "The celebrity's attempt at a singing career was shredded by the public.",
+      "pt": "A tentativa da celebridade de uma carreira de cantora foi ridicularizada pelo público."
+    },
+    {
+      "en": "She uses a mandoline to shred cabbage very thinly.",
+      "pt": "Ela usa um mandoline para fatiar repolho bem fininho."
+    },
+    {
+      "en": "The peace treaty was torn to shreds by the surprise attack.",
+      "pt": "O tratado de paz foi rompido pelo ataque surpresa."
+    },
+    {
+      "en": "All the kids in the neighborhood gathered to watch him shred on his BMX bike.",
+      "pt": "Todas as crianças do bairro se reuniram para vê-lo arrebentar em sua bicicleta de BMX."
+    },
+    {
+      "en": "The financial records must be kept for seven years before you can shred them.",
+      "pt": "Os registros financeiros devem ser guardados por sete anos antes que você possa triturá-los."
+    },
+    {
+      "en": "She held on to the last shred of her argument, even when it was clear she was wrong.",
+      "pt": "Ela se agarrou ao último resquício de seu argumento, mesmo quando estava claro que ela estava errada."
+    },
+    {
+      "en": "His performance in the play was shredded by the local theater critic.",
+      "pt": "Sua atuação na peça foi massacrada pelo crítico de teatro local."
+    },
+    {
+      "en": "The machine that shreds old cars is impressive to watch.",
+      "pt": "A máquina que tritura carros velhos é impressionante de se ver."
+    },
+    {
+      "en": "After hours of practice, he could finally shred the difficult guitar riff.",
+      "pt": "Após horas de prática, ele finalmente conseguiu tocar o riff de guitarra difícil com perfeição."
+    },
+    {
+      "en": "The recycling program asks residents to shred their cardboard boxes.",
+      "pt": "O programa de reciclagem pede aos moradores para rasgarem suas caixas de papelão."
+    },
+    {
+      "en": "There wasn't a shred of food left in the house.",
+      "pt": "Não havia um pingo de comida na casa."
+    },
+    {
+      "en": "The company's apology was shredded by customers as being insincere.",
+      "pt": "O pedido de desculpas da empresa foi criticado pelos clientes como sendo insincero."
+    },
+    {
+      "en": "We topped the casserole with shredded cheese and breadcrumbs.",
+      "pt": "Cobrimos a caçarola com queijo ralado e farinha de rosca."
+    },
+    {
+      "en": "The politician's credibility was in shreds after the scandal broke.",
+      "pt": "A credibilidade do político estava em frangalhos depois que o escândalo estourou."
+    },
+    {
+      "en": "Did you see that skier shred the black diamond trail?",
+      "pt": "Você viu aquele esquiador arrebentar na pista preta?"
+    },
+    {
+      "en": "It is a legal requirement for our department to shred these files.",
+      "pt": "É uma exigência legal para o nosso departamento triturar estes arquivos."
+    },
+    {
+      "en": "He searched the room for any shred of evidence, but found nothing.",
+      "pt": "Ele procurou no quarto por qualquer fiapo de evidência, mas não encontrou nada."
+    },
+    {
+      "en": "The CEO's turnaround plan was shredded by the board of directors.",
+      "pt": "O plano de recuperação do CEO foi rechaçado pelo conselho de administração."
+    },
+    {
+      "en": "The recipe for the salad dressing requires finely shredded herbs.",
+      "pt": "A receita do molho de salada requer ervas finamente picadas."
+    },
+    {
+      "en": "The old book's pages were in shreds.",
+      "pt": "As páginas do livro antigo estavam em pedaços."
+    },
+    {
+      "en": "The band is famous for its long jams where all the members get a chance to shred.",
+      "pt": "A banda é famosa por suas longas jams onde todos os membros têm a chance de solar."
+    },
+    {
+      "en": "Remember to unplug the shredder before trying to clear a jam.",
+      "pt": "Lembre-se de desligar o triturador da tomada antes de tentar desobstruí-lo."
+    },
+    {
+      "en": "She faced the difficult situation without a shred of self-pity.",
+      "pt": "Ela enfrentou a situação difícil sem um pingo de autopiedade."
+    },
+    {
+      "en": "The government's budget proposal was shredded by the opposition party.",
+      "pt": "A proposta de orçamento do governo foi massacrada pelo partido de oposição."
+    },
+    {
+      "en": "He learned how to shred cabbage perfectly for making sauerkraut.",
+      "pt": "Ele aprendeu a fatiar repolho perfeitamente para fazer chucrute."
+    },
+    {
+      "en": "After the fight, his favorite shirt was in shreds.",
+      "pt": "Depois da briga, sua camisa favorita estava em farrapos."
+    },
+    {
+      "en": "The competition was fierce, with every surfer trying to shred harder than the last.",
+      "pt": "A competição foi acirrada, com cada surfista tentando mandar melhor que o anterior."
+    },
+    {
+      "en": "The law firm has a strict policy to shred all client documents after a case is closed.",
+      "pt": "O escritório de advocacia tem uma política rigorosa de triturar todos os documentos de clientes após o encerramento de um caso."
+    },
+    {
+      "en": "He had lost every shred of respect he once had for his boss.",
+      "pt": "Ele havia perdido todo o respeito que um dia teve por seu chefe."
+    },
+    {
+      "en": "The director's new vision for the company was shredded in his first meeting.",
+      "pt": "A nova visão do diretor para a empresa foi destruída em sua primeira reunião."
+    },
+    {
+      "en": "Shredded coconut can be toasted to bring out its flavor.",
+      "pt": "O coco ralado pode ser tostado para realçar seu sabor."
+    },
+    {
+      "en": "The country's economy was in shreds after years of civil war.",
+      "pt": "A economia do país estava em frangalhos após anos de guerra civil."
+    },
+    {
+      "en": "The young guitarist practiced for hours every day, hoping to one day shred like his heroes.",
+      "pt": "O jovem guitarrista praticava por horas todos os dias, na esperança de um dia solar como seus heróis."
+    },
+    {
+      "en": "The machine is designed to shred confidential information securely.",
+      "pt": "A máquina é projetada para triturar informações confidenciais com segurança."
+    },
+    {
+      "en": "There was not a shred of doubt in her mind that she was making the right decision.",
+      "pt": "Não havia a menor sombra de dúvida em sua mente de que ela estava tomando a decisão certa."
+    },
+    {
+      "en": "The quarterback's performance was shredded by sports commentators the next day.",
+      "pt": "O desempenho do quarterback foi massacrado pelos comentaristas esportivos no dia seguinte."
+    },
+    {
+      "en": "The chef carefully shredded the mint leaves to garnish the dish.",
+      "pt": "O chef picou cuidadosamente as folhas de hortelã para decorar o prato."
+    }
+  ],
+  "pronunciationExercises": [
+    {
+      "question": "shred",
+      "options": [
+        "shred",
+        "shed"
+      ],
+      "correct": "shred"
+    },
+    {
+      "question": "shred",
+      "options": [
+        "shared",
+        "shred"
+      ],
+      "correct": "shred"
+    },
+    {
+      "question": "shred",
+      "options": [
+        "shred",
+        "dread"
+      ],
+      "correct": "shred"
+    },
+    {
+      "question": "shred",
+      "options": [
+        "thread",
+        "shred"
+      ],
+      "correct": "shred"
+    },
+    {
+      "question": "shred",
+      "options": [
+        "shred",
+        "bread"
+      ],
+      "correct": "shred"
+    },
+    {
+      "question": "shred",
+      "options": [
+        "spread",
+        "shred"
+      ],
+      "correct": "shred"
+    },
+    {
+      "question": "shred",
+      "options": [
+        "shred",
+        "read"
+      ],
+      "correct": "shred"
+    },
+    {
+      "question": "shred",
+      "options": [
+        "red",
+        "shred"
+      ],
+      "correct": "shred"
+    },
+    {
+      "question": "shred",
+      "options": [
+        "shred",
+        "shrewd"
+      ],
+      "correct": "shred"
+    },
+    {
+      "question": "shred",
+      "options": [
+        "said",
+        "shred"
+      ],
+      "correct": "shred"
+    },
+    {
+      "question": "shred",
+      "options": [
+        "shred",
+        "instead"
+      ],
+      "correct": "shred"
+    },
+    {
+      "question": "shred",
+      "options": [
+        "head",
+        "shred"
+      ],
+      "correct": "shred"
+    },
+    {
+      "question": "shred",
+      "options": [
+        "shred",
+        "fed"
+      ],
+      "correct": "shred"
+    },
+    {
+      "question": "shred",
+      "options": [
+        "led",
+        "shred"
+      ],
+      "correct": "shred"
+    },
+    {
+      "question": "shred",
+      "options": [
+        "shred",
+        "bled"
+      ],
+      "correct": "shred"
+    }
+  ]
+}
