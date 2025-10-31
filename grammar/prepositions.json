@@ -1,0 +1,36 @@
+[
+  {
+    "id": "prep_001",
+    "topic": "Prepositions (in, on, at)",
+    "level": "beginner",
+    "sentence": "The meeting is on Monday.",
+    "target_word": "on",
+    "distractors": ["in", "at", "the"]
+  },
+  {
+    "id": "prep_002",
+    "topic": "Prepositions (in, on, at)",
+    "level": "beginner",
+    "sentence": "She lives in London.",
+    "target_word": "in",
+    "distractors": ["on", "at", "live"]
+  },
+  {
+    "id": "prep_003",
+    "topic": "Prepositions (in, on, at)",
+    "level": "beginner",
+    "sentence": "He is waiting at the bus stop.",
+    "target_word": "at",
+    "distractors": ["in", "on", "wait"]
+  },
+  {
+    "id": "prep_004",
+    "topic": "Prepositions (in, on, at)",
+    "level": "beginner",
+    "sentence": "The keys are on the table.",
+    "target_word": "on",
+    "distractors": ["in", "at", "key"]
+  }
+]
+
+
