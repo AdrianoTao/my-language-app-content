@@ -1,0 +1,35 @@
+[
+  {
+    "id": "verb_001",
+    "topic": "Present Simple",
+    "level": "beginner",
+    "sentence": "She works in an office.",
+    "target_word": "works",
+    "distractors": ["work", "working", "is"]
+  },
+  {
+    "id": "verb_002",
+    "topic": "Present Continuous",
+    "level": "beginner",
+    "sentence": "They are playing soccer.",
+    "target_word": "are playing",
+    "distractors": ["play", "plays", "is playing"]
+  },
+  {
+    "id": "verb_003",
+    "topic": "Past Simple",
+    "level": "beginner",
+    "sentence": "I went to the store yesterday.",
+    "target_word": "went",
+    "distractors": ["go", "gone", "was"]
+  },
+  {
+    "id": "verb_004",
+    "topic": "Present Simple",
+    "level": "beginner",
+    "sentence": "The sun rises in the east.",
+    "target_word": "rises",
+    "distractors": ["rise", "is rising", "rose"]
+  }
+]
+
