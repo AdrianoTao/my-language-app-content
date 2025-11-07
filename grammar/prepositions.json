@@ -2,34 +2,98 @@
   {
     "id": "prep_001",
     "topic": "Prepositions (in, on, at)",
-    "level": "beginner",
     "sentence": "The meeting is on Monday.",
+    "pt": "A reunião é na segunda-feira.",
     "target_word": "on",
-    "distractors": ["in", "at", "the"]
+    "distractors": ["in", "at"]
   },
   {
     "id": "prep_002",
     "topic": "Prepositions (in, on, at)",
-    "level": "beginner",
-    "sentence": "She lives in London.",
+    "sentence": "The cat is in the box.",
+    "pt": "O gato está na caixa.",
     "target_word": "in",
-    "distractors": ["on", "at", "live"]
+    "distractors": ["on", "at"]
   },
   {
     "id": "prep_003",
     "topic": "Prepositions (in, on, at)",
-    "level": "beginner",
-    "sentence": "He is waiting at the bus stop.",
+    "sentence": "The movie starts at 9 PM.",
+    "pt": "O filme começa às 21h.",
     "target_word": "at",
-    "distractors": ["in", "on", "wait"]
+    "distractors": ["in", "on"]
   },
   {
     "id": "prep_004",
     "topic": "Prepositions (in, on, at)",
-    "level": "beginner",
-    "sentence": "The keys are on the table.",
+    "sentence": "The book is on the table.",
+    "pt": "O livro está na mesa.",
     "target_word": "on",
-    "distractors": ["in", "at", "key"]
+    "distractors": ["in", "at"]
+  },
+  {
+    "id": "prep_005",
+    "topic": "Prepositions (in, on, at)",
+    "sentence": "She lives in London.",
+    "pt": "Ela mora em Londres.",
+    "target_word": "in",
+    "distractors": ["on", "at"]
+  },
+  {
+    "id": "prep_006",
+    "topic": "Prepositions (in, on, at)",
+    "sentence": "He is waiting at the bus stop.",
+    "pt": "Ele está esperando no ponto de ônibus.",
+    "target_word": "at",
+    "distractors": ["in", "on"]
+  },
+  {
+    "id": "prep_007",
+    "topic": "Prepositions (in, on, at)",
+    "sentence": "The clock is on the wall.",
+    "pt": "O relógio está na parede.",
+    "target_word": "on",
+    "distractors": ["in", "at"]
+  },
+  {
+    "id": "prep_008",
+    "topic": "Prepositions (in, on, at)",
+    "sentence": "My birthday is in July.",
+    "pt": "Meu aniversário é em julho.",
+    "target_word": "in",
+    "distractors": ["on", "at"]
+  },
+  {
+    "id": "prep_009",
+    "topic": "Prepositions (in, on, at)",
+    "sentence": "He is at home now.",
+    "pt": "Ele está em casa agora.",
+    "target_word": "at",
+    "distractors": ["in", "on"]
+  },
+  {
+    "id": "prep_010",
+    "topic": "Prepositions (in, on, at)",
+    "sentence": "She is on the bus.",
+    "pt": "Ela está no ônibus.",
+    "target_word": "on",
+    "distractors": ["in", "at"]
+  },
+  {
+    "id": "prep_011",
+    "topic": "Prepositions (in, on, at)",
+    "sentence": "They will travel in 2025.",
+    "pt": "Eles vão viajar em 2025.",
+    "target_word": "in",
+    "distractors": ["on", "at"]
+  },
+  {
+    "id": "prep_012",
+    "topic": "Prepositions (in, on, at)",
+    "sentence": "The children are at school.",
+    "pt": "As crianças estão na escola.",
+    "target_word": "at",
+    "distractors": ["in", "on"]
   }
 ]
 
