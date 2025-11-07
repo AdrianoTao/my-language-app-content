@@ -2,7 +2,7 @@
   {
     "id": "prep_c1_001",
     "topic": "Prepositions (C1/C2 Collocations)",
-    "sentence": "The new policy is in direct contravention ___ our agreement.",
+    "sentence": "The new policy is in direct contravention of our agreement.",
     "pt": "A nova política está em contravenção direta ao nosso acordo.",
     "target_word": "of",
     "distractors": ["to", "with"]
@@ -10,153 +10,153 @@
   {
     "id": "prep_c1_002",
     "topic": "Prepositions (C1/C2 Collocations)",
-    "sentence": "His theories are completely at odds ___ the available evidence.",
-    "pt": "Suas teorias estão em completo desacordo com as evidências disponíveis.",
-    "target_word": "with",
-    "distractors": ["to", "by"]
-  },
-  {
-    "id": "prep_c1_003",
-    "topic": "Prepositions (C1/C2 Collocations)",
-    "sentence": "The committee was heavily biased ___ the CEO's proposal.",
-    "pt": "O comitê estava fortemente inclinado à proposta do CEO.",
-    "target_word": "towards",
-    "distractors": ["against", "on"]
-  },
-  {
-    "id": "prep_c1_004",
-    "topic": "Prepositions (C1/C2 Collocations)",
-    "sentence": "She prides herself ___ her ability to speak five languages fluently.",
-    "pt": "Ela se orgulha de sua habilidade de falar cinco idiomas fluentemente.",
-    "target_word": "on",
-    "distractors": ["in", "for"]
-  },
-  {
-    "id": "prep_c1_005",
-    "topic": "Prepositions (C1/C2 Collocations)",
-    "sentence": "The sculpture was created ___ homage to the city's founder.",
-    "pt": "A escultura foi criada em homenagem ao fundador da cidade.",
-    "target_word": "in",
-    "distractors": ["as", "with"]
-  },
-  {
-    "id": "prep_c1_006",
-    "topic": "Prepositions (C1/C2 Collocations)",
-    "sentence": "The ecosystem is susceptible ___ collapse after such a severe drought.",
-    "pt": "O ecossistema está suscetível ao colapso após uma seca tão severa.",
-    "target_word": "to",
-    "distractors": ["of", "for"]
-  },
-  {
-    "id": "prep_c1_007",
-    "topic": "Prepositions (C1/C2 Collocations)",
-    "sentence": "His remarks were tantamount ___ a declaration of war.",
-    "pt": "Seus comentários foram equivalentes a uma declaração de guerra.",
-    "target_word": "to",
-    "distractors": ["with", "as"]
-  },
-  {
-    "id": "prep_c1_008",
-    "topic": "Prepositions (C1/C2 Collocations)",
-    "sentence": "The ancient text is replete ___ historical inaccuracies.",
-    "pt": "O texto antigo está repleto de imprecisões históricas.",
-    "target_word": "with",
-    "distractors": ["of", "in"]
-  },
-  {
-    "id": "prep_c1_009",
-    "topic": "Prepositions (C1/C2 Collocations)",
-    "sentence": "The politician was implicated ___ the bribery scandal.",
-    "pt": "O político estava implicado no escândalo de suborno.",
-    "target_word": "in",
-    "distractors": ["on", "by"]
-  },
-  {
-    "id": "prep_c1_010",
-    "topic": "Prepositions (C1/C2 Collocations)",
-    "sentence": "This new research impinges ___ several established scientific principles.",
-    "pt": "Esta nova pesquisa incide sobre vários princípios científicos estabelecidos.",
-    "target_word": "on",
-    "distractors": ["with", "against"]
-  },
-  {
-    "id": "prep_c1_011",
-    "topic": "Prepositions (C1/C2 Collocations)",
-    "sentence": "He was completely oblivious ___ the danger he was in.",
-    "pt": "Ele estava completamente alheio ao perigo em que se encontrava.",
+    "sentence": "She is totally oblivious to the effect her comments have.",
+    "pt": "Ela é totalmente alheia ao efeito que seus comentários têm.",
     "target_word": "to",
     "distractors": ["of", "about"]
   },
   {
+    "id": "prep_c1_003",
+    "topic": "Prepositions (C1/C2 Collocations)",
+    "sentence": "The artist prides himself on his meticulous attention to detail.",
+    "pt": "O artista se orgulha de sua atenção meticulosa aos detalhes.",
+    "target_word": "on",
+    "distractors": ["in", "for"]
+  },
+  {
+    "id": "prep_c1_004",
+    "topic": "Prepositions (C1/C2 Collocations)",
+    "sentence": "This discovery could be a precursor to a new era in medicine.",
+    "pt": "Esta descoberta pode ser um precursor de uma nova era na medicina.",
+    "target_word": "to",
+    "distractors": ["of", "for"]
+  },
+  {
+    "id": "prep_c1_005",
+    "topic": "Prepositions (C1/C2 Collocations)",
+    "sentence": "The committee's findings are at variance with the published data.",
+    "pt": "As conclusões do comitê estão em desacordo com os dados publicados.",
+    "target_word": "with",
+    "distractors": ["from", "to"]
+  },
+  {
+    "id": "prep_c1_006",
+    "topic": "Prepositions (C1/C2 Collocations)",
+    "sentence": "He was held accountable for the company's sudden decline.",
+    "pt": "Ele foi responsabilizado pelo declínio repentino da empresa.",
+    "target_word": "for",
+    "distractors": ["to", "by"]
+  },
+  {
+    "id": "prep_c1_007",
+    "topic": "Prepositions (C1/C2 Collocations)",
+    "sentence": "The new law is not applicable to foreign diplomats.",
+    "pt": "A nova lei não é aplicável a diplomatas estrangeiros.",
+    "target_word": "to",
+    "distractors": ["for", "with"]
+  },
+  {
+    "id": "prep_c1_008",
+    "topic": "Prepositions (C1/C2 Collocations)",
+    "sentence": "His apathy is indicative of a much deeper problem.",
+    "pt": "Sua apatia é indicativa de um problema muito mais profundo.",
+    "target_word": "of",
+    "distractors": ["to", "for"]
+  },
+  {
+    "id": "prep_c1_009",
+    "topic": "Prepositions (C1/C2 Collocations)",
+    "sentence": "The government has come under fire for its handling of the crisis.",
+    "pt": "O governo foi alvo de críticas por sua gestão da crise.",
+    "target_word": "under",
+    "distractors": ["on", "in"]
+  },
+  {
+    "id": "prep_c1_010",
+    "topic": "Prepositions (C1/C2 Collocations)",
+    "sentence": "I am not averse to the idea of moving abroad.",
+    "pt": "Não sou avesso à ideia de me mudar para o exterior.",
+    "target_word": "to",
+    "distractors": ["of", "with"]
+  },
+  {
+    "id": "prep_c1_011",
+    "topic": "Prepositions (C1/C2 Collocations)",
+    "sentence": "The defendant was acquitted of all charges.",
+    "pt": "O réu foi absolvido de todas as acusações.",
+    "target_word": "of",
+    "distractors": ["from", "by"]
+  },
+  {
     "id": "prep_c1_012",
     "topic": "Prepositions (C1/C2 Collocations)",
-    "sentence": "The film is indicative ___ a shift in public opinion.",
-    "pt": "O filme é indicativo de uma mudança na opinião pública.",
-    "target_word": "of",
-    "distractors": ["for", "to"]
+    "sentence": "The team's strategy is predicated on a quick counter-attack.",
+    "pt": "A estratégia da equipe está baseada em um contra-ataque rápido.",
+    "target_word": "on",
+    "distractors": ["in", "by"]
   },
   {
     "id": "prep_c1_013",
     "topic": "Prepositions (C1/C2 Collocations)",
-    "sentence": "The children were totally engrossed ___ the animated movie.",
-    "pt": "As crianças estavam totalmente absortas no filme de animação.",
+    "sentence": "We must remain steadfast in our commitment to equality.",
+    "pt": "Devemos permanecer firmes em nosso compromisso com a igualdade.",
     "target_word": "in",
-    "distractors": ["by", "with"]
+    "distractors": ["on", "to"]
   },
   {
     "id": "prep_c1_014",
     "topic": "Prepositions (C1/C2 Collocations)",
-    "sentence": "The treaty prohibits any interference ___ the internal affairs of another country.",
-    "pt": "O tratado proíbe qualquer interferência nos assuntos internos de outro país.",
-    "target_word": "in",
-    "distractors": ["on", "with"]
+    "sentence": "His arguments are devoid of any logical coherence.",
+    "pt": "Seus argumentos são desprovidos de qualquer coerência lógica.",
+    "target_word": "of",
+    "distractors": ["from", "in"]
   },
   {
     "id": "prep_c1_015",
     "topic": "Prepositions (C1/C2 Collocations)",
-    "sentence": "She has always shown a remarkable aptitude ___ mathematics.",
-    "pt": "Ela sempre demonstrou uma aptidão notável para a matemática.",
+    "sentence": "The museum is renowned for its collection of impressionist art.",
+    "pt": "O museu é renomado por sua coleção de arte impressionista.",
     "target_word": "for",
-    "distractors": ["in", "at"]
+    "distractors": ["by", "with"]
   },
   {
     "id": "prep_c1_016",
     "topic": "Prepositions (C1/C2 Collocations)",
-    "sentence": "The journalist was held ___ contempt of court for refusing to name her source.",
-    "pt": "A jornalista foi detida por desacato ao tribunal por se recusar a revelar sua fonte.",
-    "target_word": "in",
-    "distractors": ["under", "with"]
+    "sentence": "The lecture was interspersed with anecdotes from his time in Africa.",
+    "pt": "A palestra foi intercalada com anedotas de seu tempo na África.",
+    "target_word": "with",
+    "distractors": ["by", "in"]
   },
   {
     "id": "prep_c1_017",
     "topic": "Prepositions (C1/C2 Collocations)",
-    "sentence": "This decision is inconsistent ___ the company's stated values.",
-    "pt": "Esta decisão é inconsistente com os valores declarados da empresa.",
-    "target_word": "with",
-    "distractors": ["to", "of"]
+    "sentence": "He is incumbent upon all of us to protect the environment.",
+    "pt": "Incumbe a todos nós proteger o meio ambiente.",
+    "target_word": "upon",
+    "distractors": ["for", "to"]
   },
   {
     "id": "prep_c1_018",
     "topic": "Prepositions (C1/C2 Collocations)",
-    "sentence": "The new evidence absolved him ___ all blame.",
-    "pt": "As novas evidências o absolveram de toda a culpa.",
-    "target_word": "of",
-    "distractors": ["from", "with"]
+    "sentence": "The lawyer's plea for mercy resonated with the jury.",
+    "pt": "O apelo do advogado por misericórdia ressoou com o júri.",
+    "target_word": "with",
+    "distractors": ["to", "in"]
   },
   {
     "id": "prep_c1_019",
     "topic": "Prepositions (C1/C2 Collocations)",
-    "sentence": "The government's actions are ___ variance with its promises.",
-    "pt": "As ações do governo estão em desacordo com suas promessas.",
-    "target_word": "at",
-    "distractors": ["in", "on"]
+    "sentence": "This new evidence is compatible with the original hypothesis.",
+    "pt": "Esta nova evidência é compatível com a hipótese original.",
+    "target_word": "with",
+    "distractors": ["to", "of"]
   },
   {
     "id": "prep_c1_020",
     "topic": "Prepositions (C1/C2 Collocations)",
-    "sentence": "We must be vigilant ___ attempts to undermine our democracy.",
-    "pt": "Devemos estar vigilantes contra tentativas de minar nossa democracia.",
-    "target_word": "against",
-    "distractors": ["for", "about"]
+    "sentence": "The children are wholly dependent on their parents for survival.",
+    "pt": "As crianças são totalmente dependentes de seus pais para sobreviver.",
+    "target_word": "on",
+    "distractors": ["of", "from"]
   }
 ]
