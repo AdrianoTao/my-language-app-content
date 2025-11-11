@@ -1,162 +1,162 @@
 [
   {
-    "id": "prep_c1_001",
-    "topic": "Prepositions (C1/C2 Collocations)",
-    "sentence": "The new policy is in direct contravention of our agreement.",
-    "pt": "A nova política está em contravenção direta ao nosso acordo.",
-    "target_word": "of",
-    "distractors": ["to", "with"]
-  },
-  {
-    "id": "prep_c1_002",
-    "topic": "Prepositions (C1/C2 Collocations)",
-    "sentence": "She is totally oblivious to the effect her comments have.",
-    "pt": "Ela é totalmente alheia ao efeito que seus comentários têm.",
-    "target_word": "to",
-    "distractors": ["of", "about"]
-  },
-  {
-    "id": "prep_c1_003",
-    "topic": "Prepositions (C1/C2 Collocations)",
-    "sentence": "The artist prides himself on his meticulous attention to detail.",
-    "pt": "O artista se orgulha de sua atenção meticulosa aos detalhes.",
+    "id": "prep_b2c1_001",
+    "topic": "Intermediate/Advanced Prepositions",
+    "sentence": "The success of the project depends entirely on the team's effort.",
+    "pt": "O sucesso do projeto depende inteiramente do esforço da equipe.",
     "target_word": "on",
-    "distractors": ["in", "for"]
+    "distractors": ["in", "of"]
   },
   {
-    "id": "prep_c1_004",
-    "topic": "Prepositions (C1/C2 Collocations)",
-    "sentence": "This discovery could be a precursor to a new era in medicine.",
-    "pt": "Esta descoberta pode ser um precursor de uma nova era na medicina.",
-    "target_word": "to",
-    "distractors": ["of", "for"]
+    "id": "prep_b2c1_002",
+    "topic": "Intermediate/Advanced Prepositions",
+    "sentence": "Are you genuinely interested in applying for this position?",
+    "pt": "Você está genuinamente interessado em se candidatar a esta vaga?",
+    "target_word": "in",
+    "distractors": ["about", "for"]
   },
   {
-    "id": "prep_c1_005",
-    "topic": "Prepositions (C1/C2 Collocations)",
-    "sentence": "The committee's findings are at variance with the published data.",
-    "pt": "As conclusões do comitê estão em desacordo com os dados publicados.",
-    "target_word": "with",
-    "distractors": ["from", "to"]
-  },
-  {
-    "id": "prep_c1_006",
-    "topic": "Prepositions (C1/C2 Collocations)",
-    "sentence": "He was held accountable for the company's sudden decline.",
-    "pt": "Ele foi responsabilizado pelo declínio repentino da empresa.",
-    "target_word": "for",
-    "distractors": ["to", "by"]
-  },
-  {
-    "id": "prep_c1_007",
-    "topic": "Prepositions (C1/C2 Collocations)",
-    "sentence": "The new law is not applicable to foreign diplomats.",
-    "pt": "A nova lei não é aplicável a diplomatas estrangeiros.",
-    "target_word": "to",
+    "id": "prep_b2c1_003",
+    "topic": "Intermediate/Advanced Prepositions",
+    "sentence": "The manager was accused of stealing money from the company.",
+    "pt": "O gerente foi acusado de roubar dinheiro da empresa.",
+    "target_word": "of",
     "distractors": ["for", "with"]
   },
   {
-    "id": "prep_c1_008",
-    "topic": "Prepositions (C1/C2 Collocations)",
-    "sentence": "His apathy is indicative of a much deeper problem.",
-    "pt": "Sua apatia é indicativa de um problema muito mais profundo.",
-    "target_word": "of",
-    "distractors": ["to", "for"]
+    "id": "prep_b2c1_004",
+    "topic": "Intermediate/Advanced Prepositions",
+    "sentence": "The bad weather prevented them from finishing the game.",
+    "pt": "O mau tempo os impediu de terminar o jogo.",
+    "target_word": "from",
+    "distractors": ["to", "against"]
   },
   {
-    "id": "prep_c1_009",
-    "topic": "Prepositions (C1/C2 Collocations)",
-    "sentence": "The government has come under fire for its handling of the crisis.",
-    "pt": "O governo foi alvo de críticas por sua gestão da crise.",
-    "target_word": "under",
-    "distractors": ["on", "in"]
-  },
-  {
-    "id": "prep_c1_010",
-    "topic": "Prepositions (C1/C2 Collocations)",
-    "sentence": "I am not averse to the idea of moving abroad.",
-    "pt": "Não sou avesso à ideia de me mudar para o exterior.",
-    "target_word": "to",
-    "distractors": ["of", "with"]
-  },
-  {
-    "id": "prep_c1_011",
-    "topic": "Prepositions (C1/C2 Collocations)",
-    "sentence": "The defendant was acquitted of all charges.",
-    "pt": "O réu foi absolvido de todas as acusações.",
-    "target_word": "of",
-    "distractors": ["from", "by"]
-  },
-  {
-    "id": "prep_c1_012",
-    "topic": "Prepositions (C1/C2 Collocations)",
-    "sentence": "The team's strategy is predicated on a quick counter-attack.",
-    "pt": "A estratégia da equipe está baseada em um contra-ataque rápido.",
-    "target_word": "on",
-    "distractors": ["in", "by"]
-  },
-  {
-    "id": "prep_c1_013",
-    "topic": "Prepositions (C1/C2 Collocations)",
-    "sentence": "We must remain steadfast in our commitment to equality.",
-    "pt": "Devemos permanecer firmes em nosso compromisso com a igualdade.",
-    "target_word": "in",
-    "distractors": ["on", "to"]
-  },
-  {
-    "id": "prep_c1_014",
-    "topic": "Prepositions (C1/C2 Collocations)",
-    "sentence": "His arguments are devoid of any logical coherence.",
-    "pt": "Seus argumentos são desprovidos de qualquer coerência lógica.",
-    "target_word": "of",
-    "distractors": ["from", "in"]
-  },
-  {
-    "id": "prep_c1_015",
-    "topic": "Prepositions (C1/C2 Collocations)",
-    "sentence": "The museum is renowned for its collection of impressionist art.",
-    "pt": "O museu é renomado por sua coleção de arte impressionista.",
+    "id": "prep_b2c1_005",
+    "topic": "Intermediate/Advanced Prepositions",
+    "sentence": "As the team leader, you are responsible for the final report.",
+    "pt": "Como líder da equipe, você é responsável pelo relatório final.",
     "target_word": "for",
-    "distractors": ["by", "with"]
+    "distractors": ["to", "with"]
   },
   {
-    "id": "prep_c1_016",
-    "topic": "Prepositions (C1/C2 Collocations)",
-    "sentence": "The lecture was interspersed with anecdotes from his time in Africa.",
-    "pt": "A palestra foi intercalada com anedotas de seu tempo na África.",
+    "id": "prep_b2c1_006",
+    "topic": "Intermediate/Advanced Prepositions",
+    "sentence": "After many attempts, he finally succeeded in passing the exam.",
+    "pt": "Após muitas tentativas, ele finalmente conseguiu passar no exame.",
+    "target_word": "in",
+    "distractors": ["on", "at"]
+  },
+  {
+    "id": "prep_b2c1_007",
+    "topic": "Intermediate/Advanced Prepositions",
+    "sentence": "She was extremely proud of her achievements at the new job.",
+    "pt": "Ela estava extremamente orgulhosa de suas conquistas no novo emprego.",
+    "target_word": "of",
+    "distractors": ["for", "with"]
+  },
+  {
+    "id": "prep_b2c1_008",
+    "topic": "Intermediate/Advanced Prepositions",
+    "sentence": "He's very good at negotiating contracts with new clients.",
+    "pt": "Ele é muito bom em negociar contratos com novos clientes.",
+    "target_word": "at",
+    "distractors": ["in", "on"]
+  },
+  {
+    "id": "prep_b2c1_009",
+    "topic": "Intermediate/Advanced Prepositions",
+    "sentence": "You need to apologize to her for being so rude.",
+    "pt": "Você precisa pedir desculpas a ela por ser tão rude.",
+    "target_word": "for",
+    "distractors": ["about", "with"]
+  },
+  {
+    "id": "prep_b2c1_010",
+    "topic": "Intermediate/Advanced Prepositions",
+    "sentence": "I don't believe in spending money on things I don't need.",
+    "pt": "Eu não acredito em gastar dinheiro com coisas que não preciso.",
+    "target_word": "in",
+    "distractors": ["on", "at"]
+  },
+  {
+    "id": "prep_b2c1_011",
+    "topic": "Intermediate/Advanced Prepositions",
+    "sentence": "The new software update consists of three main features.",
+    "pt": "A nova atualização de software consiste em três recursos principais.",
+    "target_word": "of",
+    "distractors": ["with", "in"]
+  },
+  {
+    "id": "prep_b2c1_012",
+    "topic": "Intermediate/Advanced Prepositions",
+    "sentence": "We need to find a better way to deal with customer complaints.",
+    "pt": "Precisamos encontrar uma maneira melhor de lidar com as reclamações dos clientes.",
     "target_word": "with",
-    "distractors": ["by", "in"]
+    "distractors": ["on", "about"]
   },
   {
-    "id": "prep_c1_017",
-    "topic": "Prepositions (C1/C2 Collocations)",
-    "sentence": "He is incumbent upon all of us to protect the environment.",
-    "pt": "Incumbe a todos nós proteger o meio ambiente.",
-    "target_word": "upon",
-    "distractors": ["for", "to"]
-  },
-  {
-    "id": "prep_c1_018",
-    "topic": "Prepositions (C1/C2 Collocations)",
-    "sentence": "The lawyer's plea for mercy resonated with the jury.",
-    "pt": "O apelo do advogado por misericórdia ressoou com o júri.",
-    "target_word": "with",
-    "distractors": ["to", "in"]
-  },
-  {
-    "id": "prep_c1_019",
-    "topic": "Prepositions (C1/C2 Collocations)",
-    "sentence": "This new evidence is compatible with the original hypothesis.",
-    "pt": "Esta nova evidência é compatível com a hipótese original.",
-    "target_word": "with",
-    "distractors": ["to", "of"]
-  },
-  {
-    "id": "prep_c1_020",
-    "topic": "Prepositions (C1/C2 Collocations)",
-    "sentence": "The children are wholly dependent on their parents for survival.",
-    "pt": "As crianças são totalmente dependentes de seus pais para sobreviver.",
+    "id": "prep_b2c1_013",
+    "topic": "Intermediate/Advanced Prepositions",
+    "sentence": "It's difficult to concentrate on work when there is so much noise.",
+    "pt": "É difícil se concentrar no trabalho quando há tanto barulho.",
     "target_word": "on",
-    "distractors": ["of", "from"]
+    "distractors": ["in", "at"]
+  },
+  {
+    "id": "prep_b2c1_014",
+    "topic": "Intermediate/Advanced Prepositions",
+    "sentence": "He's always complaining about the amount of work he has.",
+    "pt": "Ele está sempre reclamando da quantidade de trabalho que tem.",
+    "target_word": "about",
+    "distractors": ["for", "of"]
+  },
+  {
+    "id": "prep_b2c1_015",
+    "topic": "Intermediate/Advanced Prepositions",
+    "sentence": "Her parents don't approve of her decision to quit university.",
+    "pt": "Os pais dela não aprovam a decisão dela de largar a universidade.",
+    "target_word": "of",
+    "distractors": ["with", "on"]
+  },
+  {
+    "id": "prep_b2c1_016",
+    "topic": "Intermediate/Advanced Prepositions",
+    "sentence": "She insisted on paying for the entire meal herself.",
+    "pt": "Ela insistiu em pagar pela refeição inteira sozinha.",
+    "target_word": "on",
+    "distractors": ["in", "to"]
+  },
+  {
+    "id": "prep_b2c1_017",
+    "topic": "Intermediate/Advanced Prepositions",
+    "sentence": "This region of Brazil is famous for its excellent coffee.",
+    "pt": "Esta região do Brasil é famosa por seu excelente café.",
+    "target_word": "for",
+    "distractors": ["with", "by"]
+  },
+  {
+    "id": "prep_b2c1_018",
+    "topic": "Intermediate/Advanced Prepositions",
+    "sentence": "His new proposal is very different from the previous one.",
+    "pt": "A nova proposta dele é muito diferente da anterior.",
+    "target_word": "from",
+    "distractors": ["of", "than"]
+  },
+  {
+    "id":Z "prep_b2c1_019",
+    "topic": "Intermediate/Advanced Prepositions",
+    "sentence": "We are really looking forward to meeting the new team.",
+    "pt": "Estamos muito ansiosos para conhecer a nova equipe.",
+    "target_word": "to",
+    "distractors": ["for", "at"]
+  },
+  {
+    "id": "prep_b2c1_020",
+    "topic": "Intermediate/Advanced Prepositions",
+    "sentence": "She is finding it hard to cope with the pressure of her new role.",
+    "pt": "Ela está achando difícil lidar com a pressão de seu novo cargo.",
+    "target_word": "with",
+    "distractors": ["on", "about"]
   }
 ]
