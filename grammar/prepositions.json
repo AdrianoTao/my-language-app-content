@@ -158,5 +158,2805 @@
     "pt": "Ela está achando difícil lidar com a pressão de seu novo cargo.",
     "target_word": "with",
     "distractors": ["on", "about"]
+  },
+  {
+    "id": "prep_b2c1_021",
+    "topic": "Intermediate/Advanced Prepositions",
+    "sentence": "The government is trying to protect the economy from a recession.",
+    "pt": "O governo está tentando proteger a economia de uma recessão.",
+    "target_word": "from",
+    "distractors": ["against", "of"]
+  },
+  {
+    "id": "prep_b2c1_022",
+    "topic": "Intermediate/Advanced Prepositions",
+    "sentence": "This course is suitable for students with no prior experience.",
+    "pt": "Este curso é adequado para alunos sem experiência prévia.",
+    "target_word": "for",
+    "distractors": ["to", "with"]
+  },
+  {
+    "id": "prep_b2c1_023",
+    "topic": "Intermediate/Advanced Prepositions",
+    "sentence": "You can always rely on him when you need help.",
+    "pt": "Você pode sempre confiar nele quando precisar de ajuda.",
+    "target_word": "on",
+    "distractors": ["in", "with"]
+  },
+  {
+    "id": "prep_b2c1_024",
+    "topic": "Intermediate/Advanced Prepositions",
+    "sentence": "What is the reason for this sudden change of plans?",
+    "pt": "Qual é a razão para esta mudança repentina de planos?",
+    "target_word": "for",
+    "distractors": ["of", "about"]
+  },
+  {
+    "id": "prep_b2c1_025",
+    "topic": "Intermediate/Advanced Prepositions",
+    "sentence": "I was very disappointed with the quality of the food.",
+    "pt": "Fiquei muito decepcionado com a qualidade da comida.",
+    "target_word": "with",
+    "distractors": ["about", "of"]
+  },
+  {
+    "id": "prep_b2c1_026",
+    "topic": "Intermediate/Advanced Prepositions",
+    "sentence": "It took him a long time to recover from the surgery.",
+    "pt": "Ele levou muito tempo para se recuperar da cirurgia.",
+    "target_word": "from",
+    "distractors": ["of", "off"]
+  },
+  {
+    "id": "prep_b2c1_027",
+    "topic": "Intermediate/Advanced Prepositions",
+    "sentence": "Are you aware of the risks involved in this investment?",
+    "pt": "Você está ciente dos riscos envolvidos neste investimento?",
+    "target_word": "of",
+    "distractors": ["about", "for"]
+  },
+  {
+    "id": "prep_b2c1_028",
+    "topic": "Intermediate/Advanced Prepositions",
+    "sentence": "He is often criticized for his controversial opinions.",
+    "pt": "Ele é frequentemente criticado por suas opiniões controversas.",
+    "target_word": "for",
+    "distractors": ["by", "about"]
+  },
+  {
+    "id": "prep_b2c1_029",
+    "topic": "Intermediate/Advanced Prepositions",
+    "sentence": "The police are searching for the escaped prisoner.",
+    "pt": "A polícia está procurando pelo prisioneiro foragido.",
+    "target_word": "for",
+    "distractors": ["after", "to"]
+  },
+  {
+    "id": "prep_b2c1_030",
+    "topic": "Intermediate/Advanced Prepositions",
+    "sentence": "I'm sorry, but your laptop is not covered by the warranty.",
+    "pt": "Lamento, mas seu notebook não está coberto pela garantia.",
+    "target_word": "by",
+    "distractors": ["in", "under"]
+  },
+  {
+    "id": "prep_b2c1_031",
+    "topic": "Intermediate/Advanced Prepositions",
+    "sentence": "She has a reputation for being difficult to work with.",
+    "pt": "Ela tem reputação de ser difícil de se trabalhar.",
+    "target_word": "for",
+    "distractors": ["of", "as"]
+  },
+  {
+    "id": "prep_b2c1_032",
+    "topic": "Intermediate/Advanced Prepositions",
+    "sentence": "The hotel is located within walking distance of the beach.",
+    "pt": "O hotel está localizado a uma curta distância da praia.",
+    "target_word": "of",
+    "distractors": ["from", "to"]
+  },
+  {
+    "id": "prep_b2c1_033",
+    "topic": "Intermediate/Advanced Prepositions",
+    "sentence": "He objected to the way his employees were being treated.",
+    "pt": "Ele se opôs à forma como seus funcionários estavam sendo tratados.",
+    "target_word": "to",
+    "distractors": ["against", "on"]
+  },
+  {
+    "id": "prep_b2c1_034",
+    "topic": "Intermediate/Advanced Prepositions",
+    "sentence": "His salary is not proportional to the hours he works.",
+    "pt": "O salário dele não é proporcional às horas que ele trabalha.",
+    "target_word": "to",
+    "distractors": ["with", "for"]
+  },
+  {
+    "id": "prep_b2c1_035",
+    "topic": "Intermediate/Advanced Prepositions",
+    "sentence": "The company has to adapt to the changing market conditions.",
+    "pt": "A empresa tem que se adaptar às mudanças nas condições do mercado.",
+    "target_word": "to",
+    "distractors": ["in", "with"]
+  },
+  {
+    "id": "prep_b2c1_036",
+    "topic": "Intermediate/Advanced Prepositions",
+    "sentence": "I am writing in response to your advertisement for a graphic designer.",
+    "pt": "Estou escrevendo em resposta ao seu anúncio para designer gráfico.",
+    "target_word": "to",
+    "distractors": ["about", "for"]
+  },
+  {
+    "id": "prep_b2c1_037",
+    "topic": "Intermediate/Advanced Prepositions",
+    "sentence": "She is capable of solving the problem on her own.",
+    "pt": "Ela é capaz de resolver o problema sozinha.",
+    "target_word": "of",
+    "distractors": ["to", "in"]
+  },
+  {
+    "id": "prep_b2c1_038",
+    "topic": "Intermediate/Advanced Prepositions",
+    "sentence": "The parking lot is situated behind the main building.",
+    "pt": "O estacionamento está situado atrás do prédio principal.",
+    "target_word": "behind",
+    "distractors": ["after", "in back of"]
+  },
+  {
+    "id": "prep_b2c1_039",
+    "topic": "Intermediate/Advanced Prepositions",
+    "sentence": "This book is based on a true story from the 19th century.",
+    "pt": "Este livro é baseado em uma história real do século 19.",
+    "target_word": "on",
+    "distractors": ["in", "from"]
+  },
+  {
+    "id": "prep_b2c1_040",
+    "topic": "Intermediate/Advanced Prepositions",
+    "sentence": "I'm not familiar with that particular software program.",
+    "pt": "Não estou familiarizado com esse programa de software em particular.",
+    "target_word": "with",
+    "distractors": ["to", "about"]
+  },
+  {
+    "id": "prep_b2c1_041",
+    "topic": "Intermediate/Advanced Prepositions",
+    "sentence": "The delay was due to an unexpected technical issue.",
+    "pt": "O atraso ocorreu devido a um problema técnico inesperado.",
+    "target_word": "to",
+    "distractors": ["for", "of"]
+  },
+  {
+    "id": "prep_b2c1_042",
+    "topic": "Intermediate/Advanced Prepositions",
+    "sentence": "He was quite annoyed with me for being late.",
+    "pt": "Ele ficou bastante irritado comigo por estar atrasado.",
+    "target_word": "with",
+    "distractors": ["at", "about"]
+  },
+  {
+    "id": "prep_b2c1_043",
+    "topic": "Intermediate/Advanced Prepositions",
+    "sentence": "The new law will come into effect at midnight.",
+    "pt": "A nova lei entrará em vigor à meia-noite.",
+    "target_word": "at",
+    "distractors": ["on", "in"]
+  },
+  {
+    "id": "prep_b2c1_044",
+    "topic": "Intermediate/Advanced Prepositions",
+    "sentence": "She is still suffering from the effects of the long flight.",
+    "pt": "Ela ainda está sofrendo com os efeitos do longo voo.",
+    "target_word": "from",
+    "distractors": ["with", "of"]
+  },
+  {
+    "id": "prep_b2c1_045",
+    "topic": "Intermediate/Advanced Prepositions",
+    "sentence": "The report highlights the need for better security.",
+    "pt": "O relatório destaca a necessidade de melhor segurança.",
+    "target_word": "for",
+    "distractors": ["of", "to"]
+  },
+  {
+    "id": "prep_b2c1_046",
+    "topic": "Intermediate/Advanced Prepositions",
+    "sentence": "It's important to be kind to everyone, even if you disagree.",
+    "pt": "É importante ser gentil com todos, mesmo que você discorde.",
+    "target_word": "to",
+    "distractors": ["with", "for"]
+  },
+  {
+    "id": "prep_b2c1_047",
+    "topic": "Intermediate/Advanced Prepositions",
+    "sentence": "This data is not relevant to our current discussion.",
+    "pt": "Estes dados não são relevantes para nossa discussão atual.",
+    "target_word": "to",
+    "distractors": ["for", "in"]
+  },
+  {
+    "id": "prep_b2c1_048",
+    "topic": "Intermediate/Advanced Prepositions",
+    "sentence": "The museum is full of ancient artifacts.",
+    "pt": "O museu está cheio de artefatos antigos.",
+    "target_word": "of",
+    "distractors": ["with", "in"]
+  },
+  {
+    "id": "prep_b2c1_049",
+    "topic": "Intermediate/Advanced Prepositions",
+    "sentence": "We arrived at the airport just in time for our flight.",
+    "pt": "Chegamos ao aeroporto bem a tempo para o nosso voo.",
+    "target_e_word": "at",
+    "distractors": ["in", "to"]
+  },
+  {
+    "id": "prep_b2c1_050",
+    "topic": "Intermediate/Advanced Prepositions",
+    "sentence": "He was involved in a serious car accident last year.",
+    "pt": "Ele esteve envolvido em um grave acidente de carro no ano passado.",
+    "target_word": "in",
+    "distractors": ["on", "with"]
+  },
+  {
+    "id": "prep_b2c1_051",
+    "topic": "Intermediate/Advanced Prepositions",
+    "sentence": "The company specializes in designing custom software solutions.",
+    "pt": "A empresa é especializada em projetar soluções de software personalizadas.",
+    "target_word": "in",
+    "distractors": ["on", "for"]
+  },
+  {
+    "id": "prep_b2c1_052",
+    "topic": "Intermediate/Advanced Prepositions",
+    "sentence": "We need to divide this project into several smaller tasks.",
+    "pt": "Precisamos dividir este projeto em várias tarefas menores.",
+    "target_word": "into",
+    "distractors": ["in", "by"]
+  },
+  {
+    "id": "prep_b2c1_053",
+    "topic": "Intermediate/Advanced Prepositions",
+    "sentence": "I'd like to exchange this shirt for a larger size.",
+    "pt": "Eu gostaria de trocar esta camisa por um tamanho maior.",
+    "target_word": "for",
+    "distractors": ["with", "to"]
+  },
+  {
+    "id": "prep_b2c1_054",
+    "topic": "Intermediate/Advanced Prepositions",
+    "sentence": "He's been absent from work for two weeks due to illness.",
+    "pt": "Ele está ausente do trabalho há duas semanas por motivo de doença.",
+    "target_word": "from",
+    "distractors": ["of", "in"]
+  },
+  {
+    "id": "prep_b2c1_055",
+    "topic": "Intermediate/Advanced Prepositions",
+    "sentence": "This new technology is significantly different from what we used before.",
+    "pt": "Esta nova tecnologia é significativamente diferente do que usávamos antes.",
+    "target_word": "from",
+    "distractors": ["than", "of"]
+  },
+  {
+    "id": "prep_b2c1_056",
+    "topic": "Intermediate/Advanced Prepositions",
+    "sentence": "She has a natural talent for playing the piano.",
+    "pt": "Ela tem um talento natural para tocar piano.",
+    "target_word": "for",
+    "distractors": ["in", "at"]
+  },
+  {
+    "id": "prep_b2c1_057",
+    "topic": "Intermediate/Advanced Prepositions",
+    "sentence": "I'm sorry, I wasn't paying attention to what you were saying.",
+    "pt": "Desculpe, eu não estava prestando atenção ao que você estava dizendo.",
+    "target_word": "to",
+    "distractors": ["on", "for"]
+  },
+  {
+    "id": "prep_b2c1_058",
+    "topic": "Intermediate/Advanced Prepositions",
+    "sentence": "The new manager is popular with the employees.",
+    "pt": "O novo gerente é popular entre os funcionários.",
+    "target_word": "with",
+    "distractors": ["among", "for"]
+  },
+  {
+    "id": "prep_b2c1_059",
+    "topic": "Intermediate/Advanced Prepositions",
+    "sentence": "It's not polite to stare at other people.",
+    "pt": "Não é educado ficar encarando as outras pessoas.",
+    "target_word": "at",
+    "distractors": ["on", "to"]
+  },
+  {
+    "id": "prep_b2c1_060",
+    "topic": "Intermediate/Advanced Prepositions",
+    "sentence": "The police suspect him of being involved in the robbery.",
+    "pt": "A polícia suspeita que ele esteja envolvido no roubo.",
+    "target_word": "of",
+    "distractors": ["for", "about"]
+  },
+  {
+    "id": "prep_b2c1_061",
+    "topic": "Intermediate/Advanced Prepositions",
+    "sentence": "She decided to focus all her energy on her career.",
+    "pt": "Ela decidiu focar toda a sua energia em sua carreira.",
+    "target_word": "on",
+    "distractors": ["in", "at"]
+  },
+  {
+    "id": "prep_b2c1_062",
+    "topic": "Intermediate/Advanced Prepositions",
+    "sentence": "There has been a significant increase in the cost of living.",
+    "pt": "Houve um aumento significativo no custo de vida.",
+    "target_word": "in",
+    "distractors": ["of", "on"]
+  },
+  {
+    "id": "prep_b2c1_063",
+    "topic": "Intermediate/Advanced Prepositions",
+    "sentence": "You should take advantage of this opportunity to travel.",
+    "pt": "Você deveria aproveitar esta oportunidade para viajar.",
+    "target_word": "of",
+    "distractors": ["from", "in"]
+  },
+  {
+    "id": "prep_b2c1_064",
+    "topic": "Intermediate/Advanced Prepositions",
+    "sentence": "His business plan is based on solid market research.",
+    "pt": "O plano de negócios dele é baseado em uma sólida pesquisa de mercado.",
+    "target_word": "on",
+    "distractors": ["in", "at"]
+  },
+  {
+    "id": "prep_b2c1_065",
+    "topic": "Intermediate/Advanced Prepositions",
+    "sentence": "I'm afraid I don't agree with your assessment.",
+    "pt": "Receio não concordar com a sua avaliação.",
+    "target_word": "with",
+    "distractors": ["to", "on"]
+  },
+  {
+    "id": "prep_b2c1_066",
+    "topic": "Intermediate/Advanced Prepositions",
+    "sentence": "She has been working as a journalist for over ten years.",
+    "pt": "Ela trabalha como jornalista há mais de dez anos.",
+    "target_word": "as",
+    "distractors": ["like", "in"]
+  },
+  {
+    "id": "prep_b2c1_067",
+    "topic": "Intermediate/Advanced Prepositions",
+    "sentence": "The manual provides detailed instructions on how to set up the device.",
+    "pt": "O manual fornece instruções detalhadas sobre como configurar o dispositivo.",
+    "target_word": "on",
+    "distractors": ["for", "about"]
+  },
+  {
+    "id": "prep_b2c1_068",
+    "topic": "Intermediate/Advanced Prepositions",
+    "sentence": "They are prohibited from using their phones during the exam.",
+    "pt": "Eles são proibidos de usar seus telefones durante o exame.",
+    "target_word": "from",
+    "distractors": ["of", "to"]
+  },
+  {
+    "id": "prep_b2c1_069",
+    "topic": "Intermediate/Advanced Prepositions",
+    "sentence": "This movie is suitable for all ages.",
+    "pt": "Este filme é adequado para todas as idades.",
+    "target_word": "for",
+    "distractors": ["to", "with"]
+  },
+  {
+    "id": "prep_b2c1_070",
+    "topic": "Intermediate/Advanced Prepositions",
+    "sentence": "He is known for his great sense of humor.",
+    "pt": "Ele é conhecido por seu ótimo senso de humor.",
+    "target_word": "for",
+    "distractors": ["by", "as"]
+  },
+  {
+    "id": "prep_b2c1_071",
+    "topic": "Intermediate/Advanced Prepositions",
+    "sentence": "The organization is dedicated to helping people in need.",
+    "pt": "A organização é dedicada a ajudar pessoas necessitadas.",
+    "target_word": "to",
+    "distractors": ["for", "with"]
+  },
+  {
+    "id": "prep_b2c1_072",
+    "topic": "Intermediate/Advanced Prepositions",
+    "sentence": "I'm afraid this item is currently out of stock.",
+    "pt": "Receio que este item esteja atualmente fora de estoque.",
+    "target_word": "of",
+    "distractors": ["from", "in"]
+  },
+  {
+    "id": "prep_b2c1_073",
+    "topic": "Intermediate/Advanced Prepositions",
+    "sentence": "She has a deep admiration for her grandfather.",
+    "pt": "Ela tem uma admiração profunda por seu avô.",
+    "target_word": "for",
+    "distractors": ["to", "of"]
+  },
+  {
+    "id": "prep_b2c1_074",
+    "topic": "Intermediate/Advanced Prepositions",
+    "sentence": "The company blames the poor sales on the weak economy.",
+    "pt": "A empresa culpa a economia fraca pelas vendas baixas.",
+    "target_word": "on",
+    "distractors": ["for", "to"]
+  },
+  {
+    "id": "prep_b2c1_075",
+    "topic": "Intermediate/Advanced Prepositions",
+    "sentence": "I need to translate this document from Portuguese into English.",
+    "pt": "Eu preciso traduzir este documento do português para o inglês.",
+    "target_word": "into",
+    "distractors": ["to", "on"]
+  },
+  {
+    "id": "prep_b2c1_076",
+    "topic": "Intermediate/Advanced Prepositions",
+    "sentence": "We were very satisfied with the service at the hotel.",
+    "pt": "Ficamos muito satisfeitos com o serviço no hotel.",
+    "target_word": "with",
+    "distractors": ["by", "of"]
+  },
+  {
+    "id": "prep_b2c1_077",
+    "topic": "Intermediate/Advanced Prepositions",
+    "sentence": "The discussion centered on the new budget proposal.",
+    "pt": "A discussão centrou-se na nova proposta de orçamento.",
+    "target_word": "on",
+    "distractors": ["around", "about"]
+  },
+  {
+    "id": "prep_b2c1_078",
+    "topic": "Intermediate/Advanced Prepositions",
+    "sentence": "He is currently involved in a major research project.",
+    "pt": "Ele está atualmente envolvido em um grande projeto de pesquisa.",
+    "target_word": "in",
+    "distractors": ["with", "on"]
+  },
+  {
+    "id": "prep_b2c1_079",
+    "topic": "Intermediate/Advanced Prepositions",
+    "sentence": "There is no simple solution to this complex problem.",
+    "pt": "Não há solução simples para este problema complexo.",
+    "target_word": "to",
+    "distractors": ["for", "of"]
+  },
+  {
+    "id": "prep_b2c1_080",
+    "topic": "Intermediate/Advanced Prepositions",
+    "sentence": "She has always been passionate about environmental issues.",
+    "pt": "Ela sempre foi apaixonada por questões ambientais.",
+    "target_word": "about",
+    "distractors": ["for", "with"]
+  },
+  {
+    "id": "prep_b2c1_081",
+    "topic": "Intermediate/Advanced Prepositions",
+    "sentence": "The diet consists mainly of fruits and vegetables.",
+    "pt": "A dieta consiste principalmente de frutas e vegetais.",
+    "target_word": "of",
+    "distractors": ["with", "in"]
+  },
+  {
+    "id": "prep_b2c1_082",
+    "topic": "Intermediate/Advanced Prepositions",
+    "sentence": "I'm not related to him; we just have the same last name.",
+    "pt": "Eu não sou parente dele; nós apenas temos o mesmo sobrenome.",
+    "target_word": "to",
+    "distractors": ["with", "by"]
+  },
+  {
+    "id": "prep_b2c1_083",
+    "topic": "Intermediate/Advanced Prepositions",
+    "sentence": "He was found guilty of committing fraud.",
+    "pt": "Ele foi considerado culpado de cometer fraude.",
+    "target_word": "of",
+    "distractors": ["for", "in"]
+  },
+  {
+    "id": "prep_b2c1_084",
+    "topic": "Intermediate/Advanced Prepositions",
+    "sentence": "It's important to be polite to your colleagues.",
+    "pt": "É importante ser educado com seus colegas.",
+    "target_word": "to",
+    "distractors": ["with", "for"]
+  },
+  {
+    "id": "prep_b2c1_085",
+    "topic": "Intermediate/Advanced Prepositions",
+    "sentence": "This tool is used for opening paint cans.",
+    "pt": "Esta ferramenta é usada para abrir latas de tinta.",
+    "target_word": "for",
+    "distractors": ["to", "in"]
+  },
+  {
+    "id": "prep_b2c1_086",
+    "topic": "Intermediate/Advanced Prepositions",
+    "sentence": "She is worried about her son's lack of motivation.",
+    "pt": "Ela está preocupada com a falta de motivação do filho.",
+    "target_word": "about",
+    "distractors": ["with", "for"]
+  },
+  {
+    "id": "prep_b2c1_087",
+    "topic": "Intermediate/Advanced Prepositions",
+    "sentence": "We are committed to providing the best possible service.",
+    "pt": "Estamos empenhados em fornecer o melhor serviço possível.",
+    "target_word": "to",
+    "distractors": ["for", "with"]
+  },
+  {
+    "id": "prep_b2c1_088",
+    "topic": "Intermediate/Advanced Prepositions",
+    "sentence": "I'm tired of hearing the same excuses every time.",
+    "pt": "Estou cansado de ouvir as mesmas desculpas todas as vezes.",
+    "target_word": "of",
+    "distractors": ["with", "from"]
+  },
+  {
+    "id": "prep_b2c1_089",
+    "topic": "Intermediate/Advanced Prepositions",
+    "sentence": "He was named after his father.",
+    "pt": "Ele recebeu o nome de seu pai.",
+    "target_word": "after",
+    "distractors": ["for", "from"]
+  },
+  {
+    "id": "prep_b2c1_090",
+    "topic": "Intermediate/Advanced Prepositions",
+    "sentence": "The film had a huge impact on its audience.",
+    "pt": "O filme teve um impacto enorme em seu público.",
+    "target_word": "on",
+    "distractors": ["to", "for"]
+  },
+  {
+    "id": "prep_b2c1_091",
+    "topic": "Intermediate/Advanced Prepositions",
+    "sentence": "We need to agree on a date for the next meeting.",
+    "pt": "Precisamos concordar em uma data para a próxima reunião.",
+    "target_word": "on",
+    "distractors": ["about", "to"]
+  },
+  {
+    "id": "prep_b2c1_092",
+    "topic": "Intermediate/Advanced Prepositions",
+    "sentence": "She complimented me on my new haircut.",
+    "pt": "Ela me elogiou pelo meu novo corte de cabelo.",
+    "target_word": "on",
+    "distractors": ["for", "about"]
+  },
+  {
+    "id": "prep_b2c1_093",
+    "topic": "Intermediate/Advanced Prepositions",
+    "sentence": "He has no intention of changing his mind.",
+    "pt": "Ele não tem intenção de mudar de ideia.",
+    "target_word": "of",
+    "distractors": ["for", "to"]
+  },
+  {
+    "id": "prep_b2c1_094",
+    "topic": "Intermediate/Advanced Prepositions",
+    "sentence": "This salad is made with fresh, local ingredients.",
+    "pt": "Esta salada é feita com ingredientes frescos e locais.",
+    "target_word": "with",
+    "distractors": ["from", "of"]
+  },
+  {
+    "id": "prep_b2c1_095",
+    "topic": "Intermediate/Advanced Prepositions",
+    "sentence": "She has a very positive attitude towards her work.",
+    "pt": "Ela tem uma atitude muito positiva em relação ao seu trabalho.",
+    "target_word": "towards",
+    "distractors": ["about", "for"]
+  },
+  {
+    "id": "prep_b2c1_096",
+    "topic": "Intermediate/Advanced Prepositions",
+    "sentence": "The museum is open to the public from 10 a.m. to 6 p.m.",
+    "pt": "O museu está aberto ao público das 10h às 18h.",
+    "target_word": "to",
+    "distractors": ["for", "with"]
+  },
+  {
+    "id": "prep_b2c1_097",
+    "topic": "Intermediate/Advanced Prepositions",
+    "sentence": "I'm fed up with all this rain.",
+    "pt": "Estou farto de toda essa chuva.",
+    "target_word": "with",
+    "distractors": ["of", "about"]
+  },
+  {
+    "id": "prep_b2c1_098",
+    "topic": "Intermediate/Advanced Prepositions",
+    "sentence": "He has been corresponding with a client in Japan.",
+    "pt": "Ele tem se correspondido com um cliente no Japão.",
+    "target_word": "with",
+    "distractors": ["to", "for"]
+  },
+  {
+    "id": "prep_b2c1_099",
+    "topic": "Intermediate/Advanced Prepositions",
+    "sentence": "We are lacking in the resources needed to complete the project.",
+    "pt": "Estamos com falta dos recursos necessários para completar o projeto.",
+    "target_word": "in",
+    "distractors": ["of", "on"]
+  },
+  {
+    "id": "prep_b2c1_100",
+    "topic": "Intermediate/Advanced Prepositions",
+    "sentence": "He was banned from driving for six months.",
+    "pt": "Ele foi proibido de dirigir por seis meses.",
+    "target_word": "from",
+    "distractors": ["of", "to"]
+  },
+  {
+    "id": "prep_b2c1_101",
+    "topic": "Intermediate/Advanced Prepositions",
+    "sentence": "He was praised by his boss for handling the difficult situation well.",
+    "pt": "Ele foi elogiado por seu chefe por lidar bem com a situação difícil.",
+    "target_word": "for",
+    "distractors": ["by", "with"]
+  },
+  {
+    "id": "prep_b2c1_102",
+    "topic": "Intermediate/Advanced Prepositions",
+    "sentence": "The store ran out of milk just an hour after opening.",
+    "pt": "A loja ficou sem leite apenas uma hora após a abertura.",
+    "target_word": "of",
+    "distractors": ["from", "with"]
+  },
+  {
+    "id": "prep_b2c1_103",
+    "topic": "Intermediate/Advanced Prepositions",
+    "sentence": "She has a talent for learning languages very quickly.",
+    "pt": "Ela tem talento para aprender idiomas muito rapidamente.",
+    "target_word": "for",
+    "distractors": ["in", "at"]
+  },
+  {
+    "id": "prep_b2c1_104",
+    "topic": "Intermediate/Advanced Prepositions",
+    "sentence": "They are building a new bridge across the river.",
+    "pt": "Eles estão construindo uma nova ponte sobre o rio.",
+    "target_word": "across",
+    "distractors": ["over", "through"]
+  },
+  {
+    "id": "prep_b2c1_105",
+    "topic": "Intermediate/Advanced Prepositions",
+    "sentence": "He was arrested for driving under the influence of alcohol.",
+    "pt": "Ele foi preso por dirigir sob a influência de álcool.",
+    "target_word": "under",
+    "distractors": ["in", "with"]
+  },
+  {
+    "id": "prep_b2c1_106",
+    "topic": "Intermediate/Advanced Prepositions",
+    "sentence": "I'm not sure, but I think the file is in the cabinet over there.",
+    "pt": "Não tenho certeza, mas acho que o arquivo está naquele armário ali.",
+    "target_word": "in",
+    "distractors": ["on", "at"]
+  },
+  {
+    "id": "prep_b2c1_107",
+    "topic": "Intermediate/Advanced Prepositions",
+    "sentence": "This product is clearly inferior to its main competitor.",
+    "pt": "Este produto é claramente inferior ao seu principal concorrente.",
+    "target_word": "to",
+    "distractors": ["than", "from"]
+  },
+  {
+    "id": "prep_b2c1_108",
+    "topic": "Intermediate/Advanced Prepositions",
+    "sentence": "She is allergic to peanuts, so she has to be very careful.",
+    "pt": "Ela é alérgica a amendoim, então ela tem que ser muito cuidadosa.",
+    "target_word": "to",
+    "distractors": ["with", "for"]
+  },
+  {
+    "id": "prep_b2c1_109",
+    "topic": "Intermediate/Advanced Prepositions",
+    "sentence": "We can't rely on him to keep a secret.",
+    "pt": "Não podemos confiar nele para guardar um segredo.",
+    "target_word": "on",
+    "distractors": ["with", "in"]
+  },
+  {
+    "id": "prep_b2c1_110",
+    "topic": "Intermediate/Advanced Prepositions",
+    "sentence": "He strongly objects to being called by his nickname at work.",
+    "pt": "Ele se opõe fortemente a ser chamado pelo apelido no trabalho.",
+    "target_word": "to",
+    "distractors": ["against", "with"]
+  },
+  {
+    "id": "prep_b2c1_111",
+    "topic": "Intermediate/Advanced Prepositions",
+    "sentence": "The new law will have a major effect on the economy.",
+    "pt": "A nova lei terá um grande efeito na economia.",
+    "target_word": "on",
+    "distractors": ["in", "for"]
+  },
+  {
+    "id": "prep_b2c1_112",
+    "topic": "Intermediate/Advanced Prepositions",
+    "sentence": "I'm sorry for the noise; my neighbors are having a party.",
+    "pt": "Desculpe pelo barulho; meus vizinhos estão dando uma festa.",
+    "target_word": "for",
+    "distractors": ["about", "of"]
+  },
+  {
+    "id": "prep_b2c1_113",
+    "topic": "Intermediate/Advanced Prepositions",
+    "sentence": "She has been working on this single project since January.",
+    "pt": "Ela está trabalhando neste único projeto desde janeiro.",
+    "target_word": "since",
+    "distractors": ["for", "from"]
+  },
+  {
+    "id": "prep_b2c1_114",
+    "topic": "Intermediate/Advanced Prepositions",
+    "sentence": "He has a very negative attitude towards his studies.",
+    "pt": "Ele tem uma atitude muito negativa em relação aos estudos.",
+    "target_word": "towards",
+    "distractors": ["about", "for"]
+  },
+  {
+    "id": "prep_b2c1_115",
+    "topic": "Intermediate/Advanced Prepositions",
+    "sentence": "The report provides an overview of the company's performance.",
+    "pt": "O relatório fornece uma visão geral do desempenho da empresa.",
+    "target_word": "of",
+    "distractors": ["on", "for"]
+  },
+  {
+    "id": "prep_b2c1_116",
+    "topic": "Intermediate/Advanced Prepositions",
+    "sentence": "It is difficult to distinguish between the two identical twins.",
+    "pt": "É difícil distinguir entre os dois gêmeos idênticos.",
+    "target_word": "between",
+    "distractors": ["from", "among"]
+  },
+  {
+    "id": "prep_b2c1_117",
+    "topic": "Intermediate/Advanced Prepositions",
+    "sentence": "She has very little in common with her sister.",
+    "pt": "Ela tem muito pouco em comum com sua irmã.",
+    "target_word": "with",
+    "distractors": ["to", "about"]
+  },
+  {
+    "id": "prep_b2c1_118",
+    "topic": "Intermediate/Advanced Prepositions",
+    "sentence": "He invested all his money in the stock market and lost it.",
+    "pt": "Ele investiu todo o seu dinheiro no mercado de ações e o perdeu.",
+    "target_word": "in",
+    "distractors": ["on", "at"]
+  },
+  {
+    "id": "prep_b2c1_119",
+    "topic": "Intermediate/Advanced Prepositions",
+    "sentence": "Are you familiar with the new software we installed?",
+    "pt": "Você está familiarizado com o novo software que instalamos?",
+    "target_word": "with",
+    "distractors": ["to", "about"]
+  },
+  {
+    "id": "prep_b2c1_120",
+    "topic": "Intermediate/Advanced Prepositions",
+    "sentence": "They were sitting by the fire, reading books.",
+    "pt": "Eles estavam sentados perto do fogo, lendo livros.",
+    "target_word": "by",
+    "distractors": ["at", "on"]
+  },
+  {
+    "id": "prep_b2c1_121",
+    "topic": "Intermediate/Advanced Prepositions",
+    "sentence": "She is in charge of the entire marketing department.",
+    "pt": "Ela está no comando de todo o departamento de marketing.",
+    "target_word": "of",
+    "distractors": ["for", "with"]
+  },
+  {
+    "id": "prep_b2c1_122",
+    "topic": "Intermediate/Advanced Prepositions",
+    "sentence": "He is always polite to his customers, no matter what.",
+    "pt": "Ele é sempre educado com seus clientes, não importa o quê.",
+    "target_word": "to",
+    "distractors": ["with", "for"]
+  },
+  {
+    "id": "prep_b2c1_123",
+    "topic": "Intermediate/Advanced Prepositions",
+    "sentence": "What do you think of his new idea?",
+    "pt": "O que você acha da nova ideia dele?",
+    "target_word": "of",
+    "distractors": ["about", "on"]
+  },
+  {
+    "id": "prep_b2c1_124",
+    "topic": "Intermediate/Advanced Prepositions",
+    "sentence": "There is a clear link between smoking and lung cancer.",
+    "pt": "Existe uma ligação clara entre fumar e o câncer de pulmão.",
+    "target_word": "between",
+    "distractors": ["of", "with"]
+  },
+  {
+    "id": "prep_b2c1_125",
+    "topic": "Intermediate/Advanced Prepositions",
+    "sentence": "The flight was delayed due to technical problems.",
+    "pt": "O voo foi atrasado devido a problemas técnicos.",
+    "target_word": "due to",
+    "distractors": ["because", "owing"]
+  },
+  {
+    "id": "prep_b2c1_126",
+    "topic": "Intermediate/Advanced Prepositions",
+    "sentence": "She has an interview for a job at a big tech company.",
+    "pt": "Ela tem uma entrevista para um emprego em uma grande empresa de tecnologia.",
+    "target_word": "at",
+    "distractors": ["in", "on"]
+  },
+  {
+    "id": "prep_b2c1_127",
+    "topic": "Intermediate/Advanced Prepositions",
+    "sentence": "I'm afraid I'm not very good at sports.",
+    "pt": "Receio não ser muito bom em esportes.",
+    "target_word": "at",
+    "distractors": ["in", "on"]
+  },
+  {
+    "id": "prep_b2c1_128",
+    "topic": "Intermediate/Advanced Prepositions",
+    "sentence": "The hotel is located right on the beach.",
+    "pt": "O hotel está localizado bem na praia.",
+    "target_word": "on",
+    "distractors": ["at", "in"]
+  },
+  {
+    "id": "prep_b2c1_129",
+    "topic": "Intermediate/Advanced Prepositions",
+    "sentence": "He was quite surprised at the news of her resignation.",
+    "pt": "Ele ficou bastante surpreso com a notícia da demissão dela.",
+    "target_word": "at",
+    "distractors": ["by", "with"]
+  },
+  {
+    "id": "prep_b2c1_130",
+    "topic": "Intermediate/Advanced Prepositions",
+    "sentence": "She has been suffering from severe headaches recently.",
+    "pt": "Ela tem sofrido de fortes dores de cabeça recentemente.",
+    "target_word": "from",
+    "distractors": ["with", "of"]
+  },
+  {
+    "id": "prep_b2c1_131",
+    "topic": "Intermediate/Advanced Prepositions",
+    "sentence": "This restaurant is famous for its delicious seafood.",
+    "pt": "Este restaurante é famoso por seus deliciosos frutos do mar.",
+    "target_word": "for",
+    "distractors": ["by", "with"]
+  },
+  {
+    "id": "prep_b2c1_132",
+    "topic": "Intermediate/Advanced Prepositions",
+    "sentence": "We are looking for someone with experience in management.",
+    "pt": "Estamos procurando alguém com experiência em gerenciamento.",
+    "target_word": "in",
+    "distractors": ["on", "of"]
+  },
+  {
+    "id": "prep_b2c1_133",
+    "topic": "Intermediate/Advanced Prepositions",
+    "sentence": "I'm sorry, but I'm not interested in your offer.",
+    "pt": "Desculpe, mas não estou interessado em sua oferta.",
+    "target_word": "in",
+    "distractors": ["on", "for"]
+  },
+  {
+    "id": "prep_b2c1_134",
+    "topic": "Intermediate/Advanced Prepositions",
+    "sentence": "The city is full of amazing historical monuments.",
+    "pt": "A cidade está cheia de monumentos históricos incríveis.",
+    "target_word": "of",
+    "distractors": ["with", "by"]
+  },
+  {
+    "id": "prep_b2c1_135",
+    "topic": "Intermediate/Advanced Prepositions",
+    "sentence": "The children were excited about going to the amusement park.",
+    "pt": "As crianças estavam animadas para ir ao parque de diversões.",
+    "target_word": "about",
+    "distractors": ["for", "with"]
+  },
+  {
+    "id": "prep_b2c1_136",
+    "topic": "Intermediate/Advanced Prepositions",
+    "sentence": "He insisted on paying for everyone's dinner.",
+    "pt": "Ele insistiu em pagar o jantar de todos.",
+    "target_word": "on",
+    "distractors": ["in", "to"]
+  },
+  {
+    "id": "prep_b2c1_137",
+    "topic": "Intermediate/Advanced Prepositions",
+    "sentence": "This app is not compatible with your current operating system.",
+    "pt": "Este aplicativo não é compatível com seu sistema operacional atual.",
+    "target_word": "with",
+    "distractors": ["to", "for"]
+  },
+  {
+    "id": "prep_b2c1_138",
+    "topic": "Intermediate/Advanced Prepositions",
+    "sentence": "The team's success was attributed to their hard work.",
+    "pt": "O sucesso da equipe foi atribuído ao seu trabalho árduo.",
+    "target_word": "to",
+    "distractors": ["on", "by"]
+  },
+  {
+    "id": "prep_b2c1_139",
+    "topic": "Intermediate/Advanced Prepositions",
+    "sentence": "The police are investigating the cause of the accident.",
+    "pt": "A polícia está investigando a causa do acidente.",
+    "target_word": "of",
+    "distractors": ["for", "about"]
+  },
+  {
+    "id": "prep_b2c1_140",
+    "topic": "Intermediate/Advanced Prepositions",
+    "sentence": "She has been married to her husband for twenty years.",
+    "pt": "Ela é casada com o marido há vinte anos.",
+    "target_word": "to",
+    "distractors": ["with", "for"]
+  },
+  {
+    "id": "prep_b2c1_141",
+    "topic": "Intermediate/Advanced Prepositions",
+    "sentence": "He is currently standing trial for fraud.",
+    "pt": "Ele está atualmente sendo julgado por fraude.",
+    "target_word": "for",
+    "distractors": ["on", "of"]
+  },
+  {
+    "id": "prep_b2c1_142",
+    "topic": "Intermediate/Advanced Prepositions",
+    "sentence": "She is completely dedicated to her children.",
+    "pt": "Ela é completamente dedicada aos seus filhos.",
+    "target_word": "to",
+    "distractors": ["for", "with"]
+  },
+  {
+    "id": "prep_b2c1_143",
+    "topic": "Intermediate/Advanced Prepositions",
+    "sentence": "He is very different from his older brother.",
+    "pt": "Ele é muito diferente de seu irmão mais velho.",
+    "target_word": "from",
+    "distractors": ["than", "of"]
+  },
+  {
+    "id": "prep_b2c1_144",
+    "topic": "Intermediate/Advanced Prepositions",
+    "sentence": "The company has decided to invest in renewable energy.",
+    "pt": "A empresa decidiu investir em energia renovável.",
+    "target_word": "in",
+    "distractors": ["on", "for"]
+  },
+  {
+    "id": "prep_b2c1_145",
+    "topic": "Intermediate/Advanced Prepositions",
+    "sentence": "He was very rude to the waiter, which was embarrassing.",
+    "pt": "Ele foi muito rude com o garçom, o que foi constrangedor.",
+    "target_word": "to",
+    "distractors": ["with", "at"]
+  },
+  {
+    "id": "prep_b2c1_146",
+    "topic": "Intermediate/Advanced Prepositions",
+    "sentence": "She wasn't aware of the problems her team was facing.",
+    "pt": "Ela não estava ciente dos problemas que sua equipe estava enfrentando.",
+    "target_word": "of",
+    "distractors": ["about", "for"]
+  },
+  {
+    "id": "prep_b2c1_147",
+    "topic": "Intermediate/Advanced Prepositions",
+    "sentence": "I was shocked at the price of the tickets.",
+    "pt": "Fiquei chocado com o preço dos ingressos.",
+    "target_word": "at",
+    "distractors": ["by", "of"]
+  },
+  {
+    "id": "prep_b2c1_148",
+    "topic": "Intermediate/Advanced Prepositions",
+    "sentence": "He is responsible for locking all the doors at night.",
+    "pt": "Ele é responsável por trancar todas as portas à noite.",
+    "target_word": "for",
+    "distractors": ["to", "of"]
+  },
+  {
+    "id": "prep_b2c1_149",
+    "topic": "Intermediate/Advanced Prepositions",
+    "sentence": "They finally arrived at their destination after a long journey.",
+    "pt": "Eles finalmente chegaram ao seu destino após uma longa jornada.",
+    "target_word": "at",
+    "distractors": ["to", "in"]
+  },
+  {
+    "id": "prep_b2c1_150",
+    "topic": "Intermediate/Advanced Prepositions",
+    "sentence": "The new rules apply to everyone, regardless of their position.",
+    "pt": "As novas regras se aplicam a todos, independentemente de sua posição.",
+    "target_word": "to",
+    "distractors": ["for", "on"]
+  },
+  {
+    "id": "prep_b2c1_151",
+    "topic": "Intermediate/Advanced Prepositions",
+    "sentence": "He was strongly opposed to the new regulations.",
+    "pt": "Ele era fortemente oposto aos novos regulamentos.",
+    "target_word": "to",
+    "distractors": ["against", "with"]
+  },
+  {
+    "id": "prep_b2c1_152",
+    "topic": "Intermediate/Advanced Prepositions",
+    "sentence": "The company needs to cut down on unnecessary expenses.",
+    "pt": "A empresa precisa cortar despesas desnecessárias.",
+    "target_word": "on",
+    "distractors": ["off", "from"]
+  },
+  {
+    "id": "prep_b2c1_153",
+    "topic": "Intermediate/Advanced Prepositions",
+    "sentence": "I bumped into an old friend at the supermarket yesterday.",
+    "pt": "Eu encontrei (dei de cara com) um velho amigo no supermercado ontem.",
+    "target_word": "into",
+    "distractors": ["on", "with"]
+  },
+  {
+    "id": "prep_b2c1_154",
+    "topic": "Intermediate/Advanced Prepositions",
+    "sentence": "The police are looking into the matter very carefully.",
+    "pt": "A polícia está investigando o assunto com muito cuidado.",
+    "target_word": "into",
+    "distractors": ["at", "for"]
+  },
+  {
+    "id": "prep_b2c1_155",
+    "topic": "Intermediate/Advanced Prepositions",
+    "sentence": "She is currently on maternity leave.",
+    "pt": "Ela está atualmente em licença-maternidade.",
+    "target_word": "on",
+    "distractors": ["in", "at"]
+  },
+  {
+    "id": "prep_b2c1_156",
+    "topic": "Intermediate/Advanced Prepositions",
+    "sentence": "He was fined for speeding in a school zone.",
+    "pt": "Ele foi multado por excesso de velocidade em uma área escolar.",
+    "target_word": "for",
+    "distractors": ["by", "of"]
+  },
+  {
+    "id": "prep_b2c1_157",
+    "topic": "Intermediate/Advanced Prepositions",
+    "sentence": "This new app is far superior to the old version.",
+    "pt": "Este novo aplicativo é muito superior à versão antiga.",
+    "target_word": "to",
+    "distractors": ["than", "from"]
+  },
+  {
+    "id": "prep_b2c1_158",
+    "topic": "Intermediate/Advanced Prepositions",
+    "sentence": "We are in desperate need of more volunteers.",
+    "pt": "Estamos precisando desesperadamente de mais voluntários.",
+    "target_word": "of",
+    "distractors": ["for", "with"]
+  },
+  {
+    "id": "prep_b2c1_159",
+    "topic": "Intermediate/Advanced Prepositions",
+    "sentence": "She is always very generous to her employees.",
+    "pt": "Ela é sempre muito generosa com seus funcionários.",
+    "target_word": "to",
+    "distractors": ["with", "for"]
+  },
+  {
+    "id": "prep_b2c1_160",
+    "topic": "Intermediate/Advanced Prepositions",
+    "sentence": "The full report is available on request.",
+    "pt": "O relatório completo está disponível mediante solicitação.",
+    "target_word": "on",
+    "distractors": ["at", "by"]
+  },
+  {
+    "id": "prep_b2c1_161",
+    "topic": "Intermediate/Advanced Prepositions",
+    "sentence": "He was accused of selling company secrets.",
+    "pt": "Ele foi acusado de vender segredos da empresa.",
+    "target_word": "of",
+    "distractors": ["for", "with"]
+  },
+  {
+    "id": "prep_b2c1_162",
+    "topic": "Intermediate/Advanced Prepositions",
+    "sentence": "It's no use worrying about things you can't change.",
+    "pt": "Não adianta se preocupar com coisas que você não pode mudar.",
+    "target_word": "about",
+    "distractors": ["for", "with"]
+  },
+  {
+    "id": "prep_b2c1_163",
+    "topic": "Intermediate/Advanced Prepositions",
+    "sentence": "The car is in excellent condition for its age.",
+    "pt": "O carro está em excelente estado para sua idade.",
+    "target_word": "in",
+    "distractors": ["on", "at"]
+  },
+  {
+    "id": "prep_b2c1_164",
+    "topic": "Intermediate/Advanced Prepositions",
+    "sentence": "She is terrified of speaking in public.",
+    "pt": "Ela tem pavor de falar em público.",
+    "target_word": "of",
+    "distractors": ["about", "with"]
+  },
+  {
+    "id": "prep_b2c1_165",
+    "topic": "Intermediate/Advanced Prepositions",
+    "sentence": "What time did you arrive at the station?",
+    "pt": "A que horas você chegou à estação?",
+    "target_word": "at",
+    "distractors": ["in", "to"]
+  },
+  {
+    "id": "prep_b2c1_166",
+    "topic": "Intermediate/Advanced Prepositions",
+    "sentence": "The city is famous for its beautiful architecture.",
+    "pt": "A cidade é famosa por sua bela arquitetura.",
+    "target_word": "for",
+    "distractors": ["by", "of"]
+  },
+  {
+    "id": "prep_b2c1_167",
+    "topic": "Intermediate/Advanced Prepositions",
+    "sentence": "He is not qualified for this position.",
+    "pt": "Ele não é qualificado para este cargo.",
+    "target_word": "for",
+    "distractors": ["to", "in"]
+  },
+  {
+    "id": "prep_b2c1_168",
+    "topic": "Intermediate/Advanced Prepositions",
+    "sentence": "I am writing in reference to your job application.",
+    "pt": "Estou escrevendo em referência à sua candidatura de emprego.",
+    "target_word": "to",
+    "distractors": ["for", "about"]
+  },
+  {
+    "id": "prep_b2c1_169",
+    "topic": "Intermediate/Advanced Prepositions",
+    "sentence": "She has a deep lack of understanding of the topic.",
+    "pt": "Ela tem uma profunda falta de compreensão do tópico.",
+    "target_word": "of",
+    "distractors": ["in", "for"]
+  },
+  {
+    "id": "prep_b2c1_170",
+    "topic": "Intermediate/Advanced Prepositions",
+    "sentence": "You really need to be more careful with your money.",
+    "pt": "Você realmente precisa ser mais cuidadoso com seu dinheiro.",
+    "target_word": "with",
+    "distractors": ["about", "for"]
+  },
+  {
+    "id": "prep_b2c1_171",
+    "topic": "Intermediate/Advanced Prepositions",
+    "sentence": "He was shouting at me for no reason.",
+    "pt": "Ele estava gritando comigo sem motivo.",
+    "target_word": "at",
+    "distractors": ["to", "on"]
+  },
+  {
+    "id": "prep_b2c1_172",
+    "topic": "Intermediate/Advanced Prepositions",
+    "sentence": "The movie is based on a best-selling novel.",
+    "pt": "O filme é baseado em um romance best-seller.",
+    "target_word": "on",
+    "distractors": ["in", "from"]
+  },
+  {
+    "id": "prep_b2c1_173",
+    "topic": "Intermediate/Advanced Prepositions",
+    "sentence": "She is very keen on learning how to code.",
+    "pt": "Ela está muito interessada em aprender a programar.",
+    "target_word": "on",
+    "distractors": ["in", "for"]
+  },
+  {
+    "id": "prep_b2c1_174",
+    "topic": "Intermediate/Advanced Prepositions",
+    "sentence": "I am on a tight budget this month.",
+    "pt": "Estou com um orçamento apertado este mês.",
+    "target_word": "on",
+    "distractors": ["in", "under"]
+  },
+  {
+    "id": "prep_b2c1_175",
+    "topic": "Intermediate/Advanced Prepositions",
+    "sentence": "He was found guilty of fraud.",
+    "pt": "Ele foi considerado culpado de fraude.",
+    "target_word": "of",
+    "distractors": ["for", "with"]
+  },
+  {
+    "id": "prep_b2c1_176",
+    "topic": "Intermediate/Advanced Prepositions",
+    "sentence": "Can you please look after my cat while I'm away?",
+    "pt": "Você pode por favor cuidar do meu gato enquanto eu estiver fora?",
+    "target_word": "after",
+    "distractors": ["for", "at"]
+  },
+  {
+    "id": "prep_b2c1_177",
+    "topic": "Intermediate/Advanced Prepositions",
+    "sentence": "The new CEO has made a lot of changes.",
+    "pt": "A nova CEO fez muitas mudanças.",
+    "target_word": "of",
+    "distractors": ["in", "for"]
+  },
+  {
+    "id": "prep_b2c1_178",
+    "topic": "Intermediate/Advanced Prepositions",
+    "sentence": "I'm not satisfied with the results of the test.",
+    "pt": "Não estou satisfeito com os resultados do teste.",
+    "target_word": "with",
+    "distractors": ["by", "of"]
+  },
+  {
+    "id": "prep_b2c1_179",
+    "topic": "Intermediate/Advanced Prepositions",
+    "sentence": "This product is made from recycled materials.",
+    "pt": "Este produto é feito de materiais reciclados.",
+    "target_word": "from",
+    "distractors": ["of", "with"]
+  },
+  {
+    "id": "prep_b2c1_180",
+    "topic": "Intermediate/Advanced Prepositions",
+    "sentence": "The house is made of brick.",
+    "pt": "A casa é feita de tijolo.",
+    "target_word": "of",
+    "distractors": ["from", "with"]
+  },
+  {
+    "id": "prep_b2c1_181",
+    "topic": "Intermediate/Advanced Prepositions",
+    "sentence": "We are under no obligation to buy anything.",
+    "pt": "Não temos obrigação nenhuma de comprar algo.",
+    "target_word": "under",
+    "distractors": ["at", "in"]
+  },
+  {
+    "id": "prep_b2c1_182",
+    "topic": "Intermediate/Advanced Prepositions",
+    "sentence": "She was very angry about the decision.",
+    "pt": "Ela estava muito brava com a decisão.",
+    "target_word": "about",
+    "distractors": ["with", "at"]
+  },
+  {
+    "id": "prep_b2c1_183",
+    "topic": "Intermediate/Advanced Prepositions",
+    "sentence": "He has a great deal of experience in this field.",
+    "pt": "Ele tem uma grande experiência neste campo.",
+    "target_word": "of",
+    "distractors": ["in", "for"]
+  },
+  {
+    "id": "prep_b2c1_184",
+    "topic": "Intermediate/Advanced Prepositions",
+    "sentence": "The meeting will take place on Friday afternoon.",
+    "pt": "A reunião acontecerá na tarde de sexta-feira.",
+    "target_word": "on",
+    "distractors": ["in", "at"]
+  },
+  {
+    "id": "prep_b2c1_185",
+    "topic": "Intermediate/Advanced Prepositions",
+    "sentence": "He is jealous of his brother's success.",
+    "pt": "Ele tem ciúmes do sucesso de seu irmão.",
+    "target_word": "of",
+    "distractors": ["with", "about"]
+  },
+  {
+    "id": "prep_b2c1_186",
+    "topic": "Intermediate/Advanced Prepositions",
+    "sentence": "I am in favor of the new proposal.",
+    "pt": "Eu sou a favor da nova proposta.",
+    "target_word": "of",
+    "distractors": ["for", "with"]
+  },
+  {
+    "id": "prep_b2c1_187",
+    "topic": "Intermediate/Advanced Prepositions",
+    "sentence": "The company is at risk of going bankrupt.",
+    "pt": "A empresa corre o risco de falir.",
+    "target_word": "of",
+    "distractors": ["in", "for"]
+  },
+  {
+    "id": "prep_b2c1_188",
+    "topic": "Intermediate/Advanced Prepositions",
+    "sentence": "You must hand in your assignment by Monday.",
+    "pt": "Você deve entregar seu trabalho até segunda-feira.",
+    "target_word": "in",
+    "distractors": ["out", "over"]
+  },
+  {
+    "id": "prep_b2c1_189",
+    "topic": "Intermediate/Advanced Prepositions",
+    "sentence": "I am really bad at remembering names.",
+    "pt": "Eu sou muito ruim em lembrar nomes.",
+    "target_word": "at",
+    "distractors": ["in", "on"]
+  },
+  {
+    "id": "prep_b2c1_190",
+    "topic": "Intermediate/Advanced Prepositions",
+    "sentence": "The kids are looking forward to their vacation.",
+    "pt": "As crianças estão ansiosas pelas férias.",
+    "target_word": "to",
+    "distractors": ["for", "at"]
+  },
+  {
+    "id": "prep_b2c1_191",
+    "topic": "Intermediate/Advanced Prepositions",
+    "sentence": "The decision depends on a number of factors.",
+    "pt": "A decisão depende de uma série de fatores.",
+    "target_word": "on",
+    "distractors": ["of", "from"]
+  },
+  {
+    "id": "prep_b2c1_192",
+    "topic": "Intermediate/Advanced Prepositions",
+    "sentence": "She was on the verge of tears.",
+    "pt": "Ela estava à beira das lágrimas.",
+    "target_word": "of",
+    "distractors": ["in", "at"]
+  },
+  {
+    "id": "prep_b2c1_193",
+    "topic": "Intermediate/Advanced Prepositions",
+    "sentence": "He is in charge of the sales department.",
+    "pt": "Ele é o responsável pelo departamento de vendas.",
+    "target_word": "of",
+    "distractors": ["on", "for"]
+  },
+  {
+    "id": "prep_b2c1_194",
+    "topic": "Intermediate/Advanced Prepositions",
+    "sentence": "They have a lot in common with each other.",
+    "pt": "Eles têm muito em comum um com o outro.",
+    "target_word": "with",
+    "distractors": ["to", "between"]
+  },
+  {
+    "id": "prep_b2c1_195",
+    "topic": "Intermediate/Advanced Prepositions",
+    "sentence": "I need to apologize for my behavior last night.",
+    "pt": "Preciso pedir desculpas pelo meu comportamento ontem à noite.",
+    "target_word": "for",
+    "distractors": ["about", "of"]
+  },
+  {
+    "id": "prep_b2c1_196",
+    "topic": "Intermediate/Advanced Prepositions",
+    "sentence": "She is married to a famous actor.",
+    "pt": "Ela é casada com um ator famoso.",
+    "target_word": "to",
+    "distractors": ["with", "for"]
+  },
+  {
+    "id": "prep_b2c1_197",
+    "topic": "Intermediate/Advanced Prepositions",
+    "sentence": "We are in danger of missing our flight.",
+    "pt": "Estamos em perigo de perder nosso voo.",
+    "target_word": "of",
+    "distractors": ["at", "on"]
+  },
+  {
+    "id": "prep_b2c1_198",
+    "topic": "Intermediate/Advanced Prepositions",
+    "sentence": "He congratulated me on getting the new job.",
+    "pt": "Ele me parabenizou por conseguir o novo emprego.",
+    "target_word": "on",
+    "distractors": ["for", "about"]
+  },
+  {
+    "id": "prep_b2c1_199",
+    "topic": "Intermediate/Advanced Prepositions",
+    "sentence": "The store is open from 9 a.m. to 5 p.m.",
+    "pt": "A loja fica aberta das 9h às 17h.",
+    "target_word": "to",
+    "distractors": ["until", "at"]
+  },
+  {
+    "id": "prep_b2c1_200",
+    "topic": "Intermediate/Advanced Prepositions",
+    "sentence": "She is highly skilled at data analysis.",
+    "pt": "Ela é altamente qualificada em análise de dados.",
+    "target_word": "at",
+    "distractors": ["in", "on"]
+  },
+  {
+    "id": "prep_b2c1_201",
+    "topic": "Intermediate/Advanced Prepositions",
+    "sentence": "High levels of stress are often associated with heart disease.",
+    "pt": "Altos níveis de estresse são frequentemente associados a doenças cardíacas.",
+    "target_word": "with",
+    "distractors": ["to", "at"]
+  },
+  {
+    "id": "prep_b2c1_202",
+    "topic": "Intermediate/Advanced Prepositions",
+    "sentence": "It was very typical of him to arrive late without apologizing.",
+    "pt": "Foi muito típico dele chegar atrasado sem pedir desculpas.",
+    "target_word": "of",
+    "distractors": ["for", "from"]
+  },
+  {
+    "id": "prep_b2c1_203",
+    "topic": "Intermediate/Advanced Prepositions",
+    "sentence": "Your account of the event is not consistent with the police report.",
+    "pt": "Seu relato do evento não é consistente com o relatório policial.",
+    "target_word": "with",
+    "distractors": ["to", "by"]
+  },
+  {
+    "id": "prep_b2c1_204",
+    "topic": "Intermediate/Advanced Prepositions",
+    "sentence": "I tried to convince him of my innocence, but he wouldn't listen.",
+    "pt": "Tentei convencê-lo da minha inocência, mas ele não quis ouvir.",
+    "target_word": "of",
+    "distractors": ["for", "on"]
+  },
+  {
+    "id": "prep_b2c1_205",
+    "topic": "Intermediate/Advanced Prepositions",
+    "sentence": "Scientists are still looking for a cure for this rare disease.",
+    "pt": "Cientistas ainda estão procurando uma cura para esta doença rara.",
+    "target_word": "for",
+    "distractors": ["to", "of"]
+  },
+  {
+    "id": "prep_b2c1_206",
+    "topic": "Intermediate/Advanced Prepositions",
+    "sentence": "Customer service agents have to deal with difficult people every day.",
+    "pt": "Agentes de atendimento ao cliente têm que lidar com pessoas difíceis todos os dias.",
+    "target_word": "with",
+    "distractors": ["about", "of"]
+  },
+  {
+    "id": "prep_b2c1_207",
+    "topic": "Intermediate/Advanced Prepositions",
+    "sentence": "The train to London will depart from platform five.",
+    "pt": "O trem para Londres partirá da plataforma cinco.",
+    "target_word": "from",
+    "distractors": ["of", "at"]
+  },
+  {
+    "id": "prep_b2c1_208",
+    "topic": "Intermediate/Advanced Prepositions",
+    "sentence": "Without access to clean water, many people might die of thirst.",
+    "pt": "Sem acesso a água limpa, muitas pessoas podem morrer de sede.",
+    "target_word": "of",
+    "distractors": ["from", "by"]
+  },
+  {
+    "id": "prep_b2c1_209",
+    "topic": "Intermediate/Advanced Prepositions",
+    "sentence": "We should discourage students from skipping classes.",
+    "pt": "Devemos desencorajar os alunos de matar aulas.",
+    "target_word": "from",
+    "distractors": ["to", "of"]
+  },
+  {
+    "id": "prep_b2c1_210",
+    "topic": "Intermediate/Advanced Prepositions",
+    "sentence": "She dreams of becoming a professional musician one day.",
+    "pt": "Ela sonha em se tornar uma musicista profissional um dia.",
+    "target_word": "of",
+    "distractors": ["about", "on"]
+  },
+  {
+    "id": "prep_b2c1_211",
+    "topic": "Intermediate/Advanced Prepositions",
+    "sentence": "My sister is engaged to a wonderful man.",
+    "pt": "Minha irmã está noiva de um homem maravilhoso.",
+    "target_word": "to",
+    "distractors": ["with", "for"]
+  },
+  {
+    "id": "prep_b2c1_212",
+    "topic": "Intermediate/Advanced Prepositions",
+    "sentence": "The team is very enthusiastic about the new project.",
+    "pt": "A equipe está muito entusiasmada com o novo projeto.",
+    "target_word": "about",
+    "distractors": ["for", "with"]
+  },
+  {
+    "id": "prep_b2c1_213",
+    "topic": "Intermediate/Advanced Prepositions",
+    "sentence": "I must admit, I was a little envious of her lifestyle.",
+    "pt": "Devo admitir, fiquei com um pouco de inveja do estilo de vida dela.",
+    "target_word": "of",
+    "distractors": ["for", "to"]
+  },
+  {
+    "id": "prep_b2c1_214",
+    "topic": "Intermediate/Advanced Prepositions",
+    "sentence": "One mile is roughly equal to 1.6 kilometers.",
+    "pt": "Uma milha é aproximadamente igual a 1,6 quilômetros.",
+    "target_word": "to",
+    "distractors": ["with", "as"]
+  },
+  {
+    "id": "prep_b2c1_215",
+    "topic": "Intermediate/Advanced Prepositions",
+    "sentence": "The prisoners managed to escape from the secure facility.",
+    "pt": "Os prisioneiros conseguiram escapar da instalação segura.",
+    "target_word": "from",
+    "distractors": ["of", "out"]
+  },
+  {
+    "id": "prep_b2c1_216",
+    "topic": "Intermediate/Advanced Prepositions",
+    "sentence": "He is excellent at organizing large corporate events.",
+    "pt": "Ele é excelente em organizar grandes eventos corporativos.",
+    "target_word": "at",
+    "distractors": ["in", "on"]
+  },
+  {
+    "id": "prep_b2c1_217",
+    "topic": "Intermediate/Advanced Prepositions",
+    "sentence": "We are all very excited about the upcoming holiday.",
+    "pt": "Estamos todos muito animados com o próximo feriado.",
+    "target_word": "about",
+    "distractors": ["for", "with"]
+  },
+  {
+    "id": "prep_b2c1_218",
+    "topic": "Intermediate/Advanced Prepositions",
+    "sentence": "They are looking for someone experienced in web development.",
+    "pt": "Eles estão procurando alguém experiente em desenvolvimento web.",
+    "target_word": "in",
+    "distractors": ["on", "at"]
+  },
+  {
+    "id": "prep_b2c1_219",
+    "topic": "Intermediate/Advanced Prepositions",
+    "sentence": "She is considered an expert on ancient Roman history.",
+    "pt": "Ela é considerada uma especialista em história da Roma antiga.",
+    "target_word": "on",
+    "distractors": ["at", "about"]
+  },
+  {
+    "id": "prep_b2c1_220",
+    "topic": "Intermediate/Advanced Prepositions",
+    "sentence": "Dogs are known for being faithful to their owners.",
+    "pt": "Os cães são conhecidos por serem fiéis aos seus donos.",
+    "target_word": "to",
+    "distractors": ["with", "for"]
+  },
+  {
+    "id": "prep_b2c1_221",
+    "topic": "Intermediate/Advanced Prepositions",
+    "sentence": "Her face looks vaguely familiar to me, but I can't remember her name.",
+    "pt": "O rosto dela parece vagamente familiar para mim, mas não consigo lembrar o nome dela.",
+    "target_word": "to",
+    "distractors": ["with", "for"]
+  },
+  {
+    "id": "prep_b2c1_222",
+    "topic": "Intermediate/Advanced Prepositions",
+    "sentence": "Switzerland is famous for its chocolate and watches.",
+    "pt": "A Suíça é famosa por seu chocolate e relógios.",
+    "target_word": "for",
+    "distractors": ["by", "of"]
+  },
+  {
+    "id": "prep_b2c1_223",
+    "topic": "Intermediate/Advanced Prepositions",
+    "sentence": "I am fed up with this constant rain; I want some sun.",
+    "pt": "Estou farto dessa chuva constante; eu quero um pouco de sol.",
+    "target_word": "with",
+    "distractors": ["of", "about"]
+  },
+  {
+    "id": "prep_b2c1_224",
+    "topic": "Intermediate/Advanced Prepositions",
+    "sentence": "She is very fond of her nieces and nephews.",
+    "pt": "Ela gosta muito de suas sobrinhas e sobrinhos.",
+    "target_word": "of",
+    "distractors": ["with", "for"]
+  },
+  {
+    "id": "prep_b2c1_225",
+    "topic": "Intermediate/Advanced Prepositions",
+    "sentence": "Please forgive me for forgetting to call you yesterday.",
+    "pt": "Por favor, me perdoe por esquecer de te ligar ontem.",
+    "target_word": "for",
+    "distractors": ["about", "of"]
+  },
+  {
+    "id": "prep_b2c1_226",
+    "topic": "Intermediate/Advanced Prepositions",
+    "sentence": "The little boy is frightened of the dark.",
+    "pt": "O menininho tem medo do escuro.",
+    "target_word": "of",
+    "distractors": ["from", "by"]
+  },
+  {
+    "id": "prep_b2c1_227",
+    "topic": "Intermediate/Advanced Prepositions",
+    "sentence": "The basket was full of fresh apples from the orchard.",
+    "pt": "A cesta estava cheia de maçãs frescas do pomar.",
+    "target_word": "of",
+    "distractors": ["with", "by"]
+  },
+  {
+    "id": "prep_b2c1_228",
+    "topic": "Intermediate/Advanced Prepositions",
+    "sentence": "He was furious with his assistant for making such a big mistake.",
+    "pt": "Ele ficou furioso com seu assistente por cometer um erro tão grande.",
+    "target_word": "with",
+    "distractors": ["at", "about"]
+  },
+  {
+    "id": "prep_b2c1_229",
+    "topic": "Intermediate/Advanced Prepositions",
+    "sentence": "She glanced at her watch and realized she was late.",
+    "pt": "Ela olhou para o relógio e percebeu que estava atrasada.",
+    "target_word": "at",
+    "distractors": ["on", "to"]
+  },
+  {
+    "id": "prep_b2c1_230",
+    "topic": "Intermediate/Advanced Prepositions",
+    "sentence": "I am extremely grateful for your help during this difficult time.",
+    "pt": "Sou extremamente grato por sua ajuda durante este momento difícil.",
+    "target_word": "for",
+    "distractors": ["of", "to"]
+  },
+  {
+    "id": "prep_b2c1_231",
+    "topic": "Intermediate/Advanced Prepositions",
+    "sentence": "He happened to be at the bank when the robbery occurred.",
+    "pt": "Aconteceu de ele estar no banco quando o assalto ocorreu.",
+    "target_word": "to",
+    "distractors": ["of", "for"]
+  },
+  {
+    "id": "prep_b2c1_232",
+    "topic": "Intermediate/Advanced Prepositions",
+    "sentence": "She was not happy with the quality of the product.",
+    "pt": "Ela não ficou feliz com a qualidade do produto.",
+    "target_word": "with",
+    "distractors": ["about", "for"]
+  },
+  {
+    "id": "prep_b2c1_233",
+    "topic": "Intermediate/Advanced Prepositions",
+    "sentence": "We should head for the exit before the crowd gets too big.",
+    "pt": "Devemos ir em direção à saída antes que a multidão fique muito grande.",
+    "target_word": "for",
+    "distractors": ["to", "at"]
+  },
+  {
+    "id": "prep_b2c1_234",
+    "topic": "Intermediate/Advanced Prepositions",
+    "sentence": "Have you heard from your brother lately?",
+    "pt": "Você tem tido notícias do seu irmão ultimamente?",
+    "target_word": "from",
+    "distractors": ["of", "about"]
+  },
+  {
+    "id": "prep_b2c1_235",
+    "topic": "Intermediate/Advanced Prepositions",
+    "sentence": "He is the sole heir to a vast family fortune.",
+    "pt": "Ele é o único herdeiro de uma vasta fortuna familiar.",
+    "target_word": "to",
+    "distractors": ["of", "for"]
+  },
+  {
+    "id": "prep_b2c1_236",
+    "topic": "Intermediate/Advanced Prepositions",
+    "sentence": "Do not let fear hinder you from achieving your dreams.",
+    "pt": "Não deixe o medo impedir você de alcançar seus sonhos.",
+    "target_word": "from",
+    "distractors": ["of", "to"]
+  },
+  {
+    "id": "prep_b2c1_237",
+    "topic": "Intermediate/Advanced Prepositions",
+    "sentence": "The article hinted at corruption within the government.",
+    "pt": "O artigo insinuou corrupção dentro do governo.",
+    "target_word": "at",
+    "distractors": ["to", "on"]
+  },
+  {
+    "id": "prep_b2c1_238",
+    "topic": "Intermediate/Advanced Prepositions",
+    "sentence": "We can only hope for the best outcome.",
+    "pt": "Só podemos torcer pelo melhor resultado.",
+    "target_word": "for",
+    "distractors": ["to", "on"]
+  },
+  {
+    "id": "prep_b2c1_239",
+    "topic": "Intermediate/Advanced Prepositions",
+    "sentence": "I am absolutely hopeless at fixing things around the house.",
+    "pt": "Eu sou absolutamente péssimo em consertar coisas pela casa.",
+    "target_word": "at",
+    "distractors": ["in", "with"]
+  },
+  {
+    "id": "prep_b2c1_240",
+    "topic": "Intermediate/Advanced Prepositions",
+    "sentence": "My briefcase is identical to yours.",
+    "pt": "Minha pasta é idêntica à sua.",
+    "target_word": "to",
+    "distractors": ["with", "as"]
+  },
+  {
+    "id": "prep_b2c1_241",
+    "topic": "Intermediate/Advanced Prepositions",
+    "sentence": "No one is immune to the effects of aging.",
+    "pt": "Ninguém é imune aos efeitos do envelhecimento.",
+    "target_word": "to",
+    "distractors": ["from", "of"]
+  },
+  {
+    "id": "prep_b2c1_242",
+    "topic": "Intermediate/Advanced Prepositions",
+    "sentence": "I was very impressed by her presentation skills.",
+    "pt": "Fiquei muito impressionado com as habilidades de apresentação dela.",
+    "target_word": "by",
+    "distractors": ["of", "at"]
+  },
+  {
+    "id": "prep_b2c1_243",
+    "topic": "Intermediate/Advanced Prepositions",
+    "sentence": "He seems incapable of telling the truth.",
+    "pt": "Ele parece incapaz de dizer a verdade.",
+    "target_word": "of",
+    "distractors": ["to", "for"]
+  },
+  {
+    "id": "prep_b2c1_244",
+    "topic": "Intermediate/Advanced Prepositions",
+    "sentence": "Is service included in the bill, or should I tip?",
+    "pt": "O serviço está incluído na conta ou devo dar gorjeta?",
+    "target_word": "in",
+    "distractors": ["on", "at"]
+  },
+  {
+    "id": "prep_b2c1_245",
+    "topic": "Intermediate/Advanced Prepositions",
+    "sentence": "We need an audit that is independent of the company's management.",
+    "pt": "Precisamos de uma auditoria que seja independente da administração da empresa.",
+    "target_word": "of",
+    "distractors": ["from", "to"]
+  },
+  {
+    "id": "prep_b2c1_246",
+    "topic": "Intermediate/Advanced Prepositions",
+    "sentence": "He appears indifferent to the suffering of others.",
+    "pt": "Ele parece indiferente ao sofrimento dos outros.",
+    "target_word": "to",
+    "distractors": ["of", "with"]
+  },
+  {
+    "id": "prep_b2c1_247",
+    "topic": "Intermediate/Advanced Prepositions",
+    "sentence": "You should not interfere in matters that don't concern you.",
+    "pt": "Você não deve interferir em assuntos que não lhe dizem respeito.",
+    "target_word": "in",
+    "distractors": ["on", "with"]
+  },
+  {
+    "id": "prep_b2c1_248",
+    "topic": "Intermediate/Advanced Prepositions",
+    "sentence": "Who is responsible for organizing the office party?",
+    "pt": "Quem é o responsável por organizar a festa do escritório?",
+    "target_word": "for",
+    "distractors": ["to", "of"]
+  },
+  {
+    "id": "prep_b2c1_249",
+    "topic": "Intermediate/Advanced Prepositions",
+    "sentence": "She is very jealous of her sister's new car.",
+    "pt": "Ela está com muito ciúme do carro novo da irmã.",
+    "target_word": "of",
+    "distractors": ["about", "with"]
+  },
+  {
+    "id": "prep_b2c1_250",
+    "topic": "Intermediate/Advanced Prepositions",
+    "sentence": "We need to find a solution to this problem immediately.",
+    "pt": "Precisamos encontrar uma solução para este problema imediatamente.",
+    "target_word": "to",
+    "distractors": ["for", "of"]
+  },
+  {
+    "id": "prep_b2c1_251",
+    "topic": "Intermediate/Advanced Prepositions",
+    "sentence": "My son is very keen on joining the university football team.",
+    "pt": "Meu filho está muito interessado em entrar para o time de futebol da universidade.",
+    "target_word": "on",
+    "distractors": ["in", "with"]
+  },
+  {
+    "id": "prep_b2c1_252",
+    "topic": "Intermediate/Advanced Prepositions",
+    "sentence": "It's important to be kind to animals and treat them with respect.",
+    "pt": "É importante ser gentil com os animais e tratá-los com respeito.",
+    "target_word": "to",
+    "distractors": ["with", "for"]
+  },
+  {
+    "id": "prep_b2c1_253",
+    "topic": "Intermediate/Advanced Prepositions",
+    "sentence": "The project failed due to a lack of proper planning.",
+    "pt": "O projeto falhou devido à falta de planejamento adequado.",
+    "target_word": "of",
+    "distractors": ["in", "for"]
+  },
+  {
+    "id": "prep_b2c1_254",
+    "topic": "Intermediate/Advanced Prepositions",
+    "sentence": "It's rude to laugh at people when they make a mistake.",
+    "pt": "É rude rir das pessoas quando elas cometem um erro.",
+    "target_word": "at",
+    "distractors": ["on", "about"]
+  },
+  {
+    "id": "prep_b2c1_255",
+    "topic": "Intermediate/Advanced Prepositions",
+    "sentence": "You should listen to your doctor's advice if you want to get better.",
+    "pt": "Você deveria ouvir o conselho do seu médico se quiser melhorar.",
+    "target_word": "to",
+    "distractors": ["at", "on"]
+  },
+  {
+    "id": "prep_b2c1_256",
+    "topic": "Intermediate/Advanced Prepositions",
+    "sentence": "Can you look at this report and tell me what you think?",
+    "pt": "Você pode olhar este relatório e me dizer o que acha?",
+    "target_word": "at",
+    "distractors": ["for", "to"]
+  },
+  {
+    "id": "prep_b2c1_257",
+    "topic": "Intermediate/Advanced Prepositions",
+    "sentence": "I'm looking for my keys; have you seen them anywhere?",
+    "pt": "Estou procurando minhas chaves; você as viu em algum lugar?",
+    "target_word": "for",
+    "distractors": ["at", "after"]
+  },
+  {
+    "id": "prep_b2c1_258",
+    "topic": "Intermediate/Advanced Prepositions",
+    "sentence": "We are all looking forward to the summer vacation.",
+    "pt": "Estamos todos ansiosos pelas férias de verão.",
+    "target_word": "to",
+    "distractors": ["for", "at"]
+  },
+  {
+    "id": "prep_b2c1_259",
+    "topic": "Intermediate/Advanced Prepositions",
+    "sentence": "This antique table is made of solid oak wood.",
+    "pt": "Esta mesa antiga é feita de madeira maciça de carvalho.",
+    "target_word": "of",
+    "distractors": ["from", "with"]
+  },
+  {
+    "id": "prep_b2c1_260",
+    "topic": "Intermediate/Advanced Prepositions",
+    "sentence": "Glass is made from sand, which is melted at high temperatures.",
+    "pt": "O vidro é feito de areia, que é derretida em altas temperaturas.",
+    "target_word": "from",
+    "distractors": ["of", "by"]
+  },
+  {
+    "id": "prep_b2c1_261",
+    "topic": "Intermediate/Advanced Prepositions",
+    "sentence": "My cousin is married to his high school sweetheart.",
+    "pt": "Meu primo é casado com seu amor de colégio.",
+    "target_word": "to",
+    "distractors": ["with", "for"]
+  },
+  {
+    "id": "prep_b2c1_262",
+    "topic": "Intermediate/Advanced Prepositions",
+    "sentence": "I'm sorry, I mistook you for someone else I know.",
+    "pt": "Desculpe, eu te confundi com outra pessoa que conheço.",
+    "target_word": "for",
+    "distractors": ["as", "with"]
+  },
+  {
+    "id": "prep_b2c1_263",
+    "topic": "Intermediate/Advanced Prepositions",
+    "sentence": "It's normal to feel nervous about a big job interview.",
+    "pt": "É normal sentir-se nervoso com uma grande entrevista de emprego.",
+    "target_word": "about",
+    "distractors": ["for", "of"]
+  },
+  {
+    "id": "prep_b2c1_264",
+    "topic": "Intermediate/Advanced Prepositions",
+    "sentence": "Many residents object to the plan to build a new factory nearby.",
+    "pt": "Muitos residentes se opõem ao plano de construir uma nova fábrica nas proximidades.",
+    "target_word": "to",
+    "distractors": ["against", "with"]
+  },
+  {
+    "id": "prep_b2c1_265",
+    "topic": "Intermediate/Advanced Prepositions",
+    "sentence": "The surgeon will operate on the patient tomorrow morning.",
+    "pt": "O cirurgião vai operar o paciente amanhã de manhã.",
+    "target_word": "on",
+    "distractors": ["in", "at"]
+  },
+  {
+    "id": "prep_b2c1_266",
+    "topic": "Intermediate/Advanced Prepositions",
+    "sentence": "Did you remember to pay for the tickets?",
+    "pt": "Você se lembrou de pagar pelos ingressos?",
+    "target_word": "for",
+    "distractors": ["to", "of"]
+  },
+  {
+    "id": "prep_b2c1_267",
+    "topic": "Intermediate/Advanced Prepositions",
+    "sentence": "We were all very pleased with the final results of the campaign.",
+    "pt": "Ficamos todos muito satisfeitos com os resultados finais da campanha.",
+    "target_word": "with",
+    "distractors": ["by", "about"]
+  },
+  {
+    "id": "prep_b2c1_268",
+    "topic": "Intermediate/Advanced Prepositions",
+    "sentence": "It is impolite to point at other people.",
+    "pt": "É falta de educação apontar para outras pessoas.",
+    "target_word": "at",
+    "distractors": ["to", "on"]
+  },
+  {
+    "id": "prep_b2c1_269",
+    "topic": "Intermediate/Advanced Prepositions",
+    "sentence": "This new restaurant is becoming very popular with the local residents.",
+    "pt": "Este novo restaurante está se tornando muito popular entre os residentes locais.",
+    "target_word": "with",
+    "distractors": ["among", "for"]
+  },
+  {
+    "id": "prep_b2c1_270",
+    "topic": "Intermediate/Advanced Prepositions",
+    "sentence": "She is studying hard to prepare for her final exams.",
+    "pt": "Ela está estudando muito para se preparar para seus exames finais.",
+    "target_word": "for",
+    "distractors": ["to", "on"]
+  },
+  {
+    "id": "prep_b2c1_271",
+    "topic": "Intermediate/Advanced Prepositions",
+    "sentence": "The security guard prevented the thief from escaping.",
+    "pt": "O guarda de segurança impediu o ladrão de escapar.",
+    "target_word": "from",
+    "distractors": ["to", "of"]
+  },
+  {
+    "id": "prep_b2c1_272",
+    "topic": "Intermediate/Advanced Prepositions",
+    "sentence": "The school prohibits students from using their phones in class.",
+    "pt": "A escola proíbe os alunos de usar seus telefones na aula.",
+    "target_word": "from",
+    "distractors": ["to", "of"]
+  },
+  {
+    "id": "prep_b2c1_273",
+    "topic": "Intermediate/Advanced Prepositions",
+    "sentence": "Sunscreen helps protect your skin from the harmful effects of the sun.",
+    "pt": "O protetor solar ajuda a proteger sua pele dos efeitos nocivos do sol.",
+    "target_word": "from",
+    "distractors": ["against", "of"]
+  },
+  {
+    "id": "prep_b2c1_274",
+    "topic": "Intermediate/Advanced Prepositions",
+    "sentence": "His parents are very proud of his academic achievements.",
+    "pt": "Os pais dele estão muito orgulhosos de suas conquistas acadêmicas.",
+    "target_word": "of",
+    "distractors": ["for", "with"]
+  },
+  {
+    "id": "prep_b2c1_275",
+    "topic": "Intermediate/Advanced Prepositions",
+    "sentence": "The company provides all its employees with health insurance.",
+    "pt": "A empresa fornece a todos os seus funcionários seguro saúde.",
+    "target_word": "with",
+    "distractors": ["for", "to"]
+  },
+  {
+    "id": "prep_b2c1_276",
+    "topic": "Intermediate/Advanced Prepositions",
+    "sentence": "He works two jobs to provide for his family.",
+    "pt": "Ele tem dois empregos para sustentar sua família.",
+    "target_word": "for",
+    "distractors": ["to", "with"]
+  },
+  {
+    "id": "prep_b2c1_277",
+    "topic": "Intermediate/Advanced Prepositions",
+    "sentence": "How did the market react to the news of the merger?",
+    "pt": "Como o mercado reagiu à notícia da fusão?",
+    "target_word": "to",
+    "distractors": ["on", "with"]
+  },
+  {
+    "id": "prep_b2c1_278",
+    "topic": "Intermediate/Advanced Prepositions",
+    "sentence": "I read about the new discovery in a science magazine.",
+    "pt": "Eu li sobre a nova descoberta em uma revista de ciências.",
+    "target_word": "about",
+    "distractors": ["of", "on"]
+  },
+  {
+    "id": "prep_b2c1_279",
+    "topic": "Intermediate/Advanced Prepositions",
+    "sentence": "There is no reason for this kind of behavior.",
+    "pt": "Não há razão para esse tipo de comportamento.",
+    "target_word": "for",
+    "distractors": ["of", "to"]
+  },
+  {
+    "id": "prep_b2c1_280",
+    "topic": "Intermediate/Advanced Prepositions",
+    "sentence": "It took her several weeks to recover from the illness.",
+    "pt": "Ela levou várias semanas para se recuperar da doença.",
+    "target_word": "from",
+    "distractors": ["of", "off"]
+  },
+  {
+    "id": "prep_b2c1_281",
+    "topic": "Intermediate/Advanced Prepositions",
+    "sentence": "We managed to reduce our costs by 15% last year.",
+    "pt": "Conseguimos reduzir nossos custos em 15% no ano passado.",
+    "target_word": "by",
+    "distractors": ["in", "to"]
+  },
+  {
+    "id": "prep_b2c1_282",
+    "topic": "Intermediate/Advanced Prepositions",
+    "sentence": "This data refers to the first quarter of the year.",
+    "pt": "Estes dados se referem ao primeiro trimestre do ano.",
+    "target_word": "to",
+    "distractors": ["on", "about"]
+  },
+  {
+    "id": "prep_b2c1_283",
+    "topic": "Intermediate/Advanced Prepositions",
+    "sentence": "The rules apply to everyone, regardless of their position.",
+    "pt": "As regras se aplicam a todos, independentemente de sua posição.",
+    "target_word": "of",
+    "distractors": ["from", "to"]
+  },
+  {
+    "id": "prep_b2c1_284",
+    "topic": "Intermediate/Advanced Prepositions",
+    "sentence": "I find it hard to relate to people who are dishonest.",
+    "pt": "Acho difícil me relacionar com pessoas que são desonestas.",
+    "target_word": "to",
+    "distractors": ["with", "about"]
+  },
+  {
+    "id": "prep_b2c1_285",
+    "topic": "Intermediate/Advanced Prepositions",
+    "sentence": "Your previous work experience is not relevant to this job.",
+    "pt": "Sua experiência de trabalho anterior não é relevante para este emprego.",
+    "target_word": "to",
+    "distractors": ["for", "with"]
+  },
+  {
+    "id": "prep_b2c1_286",
+    "topic": "Intermediate/Advanced Prepositions",
+    "sentence": "In this job, you must be able to rely on your team.",
+    "pt": "Neste trabalho, você deve ser capaz de confiar na sua equipe.",
+    "target_word": "on",
+    "distractors": ["in", "with"]
+  },
+  {
+    "id": "prep_b2c1_287",
+    "topic": "Intermediate/Advanced Prepositions",
+    "sentence": "This song reminds me of my childhood.",
+    "pt": "Esta música me lembra da minha infância.",
+    "target_word": "of",
+    "distractors": ["about", "to"]
+  },
+  {
+    "id": "prep_b2c1_288",
+    "topic": "Intermediate/Advanced Prepositions",
+    "sentence": "We had to replace the old printer with a new model.",
+    "pt": "Tivemos que substituir a impressora antiga por um novo modelo.",
+    "target_word": "with",
+    "distractors": ["by", "for"]
+  },
+  {
+    "id": "prep_b2c1_289",
+    "topic": "Intermediate/Advanced Prepositions",
+    "sentence": "She hasn't replied to my email yet.",
+    "pt": "Ela ainda não respondeu ao meu e-mail.",
+    "target_word": "to",
+    "distractors": ["on", "about"]
+  },
+  {
+    "id": "prep_b2c1_290",
+    "topic": "Intermediate/Advanced Prepositions",
+    "sentence": "The chef has a reputation for being very creative.",
+    "pt": "O chef tem reputação de ser muito criativo.",
+    "target_word": "for",
+    "distractors": ["of", "as"]
+  },
+  {
+    "id": "prep_b2c1_291",
+    "topic": "Intermediate/Advanced Prepositions",
+    "sentence": "Who is responsible for making this decision?",
+    "pt": "Quem é o responsável por tomar esta decisão?",
+    "target_word": "for",
+    "distractors": ["of", "to"]
+  },
+  {
+    "id": "prep_b2c1_292",
+    "topic": "Intermediate/Advanced Prepositions",
+    "sentence": "The heavy rain resulted in widespread flooding.",
+    "pt": "A chuva forte resultou em inundações generalizadas.",
+    "target_word": "in",
+    "distractors": ["from", "to"]
+  },
+  {
+    "id": "prep_b2c1_293",
+    "topic": "Intermediate/Advanced Prepositions",
+    "sentence": "There is no need to be so rude to the waiter.",
+    "pt": "Não há necessidade de ser tão rude com o garçom.",
+    "target_word": "to",
+    "distractors": ["with", "for"]
+  },
+  {
+    "id": "prep_b2c1_294",
+    "topic": "Intermediate/Advanced Prepositions",
+    "sentence": "We ran out of milk, so I need to go to the store.",
+    "pt": "Acabou o leite, então preciso ir ao mercado.",
+    "target_word": "of",
+    "distractors": ["from", "off"]
+  },
+  {
+    "id": "prep_b2c1_295",
+    "topic": "Intermediate/Advanced Prepositions",
+    "sentence": "Are you satisfied with your current salary?",
+    "pt": "Você está satisfeito com seu salário atual?",
+    "target_word": "with",
+    "distractors": ["by", "of"]
+  },
+  {
+    "id": "prep_b2c1_296",
+    "topic": "Intermediate/Advanced Prepositions",
+    "sentence": "The police are searching for the missing child.",
+    "pt": "A polícia está procurando pela criança desaparecida.",
+    "target_word": "for",
+    "distractors": ["after", "at"]
+  },
+  {
+    "id": "prep_b2c1_297",
+    "topic": "Intermediate/Advanced Prepositions",
+    "sentence": "My skin is very sensitive to sunlight.",
+    "pt": "Minha pele é muito sensível à luz solar.",
+    "target_word": "to",
+    "distractors": ["with", "for"]
+  },
+  {
+    "id": "prep_b2c1_298",
+    "topic": "Intermediate/Advanced Prepositions",
+    "sentence": "It's difficult to separate facts from opinions in this article.",
+    "pt": "É difícil separar fatos de opiniões neste artigo.",
+    "target_word": "from",
+    "distractors": ["of", "with"]
+  },
+  {
+    "id": "prep_b2c1_299",
+    "topic": "Intermediate/Advanced Prepositions",
+    "sentence": "We are short of time, so let's get straight to the point.",
+    "pt": "Estamos com pouco tempo, então vamos direto ao ponto.",
+    "target_word": "of",
+    "distractors": ["on", "in"]
+  },
+  {
+    "id": "prep_b2c1_300",
+    "topic": "Intermediate/Advanced Prepositions",
+    "sentence": "Don't shout at me; I'm doing the best I can.",
+    "pt": "Não grite comigo; estou fazendo o melhor que posso.",
+    "target_word": "at",
+    "distractors": ["to", "on"]
+  },
+  {
+    "id": "prep_b2c1_301",
+    "topic": "Intermediate/Advanced Prepositions",
+    "sentence": "This new plan is quite similar to the one we tried last year.",
+    "pt": "Este novo plano é bem similar àquele que tentamos no ano passado.",
+    "target_word": "to",
+    "distractors": ["with", "as"]
+  },
+  {
+    "id": "prep_b2c1_302",
+    "topic": "Intermediate/Advanced Prepositions",
+    "sentence": "How much money do you spend on groceries each week?",
+    "pt": "Quanto dinheiro você gasta em compras de mercado toda semana?",
+    "target_word": "on",
+    "distractors": ["in", "for"]
+  },
+  {
+    "id": "prep_b2c1_303",
+    "topic": "Intermediate/Advanced Prepositions",
+    "sentence": "She needs to talk to her professor about her grades.",
+    "pt": "Ela precisa falar com o professor dela sobre suas notas.",
+    "target_word": "to",
+    "distractors": ["at", "about"]
+  },
+  {
+    "id": "prep_b2c1_304",
+    "topic": "Intermediate/Advanced Prepositions",
+    "sentence": "What do you think of the new company policy?",
+    "pt": "O que você acha da nova política da empresa?",
+    "target_word": "of",
+    "distractors": ["on", "at"]
+  },
+  {
+    "id": "prep_b2c1_305",
+    "topic": "Intermediate/Advanced Prepositions",
+    "sentence": "He's thinking about moving to another city for his new job.",
+    "pt": "Ele está pensando em se mudar para outra cidade para seu novo emprego.",
+    "target_word": "about",
+    "distractors": ["on", "to"]
+  },
+  {
+    "id": "prep_b2c1_306",
+    "topic": "Intermediate/Advanced Prepositions",
+    "sentence": "Could you translate this document from German into English?",
+    "pt": "Você poderia traduzir este documento do alemão para o inglês?",
+    "target_word": "into",
+    "distractors": ["to", "in"]
+  },
+  {
+    "id": "prep_b2c1_307",
+    "topic": "Intermediate/Advanced Prepositions",
+    "sentence": "I've been waiting for this package to arrive all week.",
+    "pt": "Estou esperando este pacote chegar a semana toda.",
+    "target_word": "for",
+    "distractors": ["on", "to"]
+  },
+  {
+    "id": "prep_b2c1_308",
+    "topic": "Intermediate/Advanced Prepositions",
+    "sentence": "They warned us about the potential side effects of the medication.",
+    "pt": "Eles nos avisaram sobre os potenciais efeitos colaterais da medicação.",
+    "target_word": "about",
+    "distractors": ["of", "for"]
+  },
+  {
+    "id": "prep_b2c1_309",
+    "topic": "Intermediate/Advanced Prepositions",
+    "sentence": "You shouldn't worry about things that are out of your control.",
+    "pt": "Você não deveria se preocupar com coisas que estão fora do seu controle.",
+    "target_word": "about",
+    "distractors": ["with", "for"]
+  },
+  {
+    "id": "prep_b2c1_310",
+    "topic": "Intermediate/Advanced Prepositions",
+    "sentence": "He wrote a letter of complaint to the hotel manager.",
+    "pt": "Ele escreveu uma carta de reclamação para o gerente do hotel.",
+    "target_word": "to",
+    "distractors": ["for", "at"]
+  },
+  {
+    "id": "prep_b2c1_311",
+    "topic": "Intermediate/Advanced Prepositions",
+    "sentence": "We've run out of sugar; I need to buy some.",
+    "pt": "Nós ficamos sem açúcar; preciso comprar um pouco.",
+    "target_word": "of",
+    "distractors": ["from", "off"]
+  },
+  {
+    "id": "prep_b2c1_312",
+    "topic": "Intermediate/Advanced Prepositions",
+    "sentence": "He was suspended from school for breaking the rules.",
+    "pt": "Ele foi suspenso da escola por quebrar as regras.",
+    "target_word": "from",
+    "distractors": ["of", "out of"]
+  },
+  {
+    "id": "prep_b2c1_313",
+    "topic": "Intermediate/Advanced Prepositions",
+    "sentence": "The quality of this product is terrible.",
+    "pt": "A qualidade deste produto é péssima.",
+    "target_word": "of",
+    "distractors": ["in", "on"]
+  },
+  {
+    "id": "prep_b2c1_314",
+    "topic": "Intermediate/Advanced Prepositions",
+    "sentence": "She has been taking care of her sick mother for months.",
+    "pt": "Ela está cuidando de sua mãe doente há meses.",
+    "target_word": "of",
+    "distractors": ["for", "after"]
+  },
+  {
+    "id": "prep_b2c1_315",
+    "topic": "Intermediate/Advanced Prepositions",
+    "sentence": "I'm really terrible at remembering people's names.",
+    "pt": "Eu sou muito péssimo em lembrar os nomes das pessoas.",
+    "target_word": "at",
+    "distractors": ["in", "on"]
+  },
+  {
+    "id": "prep_b2c1_316",
+    "topic": "Intermediate/Advanced Prepositions",
+    "sentence": "Thank you for all the help you've given me.",
+    "pt": "Obrigado por toda a ajuda que você me deu.",
+    "target_word": "for",
+    "distractors": ["of", "about"]
+  },
+  {
+    "id": "prep_b2c1_317",
+    "topic": "Intermediate/Advanced Prepositions",
+    "sentence": "You should throw away those old shoes; they are falling apart.",
+    "pt": "Você deveria jogar fora esses sapatos velhos; eles estão caindo aos pedaços.",
+    "target_word": "away",
+    "distractors": ["out", "off"]
+  },
+  {
+    "id": "prep_b2c1_318",
+    "topic": "Intermediate/Advanced Prepositions",
+    "sentence": "Could you turn the volume up a little? I can't hear it.",
+    "pt": "Você pode aumentar um pouco o volume? Não consigo ouvir.",
+    "target_word": "up",
+    "distractors": ["on", "in"]
+  },
+  {
+    "id": "prep_b2c1_319",
+    "topic": "Intermediate/Advanced Prepositions",
+    "sentence": "Please turn off the lights when you leave the room.",
+    "pt": "Por favor, apague as luzes ao sair da sala.",
+    "target_word": "off",
+    "distractors": ["out", "down"]
+  },
+  {
+    "id": "prep_b2c1_320",
+    "topic": "Intermediate/Advanced Prepositions",
+    "sentence": "He is well known for his work in artificial intelligence.",
+    "pt": "Ele é bem conhecido por seu trabalho em inteligência artificial.",
+    "target_word": "for",
+    "distractors": ["by", "at"]
+  },
+  {
+    "id": "prep_b2c1_321",
+    "topic": "Intermediate/Advanced Prepositions",
+    "sentence": "I'm not used to waking up this early in the morning.",
+    "pt": "Não estou acostumado a acordar tão cedo de manhã.",
+    "target_word": "to",
+    "distractors": ["with", "for"]
+  },
+  {
+    "id": "prep_b2c1_322",
+    "topic": "Intermediate/Advanced Prepositions",
+    "sentence": "This pen is useless for writing on plastic.",
+    "pt": "Esta caneta é inútil para escrever em plástico.",
+    "target_word": "for",
+    "distractors": ["to", "at"]
+  },
+  {
+    "id": "prep_b2c1_323",
+    "topic": "Intermediate/Advanced Prepositions",
+    "sentence": "There is a wide variety of food at the buffet.",
+    "pt": "Há uma grande variedade de comida no buffet.",
+    "target_word": "of",
+    "distractors": ["in", "on"]
+  },
+  {
+    "id": "prep_b2c1_324",
+    "topic": "Intermediate/Advanced Prepositions",
+    "sentence": "He voted for the independent candidate in the last election.",
+    "pt": "Ele votou no candidato independente na última eleição.",
+    "target_word": "for",
+    "distractors": ["on", "to"]
+  },
+  {
+    "id": "prep_b2c1_325",
+    "topic": "Intermediate/Advanced Prepositions",
+    "sentence": "I'm feeling a bit anxious about my presentation tomorrow.",
+    "pt": "Estou me sentindo um pouco ansioso com minha apresentação amanhã.",
+    "target_word": "about",
+    "distractors": ["for", "with"]
+  },
+  {
+    "id": "prep_b2c1_326",
+    "topic": "Intermediate/Advanced Prepositions",
+    "sentence": "What's wrong with the computer? It keeps crashing.",
+    "pt": "O que há de errado com o computador? Ele continua travando.",
+    "target_word": "with",
+    "distractors": ["of", "on"]
+  },
+  {
+    "id": "prep_b2c1_327",
+    "topic": "Intermediate/Advanced Prepositions",
+    "sentence": "She is brilliant at solving complex mathematical problems.",
+    "pt": "Ela é brilhante em resolver problemas matemáticos complexos.",
+    "target_word": "at",
+    "distractors": ["in", "on"]
+  },
+  {
+    "id": "prep_b2c1_328",
+    "topic": "Intermediate/Advanced Prepositions",
+    "sentence": "He is busy with his homework and cannot come out to play.",
+    "pt": "Ele está ocupado com a lição de casa e não pode sair para brincar.",
+    "target_word": "with",
+    "distractors": ["on", "in"]
+  },
+  {
+    "id": "prep_b2c1_329",
+    "topic": "Intermediate/Advanced Prepositions",
+    "sentence": "The meeting was canceled due to a lack of interest.",
+    "pt": "A reunião foi cancelada por falta de interesse.",
+    "target_word": "of",
+    "distractors": ["for", "in"]
+  },
+  {
+    "id": "prep_b2c1_330",
+    "topic": "Intermediate/Advanced Prepositions",
+    "sentence": "You should be careful with that knife; it's very sharp.",
+    "pt": "Você deve ter cuidado com essa faca; é muito afiada.",
+    "target_word": "with",
+    "distractors": ["about", "of"]
+  },
+  {
+    "id": "prep_b2c1_331",
+    "topic": "Intermediate/Advanced Prepositions",
+    "sentence": "We are uncertain about the future of the company.",
+    "pt": "Estamos incertos sobre o futuro da empresa.",
+    "target_word": "about",
+    "distractors": ["of", "in"]
+  },
+  {
+    "id": "prep_b2c1_332",
+    "topic": "Intermediate/Advanced Prepositions",
+    "sentence": "This city is very different from the small town where I grew up.",
+    "pt": "Esta cidade é muito diferente da pequena cidade onde cresci.",
+    "target_word": "from",
+    "distractors": ["than", "of"]
+  },
+  {
+    "id": "prep_b2c1_333",
+    "topic": "Intermediate/Advanced Prepositions",
+    "sentence": "She was dressed in black from head to toe.",
+    "pt": "Ela estava vestida de preto da cabeça aos pés.",
+    "target_word": "in",
+    "distractors": ["with", "on"]
+  },
+  {
+    "id": "prep_b2c1_334",
+    "topic": "Intermediate/Advanced Prepositions",
+    "sentence": "I am so excited about my upcoming trip to Japan.",
+    "pt": "Estou tão animado com minha próxima viagem ao Japão.",
+    "target_word": "about",
+    "distractors": ["for", "on"]
+  },
+  {
+    "id": "prep_b2c1_335",
+    "topic": "Intermediate/Advanced Prepositions",
+    "sentence": "He is friendly with everyone in the office.",
+    "pt": "Ele é amigável com todos no escritório.",
+    "target_word": "with",
+    "distractors": ["to", "for"]
+  },
+  {
+    "id": "prep_b2c1_336",
+    "topic": "Intermediate/Advanced Prepositions",
+    "sentence": "I'm sorry, but I'm just not interested in politics.",
+    "pt": "Desculpe, mas eu simplesmente não estou interessado em política.",
+    "target_word": "in",
+    "distractors": ["on", "about"]
+  },
+  {
+    "id": "prep_b2c1_337",
+    "topic": "Intermediate/Advanced Prepositions",
+    "sentence": "It was nice of you to help me move my furniture.",
+    "pt": "Foi legal da sua parte me ajudar a mudar meus móveis.",
+    "target_word": "of",
+    "distractors": ["from", "to"]
+  },
+  {
+    "id": "prep_b2c1_338",
+    "topic": "Intermediate/Advanced Prepositions",
+    "sentence": "She has always been very polite to her elders.",
+    "pt": "Ela sempre foi muito educada com os mais velhos.",
+    "target_word": "to",
+    "distractors": ["with", "for"]
+  },
+  {
+    "id": "prep_b2c1_339",
+    "topic": "Intermediate/Advanced Prepositions",
+    "sentence": "The store was crowded with shoppers looking for bargains.",
+    "pt": "A loja estava lotada de compradores procurando por pechinchas.",
+    "target_word": "with",
+    "distractors": ["of", "by"]
+  },
+  {
+    "id": "prep_b2c1_340",
+    "topic": "Intermediate/Advanced Prepositions",
+    "sentence": "We need to get rid of all this old furniture.",
+    "pt": "Precisamos nos livrar de toda esta mobília velha.",
+    "target_word": "of",
+    "distractors": ["from", "off"]
+  },
+  {
+    "id": "prep_b2c1_341",
+    "topic": "Intermediate/Advanced Prepositions",
+    "sentence": "The police questioned him in connection with the robbery.",
+    "pt": "A polícia o interrogou em conexão com o roubo.",
+    "target_word": "with",
+    "distractors": ["to", "for"]
+  },
+  {
+    "id": "prep_b2c1_342",
+    "topic": "Intermediate/Advanced Prepositions",
+    "sentence": "He has been absent from class for three days in a row.",
+    "pt": "Ele está ausente da aula há três dias seguidos.",
+    "target_word": "from",
+    "distractors": ["of", "in"]
+  },
+  {
+    "id": "prep_b2c1_343",
+    "topic": "Intermediate/Advanced Prepositions",
+    "sentence": "She seems to be allergic to cats.",
+    "pt": "Ela parece ser alérgica a gatos.",
+    "target_word": "to",
+    "distractors": ["with", "from"]
+  },
+  {
+    "id": "prep_b2c1_344",
+    "topic": "Intermediate/Advanced Prepositions",
+    "sentence": "I was amazed at how quickly she learned the new system.",
+    "pt": "Fiquei impressionado com a rapidez com que ela aprendeu o novo sistema.",
+    "target_word": "at",
+    "distractors": ["by", "of"]
+  },
+  {
+    "id": "prep_b2c1_345",
+    "topic": "Intermediate/Advanced Prepositions",
+    "sentence": "The government was blamed for the economic crisis.",
+    "pt": "O governo foi culpado pela crise econômica.",
+    "target_word": "for",
+    "distractors": ["of", "on"]
+  },
+  {
+    "id": "prep_b2c1_346",
+    "topic": "Intermediate/Advanced Prepositions",
+    "sentence": "She has been complaining about a pain in her back.",
+    "pt": "Ela tem reclamado de uma dor nas costas.",
+    "target_word": "about",
+    "distractors": ["of", "for"]
+  },
+  {
+    "id": "prep_b2c1_347",
+    "topic": "Intermediate/Advanced Prepositions",
+    "sentence": "He was clever of him to find a solution so quickly.",
+    "pt": "Foi esperto da parte dele encontrar uma solução tão rapidamente.",
+    "target_word": "of",
+    "distractors": ["for", "to"]
+  },
+  {
+    "id": "prep_b2c1_348",
+    "topic": "Intermediate/Advanced Prepositions",
+    "sentence": "I'm not familiar with that part of the city.",
+    "pt": "Não estou familiarizado com aquela parte da cidade.",
+    "target_word": "with",
+    "distractors": ["to", "about"]
+  },
+  {
+    "id": "prep_b2c1_349",
+    "topic": "Intermediate/Advanced Prepositions",
+    "sentence": "He was found guilty of lying under oath.",
+    "pt": "Ele foi considerado culpado de mentir sob juramento.",
+    "target_word": "of",
+    "distractors": ["for", "in"]
+  },
+  {
+    "id": "prep_b2c1_350",
+    "topic": "Intermediate/Advanced Prepositions",
+    "sentence": "I'm a little short of cash right now; can I pay you back tomorrow?",
+    "pt": "Estou com um pouco de falta de dinheiro agora; posso te pagar de volta amanhã?",
+    "target_word": "of",
+    "distractors": ["on", "in"]
+  },
+  {
+    "id": "prep_b2c1_351",
+    "topic": "Intermediate/Advanced Prepositions",
+    "sentence": "The success of the project depends entirely on the team's effort.",
+    "pt": "O sucesso do projeto depende inteiramente do esforço da equipe.",
+    "target_word": "on",
+    "distractors": ["in", "of"]
+  },
+  {
+    "id": "prep_b2c1_352",
+    "topic": "Intermediate/Advanced Prepositions",
+    "sentence": "Are you genuinely interested in applying for this position?",
+    "pt": "Você está genuinamente interessado em se candidatar a esta vaga?",
+    "target_word": "in",
+    "distractors": ["about", "for"]
+  },
+  {
+    "id": "prep_b2c1_353",
+    "topic": "Intermediate/Advanced Prepositions",
+    "sentence": "The manager was accused of stealing money from the company.",
+    "pt": "O gerente foi acusado de roubar dinheiro da empresa.",
+    "target_word": "of",
+    "distractors": ["for", "with"]
+  },
+  {
+    "id": "prep_b2c1_354",
+    "topic": "Intermediate/Advanced Prepositions",
+    "sentence": "The bad weather prevented them from finishing the game.",
+    "pt": "O mau tempo os impediu de terminar o jogo.",
+    "target_word": "from",
+    "distractors": ["to", "against"]
+  },
+  {
+    "id": "prep_b2c1_355",
+    "topic": "Intermediate/Advanced Prepositions",
+    "sentence": "As the team leader, you are responsible for the final report.",
+    "pt": "Como líder da equipe, você é responsável pelo relatório final.",
+    "target_word": "for",
+    "distractors": ["to", "with"]
+  },
+  {
+    "id": "prep_b2c1_356",
+    "topic": "Intermediate/Advanced Prepositions",
+    "sentence": "After many attempts, he finally succeeded in passing the exam.",
+    "pt": "Após muitas tentativas, ele finalmente conseguiu passar no exame.",
+    "target_word": "in",
+    "distractors": ["on", "at"]
+  },
+  {
+    "id": "prep_b2c1_357",
+    "topic": "Intermediate/Advanced Prepositions",
+    "sentence": "She was extremely proud of her achievements at the new job.",
+    "pt": "Ela estava extremamente orgulhosa de suas conquistas no novo emprego.",
+    "target_word": "of",
+    "distractors": ["for", "with"]
+  },
+  {
+    "id": "prep_b2c1_358",
+    "topic": "Intermediate/Advanced Prepositions",
+    "sentence": "He's very good at negotiating contracts with new clients.",
+    "pt": "Ele é muito bom em negociar contratos com novos clientes.",
+    "target_word": "at",
+    "distractors": ["in", "on"]
+  },
+  {
+    "id": "prep_b2c1_359",
+    "topic": "Intermediate/Advanced Prepositions",
+    "sentence": "You need to apologize to her for being so rude.",
+    "pt": "Você precisa pedir desculpas a ela por ser tão rude.",
+    "target_word": "for",
+    "distractors": ["about", "with"]
+  },
+  {
+    "id": "prep_b2c1_360",
+    "topic": "Intermediate/Advanced Prepositions",
+    "sentence": "I don't believe in spending money on things I don't need.",
+    "pt": "Eu não acredito em gastar dinheiro com coisas que não preciso.",
+    "target_word": "in",
+    "distractors": ["on", "at"]
+  },
+  {
+    "id": "prep_b2c1_361",
+    "topic": "Intermediate/Advanced Prepositions",
+    "sentence": "The new software update consists of three main features.",
+    "pt": "A nova atualização de software consiste em três recursos principais.",
+    "target_word": "of",
+    "distractors": ["with", "in"]
+  },
+  {
+    "id": "prep_b2c1_362",
+    "topic": "Intermediate/Advanced Prepositions",
+    "sentence": "We need to find a better way to deal with customer complaints.",
+    "pt": "Precisamos encontrar uma maneira melhor de lidar com as reclamações dos clientes.",
+    "target_word": "with",
+    "distractors": ["on", "about"]
+  },
+  {
+    "id": "prep_b2c1_363",
+    "topic": "Intermediate/Advanced Prepositions",
+    "sentence": "It's difficult to concentrate on work when there is so much noise.",
+    "pt": "É difícil se concentrar no trabalho quando há tanto barulho.",
+    "target_word": "on",
+    "distractors": ["in", "at"]
+  },
+  {
+    "id": "prep_b2c1_364",
+    "topic": "Intermediate/Advanced Prepositions",
+    "sentence": "He's always complaining about the amount of work he has.",
+    "pt": "Ele está sempre reclamando da quantidade de trabalho que tem.",
+    "target_word": "about",
+    "distractors": ["for", "of"]
+  },
+  {
+    "id": "prep_b2c1_365",
+    "topic": "Intermediate/Advanced Prepositions",
+    "sentence": "Her parents don't approve of her decision to quit university.",
+    "pt": "Os pais dela não aprovam a decisão dela de largar a universidade.",
+    "target_word": "of",
+    "distractors": ["with", "on"]
+  },
+  {
+    "id": "prep_b2c1_366",
+    "topic": "Intermediate/Advanced Prepositions",
+    "sentence": "She insisted on paying for the entire meal herself.",
+    "pt": "Ela insistiu em pagar pela refeição inteira sozinha.",
+    "target_word": "on",
+    "distractors": ["in", "to"]
+  },
+  {
+    "id": "prep_b2c1_367",
+    "topic": "Intermediate/Advanced Prepositions",
+    "sentence": "This region of Brazil is famous for its excellent coffee.",
+    "pt": "Esta região do Brasil é famosa por seu excelente café.",
+    "target_word": "for",
+    "distractors": ["with", "by"]
+  },
+  {
+    "id": "prep_b2c1_368",
+    "topic": "Intermediate/Advanced Prepositions",
+    "sentence": "His new proposal is very different from the previous one.",
+    "pt": "A nova proposta dele é muito diferente da anterior.",
+    "target_word": "from",
+    "distractors": ["of", "than"]
+  },
+  {
+    "id": "prep_b2c1_369",
+    "topic": "Intermediate/Advanced Prepositions",
+    "sentence": "We are really looking forward to meeting the new team.",
+    "pt": "Estamos muito ansiosos para conhecer a nova equipe.",
+    "target_word": "to",
+    "distractors": ["for", "at"]
+  },
+  {
+    "id": "prep_b2c1_370",
+    "topic": "Intermediate/Advanced Prepositions",
+    "sentence": "She is finding it hard to cope with the pressure of her new role.",
+    "pt": "Ela está achando difícil lidar com a pressão de seu novo cargo.",
+    "target_word": "with",
+    "distractors": ["on", "about"]
   }
 ]
