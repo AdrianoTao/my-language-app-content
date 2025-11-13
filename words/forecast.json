@@ -1,0 +1,326 @@
+{
+  "sentences": [
+    {
+      "en": "The weather forecast predicts heavy rain for tomorrow.",
+      "pt": "A previsão do tempo prevê chuva forte para amanhã."
+    },
+    {
+      "en": "The company's sales forecast for the next quarter is optimistic.",
+      "pt": "A previsão de vendas da empresa para o próximo trimestre é otimista."
+    },
+    {
+      "en": "Meteorologists forecast a major hurricane approaching the coast.",
+      "pt": "Meteorologistas preveem um grande furacão se aproximando da costa."
+    },
+    {
+      "en": "Analysts forecast a strong recovery for the economy next year.",
+      "pt": "Analistas preveem uma forte recuperação para a economia no próximo ano."
+    },
+    {
+      "en": "Did you check the forecast before planning the picnic?",
+      "pt": "Você checou a previsão do tempo antes de planejar o piquenique?"
+    },
+    {
+      "en": "Economists revised their economic forecast due to inflation.",
+      "pt": "Os economistas revisaram sua previsão econômica devido à inflação."
+    },
+    {
+      "en": "They forecast clear skies, but it started snowing.",
+      "pt": "Eles previram céu limpo, mas começou a nevar."
+    },
+    {
+      "en": "The company forecasts a 15% increase in annual sales.",
+      "pt": "A empresa prevê um aumento de 15% nas vendas anuais."
+    },
+    {
+      "en": "The five-day forecast suggests sunny weather for the weekend.",
+      "pt": "A previsão de cinco dias sugere tempo ensolarado para o fim de semana."
+    },
+    {
+      "en": "The financial forecast suggests a significant increase in profits.",
+      "pt": "A previsão financeira sugere um aumento significativo nos lucros."
+    },
+    {
+      "en": "It's difficult to accurately forecast the weather more than a week ahead.",
+      "pt": "É difícil prever com precisão o tempo com mais de uma semana de antecedência."
+    },
+    {
+      "en": "We forecast a need for more staff in the coming months.",
+      "pt": "Prevemos a necessidade de mais funcionários nos próximos meses."
+    },
+    {
+      "en": "The forecast was wrong again; it's sunny, not raining.",
+      "pt": "A previsão estava errada de novo; está sol, não chovendo."
+    },
+    {
+      "en": "Our revenue forecast was much lower than the actual results.",
+      "pt": "Nossa previsão de receita foi muito menor que os resultados reais."
+    },
+    {
+      "en": "The app forecasts a 70% chance of rain for this evening.",
+      "pt": "O aplicativo prevê uma chance de 70% de chuva para esta noite."
+    },
+    {
+      "en": "It is too early to forecast the long-term impact of the new policy.",
+      "pt": "É muito cedo para prever o impacto a longo prazo da nova política."
+    },
+    {
+      "en": "I never trust the weather forecast in this mountainous region.",
+      "pt": "Eu nunca confio na previsão do tempo nesta região montanhosa."
+    },
+    {
+      "en": "The management team is currently reviewing the budget forecast.",
+      "pt": "A equipe de gestão está atualmente revisando a previsão orçamentária."
+    },
+    {
+      "en": "Experts forecast record-high temperatures for this summer.",
+      "pt": "Especialistas preveem temperaturas recordes para este verão."
+    },
+    {
+      "en": "They forecast a deficit in the national budget.",
+      "pt": "Eles preveem um déficit no orçamento nacional."
+    },
+    {
+      "en": "The marine forecast warned sailors of high winds.",
+      "pt": "A previsão marítima alertou os marinheiros sobre ventos fortes."
+    },
+    {
+      "en": "A pessimistic forecast led to a drop in the company's stock price.",
+      "pt": "Uma previsão pessimista levou a uma queda no preço das ações da empresa."
+    },
+    {
+      "en": "Analysts are forecasting a gradual decline in unemployment rates.",
+      "pt": "Analistas estão prevendo um declínio gradual nas taxas de desemprego."
+    },
+    {
+      "en": "The official forecast for the storm's path has changed.",
+      "pt": "A previsão oficial para a trajetória da tempestade mudou."
+    },
+    {
+      "en": "The demand forecast helps us manage our inventory levels.",
+      "pt": "A previsão de demanda nos ajuda a gerenciar nossos níveis de estoque."
+    },
+    {
+      "en": "Can you forecast the company's expenses for the next fiscal year?",
+      "pt": "Você pode prever as despesas da empresa para o próximo ano fiscal?"
+    },
+    {
+      "en": "According to the forecast, a blizzard is expected tonight.",
+      "pt": "De acordo com a previsão, uma nevasca é esperada esta noite."
+    },
+    {
+      "en": "It's difficult to make an accurate financial forecast in this volatile market.",
+      "pt": "É difícil fazer uma previsão financeira precisa neste mercado volátil."
+    },
+    {
+      "en": "The CEO forecast a challenging year ahead for the industry.",
+      "pt": "O CEO previu um ano desafiador pela frente para o setor."
+    },
+    {
+      "en": "The long-range forecast indicates a warmer-than-average winter.",
+      "pt": "A previsão de longo prazo indica um inverno mais quente que a média."
+    },
+    {
+      "en": "The forecast for job growth remains stagnant this year.",
+      "pt": "A previsão para o crescimento de empregos permanece estagnada este ano."
+    },
+    {
+      "en": "The model forecasts a significant shift in consumer behavior.",
+      "pt": "O modelo prevê uma mudança significativa no comportamento do consumidor."
+    },
+    {
+      "en": "The accuracy of the economic forecast is often debated.",
+      "pt": "A precisão da previsão econômica é frequentemente debatida."
+    },
+    {
+      "en": "The political forecast for the upcoming election is uncertain.",
+      "pt": "A previsão política para a próxima eleição é incerta."
+    },
+    {
+      "en": "The agency failed to forecast the severity of the drought.",
+      "pt": "A agência falhou em prever a gravidade da seca."
+    },
+    {
+      "en": "The 10-day forecast is notoriously unreliable.",
+      "pt": "A previsão de 10 dias é notoriamente pouco confiável."
+    },
+    {
+      "en": "The new software is designed to forecast market trends.",
+      "pt": "O novo software é projetado para prever tendências de mercado."
+    },
+    {
+      "en": "The sales forecast was adjusted based on new market data.",
+      "pt": "A previsão de vendas foi ajustada com base em novos dados de mercado."
+    },
+    {
+      "en": "What is the weather forecast for the holiday weekend?",
+      "pt": "Qual é a previsão do tempo para o fim de semana do feriado?"
+    },
+    {
+      "en": "He confidently forecast that the stock would double in value.",
+      "pt": "Ele previu com confiança que a ação dobraria de valor."
+    },
+    {
+      "en": "The population forecast projects significant growth in this city.",
+      "pt": "A projeção populacional prevê um crescimento significativo nesta cidade."
+    },
+    {
+      "en": "The latest polls forecast a very close election.",
+      "pt": "As últimas pesquisas preveem uma eleição muito disputada."
+    },
+    {
+      "en": "The quarterly earnings were much better than the original forecast.",
+      "pt": "Os lucros trimestrais foram muito melhores do que a previsão original."
+    },
+    {
+      "en": "We must update our financial forecast to reflect these changes.",
+      "pt": "Devemos atualizar nossa previsão financeira para refletir essas mudanças."
+    },
+    {
+      "en": "The captain checked the marine forecast one last time.",
+      "pt": "O capitão verificou a previsão marítima uma última vez."
+    },
+    {
+      "en": "I forecast a high probability of failure for this plan.",
+      "pt": "Eu prevejo uma alta probabilidade de fracasso para este plano."
+    },
+    {
+      "en": "The technology forecast predicts the rise of artificial intelligence.",
+      "pt": "A previsão de tecnologia prevê a ascensão da inteligência artificial."
+    },
+    {
+      "en": "The pilot has to check the aviation forecast before every flight.",
+      "pt": "O piloto tem que verificar a previsão da aviação antes de cada voo."
+    },
+    {
+      "en": "The initial forecast did not account for supply chain disruptions.",
+      "pt": "A previsão inicial não levou em conta as interrupções na cadeia de suprimentos."
+    },
+    {
+      "en": "Experts forecast a shift in global economic power.",
+      "pt": "Especialistas preveem uma mudança no poder econômico global."
+    }
+  ],
+  "pronunciationExercises": [
+    {
+      "question": "forecast",
+      "options": [
+        "forecast",
+        "foremost"
+      ],
+      "correct": "forecast"
+    },
+    {
+      "question": "forecast",
+      "options": [
+        "fast",
+        "forecast"
+      ],
+      "correct": "forecast"
+    },
+    {
+      "question": "forecast",
+      "options": [
+        "forecast",
+        "broadcast"
+      ],
+      "correct": "forecast"
+    },
+    {
+      "question": "forecast",
+      "options": [
+        "force",
+        "forecast"
+      ],
+      "correct": "forecast"
+    },
+    {
+      "question": "forecast",
+      "options": [
+        "forecast",
+        "focus"
+      ],
+      "correct": "forecast"
+    },
+    {
+      "question": "forecast",
+      "options": [
+        "foremost",
+        "forecast"
+      ],
+      "correct": "forecast"
+    },
+    {
+      "question": "forecast",
+      "options": [
+        "forecast",
+        "fast"
+      ],
+      "correct": "forecast"
+    },
+    {
+      "question": "forecast",
+      "options": [
+        "broadcast",
+        "forecast"
+      ],
+      "correct": "forecast"
+    },
+    {
+      "question": "forecast",
+      "options": [
+        "forecast",
+        "force"
+      ],
+      "correct": "forecast"
+    },
+    {
+      "question": "forecast",
+      "options": [
+        "focus",
+        "forecast"
+      ],
+      "correct": "forecast"
+    },
+    {
+      "question": "forecast",
+      "options": [
+        "forecast",
+        "foremost"
+      ],
+      "correct": "forecast"
+    },
+    {
+      "question": "forecast",
+      "options": [
+        "fast",
+        "forecast"
+      ],
+      "correct": "forecast"
+    },
+    {
+      "question": "forecast",
+      "options": [
+        "forecast",
+        "broadcast"
+      ],
+      "correct": "forecast"
+    },
+    {
+      "question": "forecast",
+      "options": [
+        "force",
+        "forecast"
+      ],
+      "correct": "forecast"
+    },
+    {
+      "question": "forecast",
+      "options": [
+        "forecast",
+        "focus"
+      ],
+      "correct": "forecast"
+    }
+  ]
+}
