@@ -1,0 +1,326 @@
+{
+  "sentences": [
+    {
+      "en": "Temperatures can fluctuate wildly in the desert between day and night.",
+      "pt": "As temperaturas podem oscilar drasticamente no deserto entre o dia e a noite."
+    },
+    {
+      "en": "Stock market prices fluctuate based on investor confidence and global news.",
+      "pt": "Os preços do mercado de ações flutuam com base na confiança do investidor e notícias globais."
+    },
+    {
+      "en": "Her mood tends to fluctuate depending on how much sleep she gets.",
+      "pt": "O humor dela tende a variar dependendo de quanto ela dorme."
+    },
+    {
+      "en": "The currency exchange rate continues to fluctuate against the US dollar.",
+      "pt": "A taxa de câmbio da moeda continua a oscilar em relação ao dólar americano."
+    },
+    {
+      "en": "Demand for ice cream will naturally fluctuate with the changing seasons.",
+      "pt": "A demanda por sorvete vai variar naturalmente com a mudança das estações."
+    },
+    {
+      "en": "My energy levels fluctuate throughout the day due to my diet.",
+      "pt": "Meus níveis de energia oscilam ao longo do dia devido à minha dieta."
+    },
+    {
+      "en": "The signal strength seems to fluctuate when I enter the basement.",
+      "pt": "A força do sinal parece instável quando entro no porão."
+    },
+    {
+      "en": "Hotel prices fluctuate significantly during peak tourist seasons.",
+      "pt": "Os preços dos hotéis variam significativamente durante a alta temporada turística."
+    },
+    {
+      "en": "His weight began to fluctuate after he stopped his regular exercise routine.",
+      "pt": "O peso dele começou a oscilar depois que ele parou sua rotina regular de exercícios."
+    },
+    {
+      "en": "Interest rates fluctuate in response to central bank policies.",
+      "pt": "As taxas de juros flutuam em resposta às políticas do banco central."
+    },
+    {
+      "en": "The number of attendees tends to fluctuate from meeting to meeting.",
+      "pt": "O número de participantes tende a variar de reunião para reunião."
+    },
+    {
+      "en": "It is normal for blood pressure to fluctuate during times of stress.",
+      "pt": "É normal que a pressão arterial oscile durante momentos de estresse."
+    },
+    {
+      "en": "The results of the experiment fluctuate too much to be conclusive.",
+      "pt": "Os resultados do experimento variam demais para serem conclusivos."
+    },
+    {
+      "en": "Opinion polls fluctuate as the election date draws closer.",
+      "pt": "As pesquisas de opinião oscilam à medida que a data da eleição se aproxima."
+    },
+    {
+      "en": "Water levels in the reservoir fluctuate depending on annual rainfall.",
+      "pt": "Os níveis de água no reservatório flutuam dependendo da precipitação anual."
+    },
+    {
+      "en": "Fuel costs fluctuate, making it hard to budget for transportation.",
+      "pt": "Os custos de combustível variam, dificultando o orçamento para transporte."
+    },
+    {
+      "en": "Her grades fluctuate between excellence and mediocrity.",
+      "pt": "As notas dela oscilam entre a excelência e a mediocridade."
+    },
+    {
+      "en": "The patient's heart rate continued to fluctuate dangerously.",
+      "pt": "A frequência cardíaca do paciente continuou a oscilar perigosamente."
+    },
+    {
+      "en": "Fruit prices fluctuate depending on the quality of the harvest.",
+      "pt": "Os preços das frutas variam dependendo da qualidade da colheita."
+    },
+    {
+      "en": "Airfares fluctuate constantly, so you should book your ticket early.",
+      "pt": "As tarifas aéreas flutuam constantemente, então você deve reservar sua passagem cedo."
+    },
+    {
+      "en": "The political situation in the region continues to fluctuate.",
+      "pt": "A situação política na região continua instável."
+    },
+    {
+      "en": "Hormone levels fluctuate naturally during different stages of life.",
+      "pt": "Os níveis hormonais flutuam naturalmente durante diferentes fases da vida."
+    },
+    {
+      "en": "Internet speeds fluctuate when too many people are online simultaneously.",
+      "pt": "A velocidade da internet oscila quando muitas pessoas estão online simultaneamente."
+    },
+    {
+      "en": "The population of the city tends to fluctuate with the academic year.",
+      "pt": "A população da cidade tende a variar com o ano letivo."
+    },
+    {
+      "en": "Supply and demand cause the market value to fluctuate.",
+      "pt": "A oferta e a demanda fazem com que o valor de mercado flutue."
+    },
+    {
+      "en": "Her interest in the project seemed to fluctuate from week to week.",
+      "pt": "O interesse dela no projeto parecia variar de semana para semana."
+    },
+    {
+      "en": "The noise level in the office can fluctuate during the day.",
+      "pt": "O nível de ruído no escritório pode oscilar durante o dia."
+    },
+    {
+      "en": "Do not let your self-esteem fluctuate based on others' opinions.",
+      "pt": "Não deixe sua autoestima oscilar com base na opinião dos outros."
+    },
+    {
+      "en": "The exchange rate is allowed to fluctuate freely in a floating market.",
+      "pt": "A taxa de câmbio pode flutuar livremente em um mercado flutuante."
+    },
+    {
+      "en": "Our income can fluctuate since we work as freelancers.",
+      "pt": "Nossa renda pode variar, já que trabalhamos como freelancers."
+    },
+    {
+      "en": "The light began to fluctuate before the bulb finally burned out.",
+      "pt": "A luz começou a piscar antes de a lâmpada finalmente queimar."
+    },
+    {
+      "en": "Feelings of grief often fluctuate over time, coming in waves.",
+      "pt": "Sentimentos de luto frequentemente oscilam com o tempo, vindo em ondas."
+    },
+    {
+      "en": "The distance between the planets will fluctuate as they orbit.",
+      "pt": "A distância entre os planetas variará conforme eles orbitam."
+    },
+    {
+      "en": "Job opportunities in this sector fluctuate with the economy.",
+      "pt": "As oportunidades de emprego neste setor oscilam com a economia."
+    },
+    {
+      "en": "The temperature of the oven may fluctuate, affecting baking times.",
+      "pt": "A temperatura do forno pode variar, afetando o tempo de cozimento."
+    },
+    {
+      "en": "His commitment to the cause appeared to fluctuate.",
+      "pt": "O compromisso dele com a causa parecia vacilar."
+    },
+    {
+      "en": "Commodity prices fluctuate based on global shipping constraints.",
+      "pt": "Os preços das commodities flutuam com base nas restrições globais de transporte."
+    },
+    {
+      "en": "The sound quality tends to fluctuate on this old radio.",
+      "pt": "A qualidade do som tende a oscilar neste rádio antigo."
+    },
+    {
+      "en": "It is difficult to plan when revenues fluctuate so unpredictably.",
+      "pt": "É difícil planejar quando as receitas variam de forma tão imprevisível."
+    },
+    {
+      "en": "Atmospheric pressure will fluctuate as the storm approaches.",
+      "pt": "A pressão atmosférica irá oscilar à medida que a tempestade se aproxima."
+    },
+    {
+      "en": "The number of active users can fluctuate by the hour.",
+      "pt": "O número de usuários ativos pode variar a cada hora."
+    },
+    {
+      "en": "Confidence in the banking system began to fluctuate during the crisis.",
+      "pt": "A confiança no sistema bancário começou a balançar durante a crise."
+    },
+    {
+      "en": "Wait times at the border fluctuate depending on the time of day.",
+      "pt": "Os tempos de espera na fronteira variam dependendo da hora do dia."
+    },
+    {
+      "en": "The team's performance continued to fluctuate throughout the season.",
+      "pt": "O desempenho do time continuou a oscilar ao longo da temporada."
+    },
+    {
+      "en": "Variables in the simulation were set to fluctuate randomly.",
+      "pt": "As variáveis na simulação foram configuradas para flutuar aleatoriamente."
+    },
+    {
+      "en": "Sugar levels in the blood fluctuate after eating.",
+      "pt": "Os níveis de açúcar no sangue variam após comer."
+    },
+    {
+      "en": "The tide causes the water depth to fluctuate twice a day.",
+      "pt": "A maré faz com que a profundidade da água oscile duas vezes ao dia."
+    },
+    {
+      "en": "Even the most stable currencies can fluctuate during geopolitical crises.",
+      "pt": "Mesmo as moedas mais estáveis podem oscilar durante crises geopolíticas."
+    },
+    {
+      "en": "Public interest in the scandal started to fluctuate after a month.",
+      "pt": "O interesse público no escândalo começou a variar após um mês."
+    },
+    {
+      "en": "He watched the readings on the monitor fluctuate irregularly.",
+      "pt": "Ele observou as leituras no monitor oscilarem irregularmente."
+    }
+  ],
+  "pronunciationExercises": [
+    {
+      "question": "Fluctuate",
+      "options": [
+        "Punctuate",
+        "Fluctuate"
+      ],
+      "correct": "Fluctuate"
+    },
+    {
+      "question": "Fluctuate",
+      "options": [
+        "Fluctuate",
+        "Situate"
+      ],
+      "correct": "Fluctuate"
+    },
+    {
+      "question": "Fluctuate",
+      "options": [
+        "Actuate",
+        "Fluctuate"
+      ],
+      "correct": "Fluctuate"
+    },
+    {
+      "question": "Fluctuate",
+      "options": [
+        "Fluctuate",
+        "Graduate"
+      ],
+      "correct": "Fluctuate"
+    },
+    {
+      "question": "Fluctuate",
+      "options": [
+        "Infatuate",
+        "Fluctuate"
+      ],
+      "correct": "Fluctuate"
+    },
+    {
+      "question": "Fluctuate",
+      "options": [
+        "Fluctuate",
+        "Evacuate"
+      ],
+      "correct": "Fluctuate"
+    },
+    {
+      "question": "Fluctuate",
+      "options": [
+        "Perpetuate",
+        "Fluctuate"
+      ],
+      "correct": "Fluctuate"
+    },
+    {
+      "question": "Fluctuate",
+      "options": [
+        "Fluctuate",
+        "Accentuate"
+      ],
+      "correct": "Fluctuate"
+    },
+    {
+      "question": "Fluctuate",
+      "options": [
+        "Evaluate",
+        "Fluctuate"
+      ],
+      "correct": "Fluctuate"
+    },
+    {
+      "question": "Fluctuate",
+      "options": [
+        "Fluctuate",
+        "Insinuate"
+      ],
+      "correct": "Fluctuate"
+    },
+    {
+      "question": "Fluctuate",
+      "options": [
+        "Fluctuate",
+        "Punctuate"
+      ],
+      "correct": "Fluctuate"
+    },
+    {
+      "question": "Fluctuate",
+      "options": [
+        "Situate",
+        "Fluctuate"
+      ],
+      "correct": "Fluctuate"
+    },
+    {
+      "question": "Fluctuate",
+      "options": [
+        "Fluctuate",
+        "Actuate"
+      ],
+      "correct": "Fluctuate"
+    },
+    {
+      "question": "Fluctuate",
+      "options": [
+        "Graduate",
+        "Fluctuate"
+      ],
+      "correct": "Fluctuate"
+    },
+    {
+      "question": "Fluctuate",
+      "options": [
+        "Fluctuate",
+        "Infatuate"
+      ],
+      "correct": "Fluctuate"
+    }
+  ]
+}
