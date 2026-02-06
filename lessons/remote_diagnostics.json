@@ -1,0 +1,324 @@
+{
+"id": "mech_eng_robotics_001",
+"title": "Remote Diagnostics and Fault Resolution in CNC Robotics",
+"description": "A technical lesson focusing on high-level troubleshooting vocabulary and mixed conditionals, tailored for a Mechanical Engineer entering the Australian workforce.",
+"phase_1_vocab": [
+{
+"word": "Intermittent",
+"definition": "Occurring at irregular intervals; not continuous or steady.",
+"translation": "Intermitente"
+},
+{
+"word": "Exacerbate",
+"definition": "To make a problem, bad situation, or negative feeling worse.",
+"translation": "Exacerbar / Agravar"
+},
+{
+"word": "Stringent",
+"definition": "Strict, precise, and exacting (often used with regulations or safety standards).",
+"translation": "Rigoroso / Estrito"
+},
+{
+"word": "Rectify",
+"definition": "To put something right; correct.",
+"translation": "Retificar / Corrigir"
+},
+{
+"word": "Commensurate",
+"definition": "Corresponding in size or degree; in proportion.",
+"translation": "Proporcional / Compatível"
+}
+],
+"phase_2_text": "In the realm of automated manufacturing, the reliability of CNC machinery is paramount. When a Mitsubishi robotic arm begins to display intermittent positioning errors, the immediate assumption often points towards a sensor calibration drift. However, remote diagnostics require a more nuanced approach. Prematurely resetting the servo parameters without a thorough log analysis can exacerbate the underlying mechanical issue, particularly if the root cause stems from worn planetary gears rather than software corruption. \n\nAustralian industry standards are notably stringent regarding workplace safety during these maintenance cycles. Before any attempt is made to rectify a fault, technicians must ensure that all isolation protocols are strictly adhered to, even when operating remotely. Failure to lock out energy sources can lead to catastrophic failure. Furthermore, the pressure to maintain throughput must be commensurate with the safety risks involved; prioritizing speed over protocol is widely regarded as negligence. Consequently, a systematic elimination of variables—checking voltage stability, communication bus latency, and mechanical backlash—is the only viable methodology for ensuring long-term operational integrity.",
+"phase_3_comprehension": [
+{
+"id": "q1",
+"question": "According to the text, what is the risk of resetting servo parameters too early?",
+"ideal_answer_keywords": [
+"exacerbate",
+"worse",
+"underlying issue",
+"mechanical"
+]
+},
+{
+"id": "q2",
+"question": "What is implied about the relationship between production speed and safety in Australia?",
+"ideal_answer_keywords": [
+"safety priority",
+"negligence",
+"speed secondary",
+"risk"
+]
+},
+{
+"id": "q3",
+"question": "In your opinion, why might an intermittent fault be more difficult to diagnose than a permanent one in a CNC context?",
+"ideal_answer_keywords": []
+}
+],
+"phase_4_drills": {
+"matching": [
+{
+"word": "Intermittent",
+"match": "Sporadic; not continuous"
+},
+{
+"word": "Exacerbate",
+"match": "To worsen or aggravate"
+},
+{
+"word": "Stringent",
+"match": "Rigorous and strict"
+},
+{
+"word": "Rectify",
+"match": "To correct or resolve"
+},
+{
+"word": "Commensurate",
+"match": "Proportionate to"
+}
+],
+"context_fill": [
+{
+"sentence": "Applying excessive voltage to the circuit will only ____ the overheating issue.",
+"correct_word": "exacerbate",
+"distractors": [
+"rectify",
+"commensurate",
+"alleviate"
+]
+},
+{
+"sentence": "The fault is , appearing only when the machine runs at 80% capacity.",
+"correct_word": "intermittent",
+"distractors": [
+"stringent",
+"terminal",
+"linear"
+]
+},
+{
+"sentence": "Australian mining sites have ____ safety protocols that all engineers must memorize.",
+"correct_word": "stringent",
+"distractors": [
+"intermittent",
+"plausible",
+"erratic"
+]
+},
+{
+"sentence": "We need to ____ the misalignment in the Z-axis before resuming production.",
+"correct_word": "rectify",
+"distractors": [
+"exacerbate",
+"postulate",
+"incur"
+]
+},
+{
+"sentence": "Your salary will be ____ with your experience in PLC programming.",
+"correct_word": "commensurate",
+"distractors": [
+"stringent",
+"intermittent",
+"equivalent"
+]
+}
+]
+},
+"phase_5_grammar": {
+"rule_name": "Mixed Conditionals",
+"explanation": "Mixed conditionals differ from standard conditionals by mixing timeframes. Commonly, we use them to imagine how a past change would affect the present (Past Condition -> Present Result) or how a present situation dictated a past event (Present Condition -> Past Result).",
+"exercises": [
+{
+"type": "reorder",
+"question": "checked / running / the / hadn't / we / calibration / be / If / wouldn't / smoothly / machine / the / now / .",
+"correct_answer": "If we hadn't checked the calibration, the machine wouldn't be running smoothly now."
+},
+{
+"type": "gap_fill",
+"question": "If I ____ (have) more experience with Siemens PLCs, I would have applied for that job last week.",
+"correct_answer": "had",
+"options": [
+"had",
+"had had",
+"have"
+]
+},
+{
+"type": "gap_fill",
+"question": "If the safety guard ____ (be) broken, the machine wouldn't have started yesterday.",
+"correct_answer": "were",
+"options": [
+"was",
+"were",
+"had been"
+]
+},
+{
+"type": "reorder",
+"question": "we / caught / wouldn't / working / late / be / error / the / earlier / If / had / we / tonight / .",
+"correct_answer": "If we had caught the error earlier, we wouldn't be working late tonight."
+},
+{
+"type": "gap_fill",
+"question": "If he ____ (be) a better engineer, he wouldn't have made such a basic mistake.",
+"correct_answer": "were",
+"options": [
+"is",
+"were",
+"had been"
+]
+},
+{
+"type": "gap_fill",
+"question": "I would be in Sydney right now if my visa ____ (approve) on time.",
+"correct_answer": "had been approved",
+"options": [
+"was approved",
+"had been approved",
+"would be approved"
+]
+},
+{
+"type": "reorder",
+"question": "data / the / If / backed / up / hadn't / lost / we / be / would / everything / now / .",
+"correct_answer": "If we hadn't backed up the data, everything would be lost now."
+},
+{
+"type": "gap_fill",
+"question": "If the thermal sensor ____ (work) properly generally, it would have triggered an alarm during the surge.",
+"correct_answer": "worked",
+"options": [
+"works",
+"worked",
+"had worked"
+]
+},
+{
+"type": "gap_fill",
+"question": "If you ____ (not / ignore) the warning light, we wouldn't be facing this downtime.",
+"correct_answer": "hadn't ignored",
+"options": [
+"didn't ignore",
+"haven't ignored",
+"hadn't ignored"
+]
+},
+{
+"type": "reorder",
+"question": "qualified / If / he / weren't / have / hired / wouldn't / him / they / .",
+"correct_answer": "If he weren't qualified, they wouldn't have hired him."
+}
+]
+},
+"phase_6_listening": {
+"script": "Narrator: Two engineers, Bruce (Supervisor) and Thiago (New Hire), are discussing a faulty vending machine prototype.\n\nBruce: G'day Thiago. How's that custom vending unit coming along? I heard she was acting up a bit yesterday.\n\nThiago: Hi Bruce. Yeah, it's a bit of a headache. The dispensing arm keeps jamming, but only when the temperature drops. I reckon it's the lubrication viscosity.\n\nBruce: Right, I get ya. If it's just the viscosity, that's an easy fix. But have you had a squiz at the actuator? Sometimes those cheap servos pack it in if there's too much resistance.\n\nThiago: I checked the actuator resistance this morning; it seemed within spec. But to be honest, I've been flat out with the CNC programming for the new line, so I haven't done a deep dive yet.\n\nBruce: No worries, mate. We're all under the pump this week. Tell you what, swap out the grease for the low-temp synthetic grade first. If that doesn't sort it, we'll strip the motor down on Friday. Just don't let it slide too long, hey? The client wants a demo next Tuesday.\n\nThiago: Understood. I'll prioritize the grease swap this afternoon. \n\nBruce: Good on ya. Give us a yell if you get stuck.",
+"exercises": [
+{
+"type": "true_false",
+"question": "Bruce believes the problem is definitely the lubrication.",
+"correct_answer": "False"
+},
+{
+"type": "gap_fill",
+"question": "Bruce asks if Thiago has 'had a ____ at the actuator'.",
+"correct_answer": "squiz"
+},
+{
+"type": "true_false",
+"question": "Thiago has been too busy with CNC programming to fully investigate the vending machine.",
+"correct_answer": "True"
+},
+{
+"type": "gap_fill",
+"question": "Bruce says that sometimes cheap servos ' it in' (fail).",
+"correct_answer": "pack"
+},
+{
+"type": "true_false",
+"question": "The client demonstration is scheduled for Friday.",
+"correct_answer": "False"
+},
+{
+"type": "gap_fill",
+"question": "Bruce suggests using a ____-temp synthetic grade grease.",
+"correct_answer": "low"
+},
+{
+"type": "gap_fill",
+"question": "Bruce says they are all 'under the ____' this week, meaning busy.",
+"correct_answer": "pump"
+},
+{
+"type": "true_false",
+"question": "Thiago plans to disassemble the motor this afternoon.",
+"correct_answer": "False"
+},
+{
+"type": "gap_fill",
+"question": "Thiago says the dispensing arm keeps ____.",
+"correct_answer": "jamming"
+},
+{
+"type": "gap_fill",
+"question": "Bruce tells Thiago to 'give us a ____' if he needs help.",
+"correct_answer": "yell"
+}
+]
+},
+"phase_7_idiom": {
+"idiom": "Throw a spanner in the works",
+"meaning": "To do something that prevents a plan or activity from succeeding; to cause a disruption.",
+"translation": "Atrapalhar os planos / Jogar areia na engrenagem",
+"exercises": [
+{
+"question": "Everything was going perfectly until the supply chain delay ____.",
+"options": [
+"hit the nail on the head",
+"threw a spanner in the works",
+"greased the wheels"
+],
+"correct_answer": "threw a spanner in the works"
+},
+{
+"question": "Which situation describes 'throwing a spanner in the works'?",
+"options": [
+"Fixing a machine quickly",
+"A sudden software bug delaying the launch",
+"Collaborating well with a team"
+],
+"correct_answer": "A sudden software bug delaying the launch"
+},
+{
+"question": "We were ready to ship the robot, but the new safety regulation really ____.",
+"options": [
+"threw a spanner in the works",
+"tightened the screws",
+"hammered it home"
+],
+"correct_answer": "threw a spanner in the works"
+},
+{
+"question": "Don't tell the boss about the glitch yet; it will just ____.",
+"options": [
+"throw a spanner in the works",
+"drill down",
+"bridge the gap"
+],
+"correct_answer": "throw a spanner in the works"
+},
+{
+"question": "The unexpected resignation of the lead engineer ____ of our project timeline.",
+"options": [
+"threw a spanner in the works",
+"oiled the gears",
+"calibrated the tools"
+],
+"correct_answer": "threw a spanner in the works"
+}
+]
+}
+}
