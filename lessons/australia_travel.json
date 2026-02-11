@@ -216,7 +216,7 @@
     ]
   },
   "phase_6_listening": {
-    "script": "Liam: G'day mate! Reckon you're ready for the big trek up North? It’s a fair dinkum mission, not for the faint-hearted. \\n\\nSarah: Absolutely. I’ve spent a fortune on gear. I just hope the old 4WD doesn't cark it halfway through the Kimberley. \\n\\nLiam: No worries. Just keep your eyes peeled for the wildlife. You don't want to hit a roo at dusk—that’ll write off your car for sure. And don't be a drongo, make sure you've got heaps of water. It's easy to get bushed if you wander off. \\n\\nSarah: I've got my maps and a PLB. I’m not looking to be another cautionary tale. But I'm stoked about seeing the Bungle Bungles. \\n\\nLiam: Righto, they're a ripper sight. Just watch out for the 'salties' in the crossings. They’re not just logs floating there, eh? \\n\\nSarah: Point taken. I'll stick to the designated swimming holes. Better safe than sorry when it comes to crocs. \\n\\nLiam: Too right. Anyway, have a corker of a time. Catch ya later! \\n\\nSarah: Cheers, catch ya!",
+    "script": "Liam: G'day mate! Reckon you're ready for the big trek up North? It’s a fair dinkum mission, not for the faint-hearted. Sarah: Absolutely. I’ve spent a fortune on gear. I just hope the old 4WD doesn't cark it halfway through the Kimberley. Liam: No worries. Just keep your eyes peeled for the wildlife. You don't want to hit a roo at dusk—that’ll write off your car for sure. And don't be a drongo, make sure you've got heaps of water. It's easy to get bushed if you wander off. Sarah: I've got my maps and a PLB. I’m not looking to be another cautionary tale. But I'm stoked about seeing the Bungle Bungles. Liam: Righto, they're a ripper sight. Just watch out for the 'salties' in the crossings. They’re not just logs floating there, eh? Sarah: Point taken. I'll stick to the designated swimming holes. Better safe than sorry when it comes to crocs. Liam: Too right. Anyway, have a corker of a time. Catch ya later! Sarah: Cheers, catch ya!",
     "exercises": [
       {
         "type": "true_false",
@@ -322,4 +322,4 @@
       }
     ]
   }
-      }
+}
