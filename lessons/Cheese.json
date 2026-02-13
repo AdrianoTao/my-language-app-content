@@ -1,0 +1,249 @@
+{
+"id": "c1_cheese_culinary_001",
+"title": "The Art of Fromage: Cultivating Taste and Tradition",
+"description": "An advanced exploration of culinary terminology focusing on the artisanal production and sensory evaluation of cheese.",
+"phase_1_vocab": [
+{
+"word": "artisanal",
+"definition": "Made in a traditional or non-mechanized way using high-quality ingredients.",
+"translation": "artesanal"
+},
+{
+"word": "palate",
+"definition": "A person's ability to distinguish between and appreciate different flavors.",
+"translation": "paladar"
+},
+{
+"word": "pungent",
+"definition": "Having a sharply strong taste or smell, often overpowering but desirable in certain foods.",
+"translation": "pungente / de sabor forte"
+},
+{
+"word": "connoisseur",
+"definition": "An expert judge in matters of taste, especially in the fine arts or gastronomy.",
+"translation": "conhecedor / especialista"
+},
+{
+"word": "savoury",
+"definition": "Belonging to the category of food that is salty or spicy rather than sweet; umami.",
+"translation": "salgado / saboroso"
+}
+],
+"phase_2_text": "For the true culinary connoisseur, the world of cheese is a complex tapestry of textures and aromas. The journey from a simple curd to an artisanal masterpiece requires both time and meticulous craftsmanship.  During the maturation process, cheeses develop distinct characteristics that appeal to a highly refined palate. While some may prefer the mild, creamy undertones of a young Brie, others gravitate towards the pungent, robust notes of a well-aged Roquefort. These blue cheeses, often cultivated in limestone caves, undergo a fascinating chemical transformation that yields their signature savoury depth.  Not only do temperature and humidity play pivotal roles, but the specific bacterial cultures introduced also dictate the final flavour profile. A truly exceptional cheese board balances these extremes, offering a sensory progression that delights the taster. Ultimately, appreciating fine cheese is not merely about consumption; it is an exploration of geography, biology, and culinary heritage. Had the master cheesemakers of the past not experimented with such relentless dedication, our modern gastronomy would undoubtedly lack this profound and layered richness.",
+"phase_3_comprehension": [
+{
+"id": "q1",
+"question": "According to the text, what specific environment is frequently utilized for the cultivation of blue cheeses like Roquefort?",
+"ideal_answer_keywords": ["limestone", "caves"]
+},
+{
+"id": "q2",
+"question": "What can be inferred about the role of bacterial cultures in the cheesemaking process based on the passage?",
+"ideal_answer_keywords": ["determine", "flavour", "profile", "chemical", "transformation"]
+},
+{
+"id": "q3",
+"question": "In your opinion, why is 'sensory progression' a crucial element when curating an exceptional cheese board?",
+"ideal_answer_keywords": []
+}
+],
+"phase_4_drills": {
+"matching": [
+{
+"word": "artisanal",
+"match": "Crafted traditionally by hand"
+},
+{
+"word": "palate",
+"match": "The sense of taste and flavor appreciation"
+},
+{
+"word": "pungent",
+"match": "Intensely strong in aroma or flavor"
+},
+{
+"word": "connoisseur",
+"match": "An authoritative expert on taste"
+},
+{
+"word": "savoury",
+"match": "Salty, spicy, or umami-rich"
+}
+],
+"context_fill": [
+{
+"sentence": "The sommelier was a true __________, able to identify the vintage of the wine with a single sip.",
+"correct_word": "connoisseur",
+"distractors": ["amateur", "palate", "artisan"]
+},
+{
+"sentence": "The local market is famous for its __________ breads, baked fresh in a wood-fired oven every morning.",
+"correct_word": "artisanal",
+"distractors": ["industrial", "pungent", "commercial"]
+},
+{
+"sentence": "As he opened the container, a __________ smell of fermented cabbage filled the entire kitchen.",
+"correct_word": "pungent",
+"distractors": ["mild", "savoury", "fragrant"]
+},
+{
+"sentence": "Rather than a sweet dessert, she opted for a __________ tart made with goat cheese and caramelized onions.",
+"correct_word": "savoury",
+"distractors": ["sugary", "pungent", "bland"]
+},
+{
+"sentence": "Over the years, his __________ developed, allowing him to appreciate the subtle earthy notes in the truffles.",
+"correct_word": "palate",
+"distractors": ["connoisseur", "tongue", "aroma"]
+}
+]
+},
+"phase_5_grammar": {
+"rule_name": "Inversion after Negative and Limiting Adverbials",
+"explanation": "When a sentence begins with a negative or limiting adverbial (e.g., rarely, seldom, not only, hardly), the subject and auxiliary verb are inverted. This advanced structure adds rhetorical emphasis and elevates the formality of written and spoken English.",
+"exercises": [
+{
+"type": "gap_fill",
+"question": "Not only __________ a rich culinary history, but it also offers incredibly complex flavours.",
+"correct_answer": "does cheese have",
+"options": ["cheese has", "has cheese", "does cheese have"]
+},
+{
+"type": "reorder",
+"question": "Seldom / have / I / tasted / such / a / pungent / blue cheese",
+"correct_answer": "Seldom have I tasted such a pungent blue cheese."
+},
+{
+"type": "gap_fill",
+"question": "Hardly __________ the ripening process begun when the ambient temperature suddenly dropped.",
+"correct_answer": "had",
+"options": ["did", "was", "had"]
+},
+{
+"type": "reorder",
+"question": "Under no circumstances / should / you / serve / Brie / straight / from the fridge",
+"correct_answer": "Under no circumstances should you serve Brie straight from the fridge."
+},
+{
+"type": "gap_fill",
+"question": "Never before __________ such a meticulous artisanal process in modern gastronomy.",
+"correct_answer": "have I encountered",
+"options": ["I have encountered", "have I encountered", "did I encounter"]
+},
+{
+"type": "reorder",
+"question": "Little / did / they / know / about / the / intricacies / of / cheesemaking",
+"correct_answer": "Little did they know about the intricacies of cheesemaking."
+},
+{
+"type": "gap_fill",
+"question": "Only after maturing for twelve months __________ its peak flavour profile.",
+"correct_answer": "does the cheese reach",
+"options": ["the cheese reaches", "reaches the cheese", "does the cheese reach"]
+},
+{
+"type": "reorder",
+"question": "No sooner / had / the / milk / curdled / than / the / artisan / drained / it",
+"correct_answer": "No sooner had the milk curdled than the artisan drained it."
+},
+{
+"type": "gap_fill",
+"question": "On no account __________ the edible rind of this specific camembert be discarded.",
+"correct_answer": "must",
+"options": ["does", "is", "must"]
+},
+{
+"type": "reorder",
+"question": "Rarely / do / we / see / such / dedication / to / traditional / culinary / methods",
+"correct_answer": "Rarely do we see such dedication to traditional culinary methods."
+}
+]
+},
+"phase_6_listening": {
+"script": "Clara: I must say, Mark, this culinary exposition is absolutely splendid. Have you visited the artisanal dairy stall yet?\nMark: Not yet, Clara. I was held up at the charcuterie section. Is it really worth the hype?\nClara: Oh, undeniably. They are offering an aged Gruyère that is simply out of this world. The sheer depth of flavour would satisfy the most demanding connoisseur.\nMark: That sounds right up my alley. I usually lean towards the more pungent varieties, like a sharp Roquefort, but a well-matured hard cheese is always a treat.\nClara: You certainly won't be disappointed. Though, frankly speaking, their attempt at a vegan camembert was a bit underwhelming. The texture was terribly rubbery.\nMark: I suppose recreating that authentic, savoury umami profile without dairy is quite the uphill battle. Still, I admire the innovation.\nClara: Indeed. By the way, there's a masterclass on pairing cheese with fortified wines starting in ten minutes. Shall we make our way over?\nMark: Absolutely. Let's just hope we can grab a seat near the front.",
+"exercises": [
+{
+"type": "true_false",
+"question": "Clara finds the culinary exposition to be disappointing.",
+"correct_answer": "False"
+},
+{
+"type": "gap_fill",
+"question": "I was held up at the __________ section.",
+"correct_answer": "charcuterie"
+},
+{
+"type": "true_false",
+"question": "Clara highly recommends the aged Gruyère at the dairy stall.",
+"correct_answer": "True"
+},
+{
+"type": "gap_fill",
+"question": "The sheer depth of flavour would satisfy the most demanding __________.",
+"correct_answer": "connoisseur"
+},
+{
+"type": "true_false",
+"question": "Mark usually prefers mild and creamy cheeses over strong ones.",
+"correct_answer": "False"
+},
+{
+"type": "gap_fill",
+"question": "I usually lean towards the more __________ varieties.",
+"correct_answer": "pungent"
+},
+{
+"type": "true_false",
+"question": "Clara was very impressed by the texture of the vegan camembert.",
+"correct_answer": "False"
+},
+{
+"type": "gap_fill",
+"question": "I suppose recreating that authentic, __________ umami profile without dairy is quite the uphill battle.",
+"correct_answer": "savoury"
+},
+{
+"type": "true_false",
+"question": "The upcoming masterclass focuses on pairing cheese with craft beer.",
+"correct_answer": "False"
+},
+{
+"type": "gap_fill",
+"question": "Let's just hope we can grab a __________ near the front.",
+"correct_answer": "seat"
+}
+]
+},
+"phase_7_idiom": {
+"idiom": "Like chalk and cheese",
+"meaning": "Used to describe two things or people that are fundamentally completely different from each other.",
+"translation": "Como da água para o vinho / Completamente diferentes",
+"exercises": [
+{
+"question": "Although they are twins, their personalities are fundamentally opposite. They are...",
+"options": ["Like two peas in a pod", "Like chalk and cheese", "The big cheese"],
+"correct_answer": "Like chalk and cheese"
+},
+{
+"question": "Comparing a highly processed fast-food burger to a Michelin-starred artisanal meal is...",
+"options": ["Like chalk and cheese", "A piece of cake", "Spilling the beans"],
+"correct_answer": "Like chalk and cheese"
+},
+{
+"question": "The two engineers took completely different approaches to solving the thermodynamic problem. Their methods were...",
+"options": ["Cutting corners", "Like chalk and cheese", "Biting off more than they can chew"],
+"correct_answer": "Like chalk and cheese"
+},
+{
+"question": "The climate of the Amazon rainforest and the Atacama desert are entirely opposite. They are...",
+"options": ["Under the weather", "Like chalk and cheese", "A storm in a teacup"],
+"correct_answer": "Like chalk and cheese"
+},
+{
+"question": "A mild, fresh mozzarella and a highly pungent, aged Roquefort have entirely distinct flavor profiles. They are...",
+"options": ["Like chalk and cheese", "The icing on the cake", "A hard nut to crack"],
+"correct_answer": "Like chalk and cheese"
+}
+]
+}
+}
