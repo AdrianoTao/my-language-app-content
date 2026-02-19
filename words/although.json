@@ -1,0 +1,326 @@
+{
+  "sentences": [
+    {
+      "en": "Although the evidence was circumstantial, the jury reached a guilty verdict.",
+      "pt": "Embora a evidência fosse circunstancial, o júri chegou a um veredito de culpado."
+    },
+    {
+      "en": "He accepted the prestigious role, although with some initial hesitation.",
+      "pt": "Ele aceitou o cargo de prestígio, embora com alguma hesitação inicial."
+    },
+    {
+      "en": "Although technically feasible, the proposed solution is prohibitively expensive.",
+      "pt": "Embora tecnicamente viável, a solução proposta é proibitivamente cara."
+    },
+    {
+      "en": "She managed to smile, although her eyes betrayed her sadness.",
+      "pt": "Ela conseguiu sorrir, embora seus olhos traíssem sua tristeza."
+    },
+    {
+      "en": "Although the economy is recovering, unemployment remains stubbornly high.",
+      "pt": "Embora a economia esteja se recuperando, o desemprego permanece persistentemente alto."
+    },
+    {
+      "en": "He is a brilliant scientist, although somewhat lacking in social skills.",
+      "pt": "Ele é um cientista brilhante, embora um tanto carente de habilidades sociais."
+    },
+    {
+      "en": "Although they are twins, their personalities are diametrically opposed.",
+      "pt": "Embora sejam gêmeos, suas personalidades são diametralmente opostas."
+    },
+    {
+      "en": "We decided to proceed, although the risks were clearly outlined.",
+      "pt": "Decidimos prosseguir, embora os riscos estivessem claramente delineados."
+    },
+    {
+      "en": "Although the book is lengthy, it is a captivating read.",
+      "pt": "Embora o livro seja extenso, é uma leitura cativante."
+    },
+    {
+      "en": "She maintained her composure, although she was furious inside.",
+      "pt": "Ela manteve a compostura, muito embora estivesse furiosa por dentro."
+    },
+    {
+      "en": "Although the sun was shining, the air remained bitterly cold.",
+      "pt": "Embora o sol estivesse brilhando, o ar permanecia extremamente frio."
+    },
+    {
+      "en": "He insisted on driving, although he was clearly exhausted.",
+      "pt": "Ele insistiu em dirigir, embora estivesse claramente exausto."
+    },
+    {
+      "en": "Although we disagreed on tactics, we shared the same goal.",
+      "pt": "Embora discordássemos sobre as táticas, compartilhávamos o mesmo objetivo."
+    },
+    {
+      "en": "The mechanism is effective, although it requires frequent maintenance.",
+      "pt": "O mecanismo é eficaz, embora exija manutenção frequente."
+    },
+    {
+      "en": "Although she is retired, she remains active in her field.",
+      "pt": "Embora esteja aposentada, ela permanece ativa em sua área."
+    },
+    {
+      "en": "The review was generally positive, although it noted some flaws.",
+      "pt": "A crítica foi geralmente positiva, embora tenha notado algumas falhas."
+    },
+    {
+      "en": "Although I understand your perspective, I cannot support your decision.",
+      "pt": "Embora eu entenda sua perspectiva, não posso apoiar sua decisão."
+    },
+    {
+      "en": "They finished the project on time, although over budget.",
+      "pt": "Eles terminaram o projeto no prazo, embora acima do orçamento."
+    },
+    {
+      "en": "Although rarely seen, this species is not considered endangered.",
+      "pt": "Embora raramente vista, esta espécie não é considerada ameaçada."
+    },
+    {
+      "en": "He speaks fluent French, although he has never lived in France.",
+      "pt": "Ele fala francês fluente, embora nunca tenha morado na França."
+    },
+    {
+      "en": "Although the deadline is tight, the team is optimistic.",
+      "pt": "Embora o prazo seja apertado, a equipe está otimista."
+    },
+    {
+      "en": "The legislation passed, although with significant amendments attached.",
+      "pt": "A legislação foi aprovada, embora com emendas significativas anexadas."
+    },
+    {
+      "en": "Although he is wealthy, he leads a remarkably modest life.",
+      "pt": "Embora ele seja rico, leva uma vida notavelmente modesta."
+    },
+    {
+      "en": "She arrived on time, although the traffic was horrific.",
+      "pt": "Ela chegou na hora, embora o trânsito estivesse horrível."
+    },
+    {
+      "en": "Although the food was delicious, the service was lackluster.",
+      "pt": "Embora a comida estivesse deliciosa, o serviço deixou a desejar."
+    },
+    {
+      "en": "He refused the offer, although it would have doubled his salary.",
+      "pt": "Ele recusou a oferta, embora isso tivesse dobrado seu salário."
+    },
+    {
+      "en": "Although inexperienced, the new recruit shows great potential.",
+      "pt": "Embora inexperiente, o novo recruta mostra grande potencial."
+    },
+    {
+      "en": "The theory is widely accepted, although some skeptics remain.",
+      "pt": "A teoria é amplamente aceita, embora permaneçam alguns céticos."
+    },
+    {
+      "en": "Although the path was steep, the hikers continued their ascent.",
+      "pt": "Embora o caminho fosse íngreme, os caminhantes continuaram sua subida."
+    },
+    {
+      "en": "She forgave him, although she could never forget the betrayal.",
+      "pt": "Ela o perdoou, embora nunca pudesse esquecer a traição."
+    },
+    {
+      "en": "Although usually punctual, he was late for the meeting today.",
+      "pt": "Embora geralmente pontual, ele se atrasou para a reunião hoje."
+    },
+    {
+      "en": "The car runs well, although it is twenty years old.",
+      "pt": "O carro funciona bem, embora tenha vinte anos."
+    },
+    {
+      "en": "Although I prefer tea, I will drink coffee this morning.",
+      "pt": "Embora eu prefira chá, tomarei café esta manhã."
+    },
+    {
+      "en": "The negotiations continued, although progress was painfully slow.",
+      "pt": "As negociações continuaram, embora o progresso fosse dolorosamente lento."
+    },
+    {
+      "en": "Although she tried her best, the results were disappointing.",
+      "pt": "Embora ela tenha se esforçado ao máximo, os resultados foram decepcionantes."
+    },
+    {
+      "en": "He is a strict teacher, although very fair with grading.",
+      "pt": "Ele é um professor rigoroso, embora muito justo com as notas."
+    },
+    {
+      "en": "Although the storm had passed, the sea remained rough.",
+      "pt": "Embora a tempestade tivesse passado, o mar permanecia agitado."
+    },
+    {
+      "en": "We bought the house, although it needs extensive renovations.",
+      "pt": "Compramos a casa, embora ela precise de grandes reformas."
+    },
+    {
+      "en": "Although silenced by the regime, his ideas continued to spread.",
+      "pt": "Embora silenciadas pelo regime, suas ideias continuaram a se espalhar."
+    },
+    {
+      "en": "The layout is confusing, although the design is aesthetically pleasing.",
+      "pt": "O layout é confuso, embora o design seja esteticamente agradável."
+    },
+    {
+      "en": "Although invited, she declined to attend the ceremony.",
+      "pt": "Embora convidada, ela recusou comparecer à cerimônia."
+    },
+    {
+      "en": "He denied the allegations, although the evidence was damning.",
+      "pt": "Ele negou as acusações, embora as evidências fossem condenatórias."
+    },
+    {
+      "en": "Although small, the apartment is perfectly located downtown.",
+      "pt": "Embora pequeno, o apartamento é perfeitamente localizado no centro."
+    },
+    {
+      "en": "The medicine is effective, although it has unpleasant side effects.",
+      "pt": "O remédio é eficaz, embora tenha efeitos colaterais desagradáveis."
+    },
+    {
+      "en": "Although tempted to quit, he persevered until the end.",
+      "pt": "Embora tentado a desistir, ele perseverou até o fim."
+    },
+    {
+      "en": "The argument is valid, although it ignores several key factors.",
+      "pt": "O argumento é válido, embora ignore vários fatores fundamentais."
+    },
+    {
+      "en": "Although tired of the noise, she stayed at the party.",
+      "pt": "Embora cansada do barulho, ela ficou na festa."
+    },
+    {
+      "en": "He remained optimistic, although the situation appeared dire.",
+      "pt": "Ele permaneceu otimista, embora a situação parecesse terrível."
+    },
+    {
+      "en": "Although flawed, the plan is the best option we have.",
+      "pt": "Embora falho, o plano é a melhor opção que temos."
+    },
+    {
+      "en": "She is very private, although she is a public figure.",
+      "pt": "Ela é muito reservada, embora seja uma figura pública."
+    }
+  ],
+  "pronunciationExercises": [
+    {
+      "question": "although",
+      "options": [
+        "although",
+        "also"
+      ],
+      "correct": "although"
+    },
+    {
+      "question": "although",
+      "options": [
+        "thorough",
+        "although"
+      ],
+      "correct": "although"
+    },
+    {
+      "question": "although",
+      "options": [
+        "although",
+        "through"
+      ],
+      "correct": "although"
+    },
+    {
+      "question": "although",
+      "options": [
+        "all so",
+        "although"
+      ],
+      "correct": "although"
+    },
+    {
+      "question": "although",
+      "options": [
+        "although",
+        "thought"
+      ],
+      "correct": "although"
+    },
+    {
+      "question": "although",
+      "options": [
+        "allow",
+        "although"
+      ],
+      "correct": "although"
+    },
+    {
+      "question": "although",
+      "options": [
+        "although",
+        "tough"
+      ],
+      "correct": "although"
+    },
+    {
+      "question": "although",
+      "options": [
+        "bough",
+        "although"
+      ],
+      "correct": "although"
+    },
+    {
+      "question": "although",
+      "options": [
+        "although",
+        "auto"
+      ],
+      "correct": "although"
+    },
+    {
+      "question": "although",
+      "options": [
+        "author",
+        "although"
+      ],
+      "correct": "although"
+    },
+    {
+      "question": "although",
+      "options": [
+        "although",
+        "alter"
+      ],
+      "correct": "although"
+    },
+    {
+      "question": "although",
+      "options": [
+        "though",
+        "although"
+      ],
+      "correct": "although"
+    },
+    {
+      "question": "although",
+      "options": [
+        "although",
+        "furlough"
+      ],
+      "correct": "although"
+    },
+    {
+      "question": "although",
+      "options": [
+        "dough",
+        "although"
+      ],
+      "correct": "although"
+    },
+    {
+      "question": "although",
+      "options": [
+        "although",
+        "allot"
+      ],
+      "correct": "although"
+    }
+  ]
+        }
