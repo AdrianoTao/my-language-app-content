@@ -1,0 +1,319 @@
+{
+  "id": "c2_eng_auto_002",
+  "title": "Automated Control Systems & Microcontroller Implementation",
+  "description": "A C2-level technical lesson focusing on telemetry, robust hardware architecture, and communication protocols within remote Australian infrastructure.",
+  "phase_1_vocab": [
+    {
+      "word": "Actuation",
+      "definition": "The process of causing a machine or device to operate or execute a physical movement, often triggered by a control signal.",
+      "translation": "Atuação / Acionamento"
+    },
+    {
+      "word": "Redundancy",
+      "definition": "The inclusion of extra components or duplicate systems functioning as fail-safes to ensure reliability in the event of partial failure.",
+      "translation": "Redundância"
+    },
+    {
+      "word": "Discrepancy",
+      "definition": "A lack of compatibility, consistency, or similarity between two or more facts, data points, or sensor readings.",
+      "translation": "Discrepância / Divergência"
+    },
+    {
+      "word": "Robust",
+      "definition": "Strong and resilient; capable of performing optimally without failure under a wide range of adverse operational conditions.",
+      "translation": "Robusto / Resiliente"
+    },
+    {
+      "word": "Paradigm",
+      "definition": "A typical example, established pattern, or overarching framework that dictates how systems or theories are structured.",
+      "translation": "Paradigma"
+    }
+  ],
+  "phase_2_text": "The implementation of automated control systems in remote Australian infrastructure, particularly within the water management and agricultural sectors, represents a critical shift in operational strategy. Given the unforgiving nature of the Outback, relying on manual oversight is an outdated paradigm. Modern engineers deploy intricate networks of microcontrollers and programmable logic controllers (PLCs) to manage everything from valve actuation to power-path routing in solar-driven pump stations. However, the harsh environmental conditions necessitate exceptionally robust hardware architecture. System failure in these isolated regions is not merely inconvenient; it can be catastrophic for local ecosystems and agriculture. Consequently, engineers must build comprehensive redundancy into both the physical sensors and the serial communication protocols. When the telemetry data from a remote node shows a discrepancy compared to the established baselines, the control loop must autonomously isolate the fault and transmit alerts to centralized hubs in cities like Brisbane or Perth. This sophisticated fusion of low-level electronics with high-level network topology is paramount for ensuring sustainable, uninterrupted service across the continent's vast expanses, minimizing the need for costly physical dispatch.",
+  "phase_3_comprehension": [
+    {
+      "id": "q1",
+      "question": "According to the text, why is the traditional model of manual oversight no longer viable?",
+      "ideal_answer_keywords": [
+        "unforgiving nature",
+        "Outback",
+        "outdated paradigm",
+        "harsh environmental conditions"
+      ]
+    },
+    {
+      "id": "q2",
+      "question": "What is the implied consequence of failing to implement 'comprehensive redundancy' in serial communication protocols?",
+      "ideal_answer_keywords": [
+        "catastrophic failure",
+        "loss of telemetry",
+        "inability to isolate faults",
+        "costly physical dispatch"
+      ]
+    },
+    {
+      "id": "q3",
+      "question": "In what ways do you think the specific choice of microcontroller architecture (e.g., memory limits, clock speed) impacts the overall reliability of these remote systems?",
+      "ideal_answer_keywords": []
+    }
+  ],
+  "phase_4_drills": {
+    "matching": [
+      {
+        "word": "Actuation",
+        "match": "The mechanism of triggering physical movement in a device"
+      },
+      {
+        "word": "Redundancy",
+        "match": "Duplication of critical components for enhanced reliability"
+      },
+      {
+        "word": "Discrepancy",
+        "match": "Inconsistency or conflict between data readings"
+      },
+      {
+        "word": "Robust",
+        "match": "Highly resilient and capable of withstanding harsh conditions"
+      },
+      {
+        "word": "Paradigm",
+        "match": "An established framework, model, or conceptual approach"
+      }
+    ],
+    "context_fill": [
+      {
+        "sentence": "The transition from analog relays to digital solid-state logic represents a major shift in the industry's ____.",
+        "correct_word": "paradigm",
+        "distractors": [
+          "redundancy",
+          "actuation",
+          "discrepancy"
+        ]
+      },
+      {
+        "sentence": "We designed the enclosure to be exceptionally ____, capable of withstanding extreme thermal cycling.",
+        "correct_word": "robust",
+        "distractors": [
+          "redundant",
+          "discrepant",
+          "actuated"
+        ]
+      },
+      {
+        "sentence": "A significant ____ between the primary and secondary flow sensors triggered an immediate system halt.",
+        "correct_word": "discrepancy",
+        "distractors": [
+          "actuation",
+          "paradigm",
+          "redundancy"
+        ]
+      },
+      {
+        "sentence": "To prevent a single point of failure in the network-attached storage, we configured a high level of ____.",
+        "correct_word": "redundancy",
+        "distractors": [
+          "actuation",
+          "paradigm",
+          "robustness"
+        ]
+      },
+      {
+        "sentence": "The delayed ____ of the hydraulic cylinder was traced back to a faulty solenoid valve.",
+        "correct_word": "actuation",
+        "distractors": [
+          "discrepancy",
+          "redundancy",
+          "paradigm"
+        ]
+      }
+    ]
+  },
+  "phase_5_grammar": {
+    "rule_name": "Participle Clauses for Cause and Temporal Sequence",
+    "explanation": "In formal technical writing, participle clauses (e.g., 'Having analyzed the data...', 'Faced with a power drop...') are used to concisely express causality or time sequences, replacing longer conjunctions like 'because' or 'after'. The subject of the participle clause must be the same as the subject of the main clause.",
+    "exercises": [
+      {
+        "type": "reorder",
+        "question": "compiled / script / the / the / microcontroller / having / engineer / flashed / the",
+        "correct_answer": "Having compiled the script, the engineer flashed the microcontroller"
+      },
+      {
+        "type": "gap_fill",
+        "question": "____ (design) to withstand high humidity, the sensor performed flawlessly in the field.",
+        "correct_answer": "Designed",
+        "options": [
+          "Designing",
+          "Designed",
+          "Having design"
+        ]
+      },
+      {
+        "type": "reorder",
+        "question": "the / fault / identifying / isolated / loop / immediately / the / node / control",
+        "correct_answer": "Identifying the fault, the control loop immediately isolated the node"
+      },
+      {
+        "type": "gap_fill",
+        "question": "____ (encounter) a serial communication error, the system initiated a soft reboot.",
+        "correct_answer": "Having encountered",
+        "options": [
+          "Encountered",
+          "Having encountered",
+          "To encounter"
+        ]
+      },
+      {
+        "type": "reorder",
+        "question": "limited / bandwidth / by / algorithms / we / compression / implemented / restricted",
+        "correct_answer": "Restricted by limited bandwidth, we implemented compression algorithms"
+      },
+      {
+        "type": "gap_fill",
+        "question": "____ (use) a customized bootloader, the device boots in under two seconds.",
+        "correct_answer": "Using",
+        "options": [
+          "Used",
+          "Using",
+          "Have used"
+        ]
+      },
+      {
+        "type": "reorder",
+        "question": "the / parameters / established / comparing / we / discrepancy / found / a / data",
+        "correct_answer": "Comparing the data, we found a discrepancy with established parameters"
+      },
+      {
+        "type": "gap_fill",
+        "question": "____ (test) the power-path thoroughly in the lab, they deployed the prototype with confidence.",
+        "correct_answer": "Having tested",
+        "options": [
+          "Tested",
+          "Having testing",
+          "Having tested"
+        ]
+      },
+      {
+        "type": "reorder",
+        "question": "by / engineers / the / components / replaced / redundancy / concerned / lack / of / the",
+        "correct_answer": "Concerned by the lack of redundancy, the engineers replaced the components"
+      },
+      {
+        "type": "gap_fill",
+        "question": "____ (operate) continuously for five years, the mechanical relay finally failed.",
+        "correct_answer": "Having operated",
+        "options": [
+          "Operating",
+          "Having operated",
+          "Operated"
+        ]
+      }
+    ]
+  },
+  "phase_6_listening": {
+    "script": "Liam: G'day Mia, how's the integration of that new logic board going? We need it sorted before the site deployment.\n\nMia: It's hard yakka, to be honest. The serial communication keeps dropping out randomly. I reckon the bootloader configuration is slightly off, causing a timeout.\n\nLiam: Yeah, right. Have you checked the power-path management? Sometimes a sudden voltage dip makes the chip play up, especially when the main actuator kicks in.\n\nMia: Good shout, but I threw an oscilloscope on it earlier. The supply is dead flat, no ripples at all. It’s got to be a software logic issue, not hardware.\n\nLiam: Fair dinkum. Well, we can't just hope for the best and say 'she'll be right'. We need this system to be rock solid before it goes out to the middle of nowhere. If it fails out there, it's a massive headache to fix.\n\nMia: Absolutely. I'll pull out all the stops tonight and rewrite the serial buffer logic from scratch to ensure better redundancy.\n\nLiam: Good on ya. Give me a shout if you need a second pair of eyes on the code.",
+    "exercises": [
+      {
+        "type": "true_false",
+        "question": "Mia believes the communication issue is caused by a hardware failure.",
+        "correct_answer": "False"
+      },
+      {
+        "type": "true_false",
+        "question": "Liam suggests that actuator movement might be causing a voltage drop.",
+        "correct_answer": "True"
+      },
+      {
+        "type": "true_false",
+        "question": "Mia confirmed Liam's suspicion by finding ripples on the oscilloscope.",
+        "correct_answer": "False"
+      },
+      {
+        "type": "true_false",
+        "question": "Liam insists the system cannot be deployed relying on 'she'll be right' optimism.",
+        "correct_answer": "True"
+      },
+      {
+        "type": "true_false",
+        "question": "Mia plans to leave the code as it is and test it again tomorrow.",
+        "correct_answer": "False"
+      },
+      {
+        "type": "gap_fill",
+        "question": "Mia describes the integration process as 'hard ____', meaning difficult work.",
+        "correct_answer": "yakka"
+      },
+      {
+        "type": "gap_fill",
+        "question": "Liam says a voltage dip can make the chip '____ up', meaning to malfunction.",
+        "correct_answer": "play"
+      },
+      {
+        "type": "gap_fill",
+        "question": "Liam uses the phrase 'Fair ____' to acknowledge Mia's oscilloscope findings.",
+        "correct_answer": "dinkum"
+      },
+      {
+        "type": "gap_fill",
+        "question": "Liam says they cannot just rely on the Australian phrase '____ be right' for this project.",
+        "correct_answer": "she'll"
+      },
+      {
+        "type": "gap_fill",
+        "question": "Mia promises to '____ out all the stops' to fix the buffer logic tonight.",
+        "correct_answer": "pull"
+      }
+    ]
+  },
+  "phase_7_idiom": {
+    "idiom": "Hard yakka",
+    "meaning": "Physically or mentally demanding, laborious work. A very common Australian colloquialism.",
+    "translation": "Trabalho duro / Ralação / Esforço pesado",
+    "exercises": [
+      {
+        "question": "Which scenario is the best example of 'hard yakka'?",
+        "options": [
+          "Attending a brief morning meeting.",
+          "Spending 12 hours debugging complex C++ code for a microcontroller.",
+          "Sending a few routine emails to clients."
+        ],
+        "correct_answer": "Spending 12 hours debugging complex C++ code for a microcontroller."
+      },
+      {
+        "question": "Getting this legacy system to communicate with the new servers was absolute ____.",
+        "options": [
+          "easy street",
+          "hard yakka",
+          "fair dinkum"
+        ],
+        "correct_answer": "hard yakka"
+      },
+      {
+        "question": "If your colleague tells you a task will be 'hard yakka', you should expect it to be:",
+        "options": [
+          "Quick and simple",
+          "Tiring and difficult",
+          "Completely impossible"
+        ],
+        "correct_answer": "Tiring and difficult"
+      },
+      {
+        "question": "Select the closest standard English equivalent to 'hard yakka'.",
+        "options": [
+          "A piece of cake",
+          "A walk in the park",
+          "Backbreaking work / Toil"
+        ],
+        "correct_answer": "Backbreaking work / Toil"
+      },
+      {
+        "question": "Is 'hard yakka' used exclusively for manual labor?",
+        "options": [
+          "Yes, it only refers to physical exertion.",
+          "No, it can refer to intense mental or cognitive tasks in a professional setting as well.",
+          "It is only used in agriculture."
+        ],
+        "correct_answer": "No, it can refer to intense mental or cognitive tasks in a professional setting as well."
+      }
+    ]
+  }
+}
