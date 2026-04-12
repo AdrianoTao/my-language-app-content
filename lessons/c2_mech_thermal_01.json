@@ -1,0 +1,318 @@
+{
+  "id": "c2_mech_thermal_01",
+  "title": "Thermal Management & Fabrication of Bespoke Cooling Assemblies",
+  "description": "A C2-level technical lesson focusing on fluid dynamics, sheet metal fabrication, and professional Australian engineering communication.",
+  "phase_1_vocab": [
+    {
+      "word": "Bespoke",
+      "definition": "Custom-made or uniquely designed for a specific user or purpose, rather than mass-produced.",
+      "translation": "Sob medida / Personalizado"
+    },
+    {
+      "word": "Ameliorate",
+      "definition": "To make a bad or unsatisfactory situation, such as thermal inefficiency or structural weakness, better.",
+      "translation": "Mitigar / Atenuar / Melhorar"
+    },
+    {
+      "word": "Plenum",
+      "definition": "An enclosed chamber where a treated substance, typically air, is collected for distribution at a pressure slightly higher than the surrounding atmosphere.",
+      "translation": "Câmara de pressão / Pleno"
+    },
+    {
+      "word": "Impedance",
+      "definition": "The measure of opposition that a system presents to the passage of a fluid flow, acoustic wave, or electrical current.",
+      "translation": "Impedância / Resistência ao fluxo"
+    },
+    {
+      "word": "Tolerance",
+      "definition": "An allowable amount of variation of a specified quantity, especially in the physical dimensions of a machined part.",
+      "translation": "Tolerância (dimensional)"
+    }
+  ],
+  "phase_2_text": "In the realm of high-performance computing, thermal management frequently presents a critical bottleneck. To ameliorate the adverse effects of thermal throttling, engineers often eschew mass-produced solutions in favour of bespoke cooling apparatuses. The design of a custom workstation cooling stand, for instance, requires a rigorous understanding of fluid dynamics. When fabricating the metal frame from folded sheet steel, calculating the precise bend allowance and maintaining strict dimensional tolerance is paramount to ensure structural integrity and perfect fan alignment.\n\nFurthermore, the efficacy of the cooling mechanism relies heavily on overcoming airflow impedance within the device's undercarriage. By designing an optimal plenum chamber beneath the intake vents, one can guarantee that high static pressure fans deliver a uniform distribution of cool air, thereby maximizing convective heat transfer. In the Australian engineering context, where ambient temperatures can exacerbate hardware strain during intense 3D CAD rendering or finite element analysis, such meticulous design is not merely an academic exercise but a practical necessity. The transition from digital models to a physical, bent-metal prototype demands both analytical rigour and pragmatic fabrication skills.",
+  "phase_3_comprehension": [
+    {
+      "id": "q1",
+      "question": "According to the text, why is calculating precise bend allowance critical when working with folded sheet steel?",
+      "ideal_answer_keywords": [
+        "structural integrity",
+        "fan alignment",
+        "dimensional tolerance"
+      ]
+    },
+    {
+      "id": "q2",
+      "question": "What is the implied relationship between the 'plenum chamber' and 'convective heat transfer'?",
+      "ideal_answer_keywords": [
+        "uniform distribution",
+        "static pressure",
+        "airflow optimization",
+        "cooling efficiency"
+      ]
+    },
+    {
+      "id": "q3",
+      "question": "Do you believe the shift towards 'bespoke' hardware solutions is sustainable on an industrial scale, or is it strictly a niche engineering pursuit? Justify your stance.",
+      "ideal_answer_keywords": []
+    }
+  ],
+  "phase_4_drills": {
+    "matching": [
+      {
+        "word": "Bespoke",
+        "match": "Tailored to specific requirements"
+      },
+      {
+        "word": "Ameliorate",
+        "match": "To rectify or improve a flaw"
+      },
+      {
+        "word": "Plenum",
+        "match": "A pressurized air distribution space"
+      },
+      {
+        "word": "Impedance",
+        "match": "Resistance to flow or movement"
+      },
+      {
+        "word": "Tolerance",
+        "match": "Permissible limit of variation in a physical dimension"
+      }
+    ],
+    "context_fill": [
+      {
+        "sentence": "The dense dust filters introduced significant airflow ____, requiring us to upgrade the fans.",
+        "correct_word": "impedance",
+        "distractors": [
+          "tolerance",
+          "plenum",
+          "resonance"
+        ]
+      },
+      {
+        "sentence": "To ____ the overheating issue during renders, we designed a custom ventilation shroud.",
+        "correct_word": "ameliorate",
+        "distractors": [
+          "exacerbate",
+          "bespoke",
+          "fabricate"
+        ]
+      },
+      {
+        "sentence": "Our CNC machines can maintain a ____ of plus or minus 0.05 millimetres.",
+        "correct_word": "tolerance",
+        "distractors": [
+          "plenum",
+          "clearance",
+          "impedance"
+        ]
+      },
+      {
+        "sentence": "Rather than buying off the shelf, the firm commissioned a ____ software suite for their automation line.",
+        "correct_word": "bespoke",
+        "distractors": [
+          "legacy",
+          "redundant",
+          "plenum"
+        ]
+      },
+      {
+        "sentence": "By utilizing the empty space as a ____, we ensured all components received equal cooling.",
+        "correct_word": "plenum",
+        "distractors": [
+          "impedance",
+          "vacuum",
+          "manifold"
+        ]
+      }
+    ]
+  },
+  "phase_5_grammar": {
+    "rule_name": "Mixed Conditionals (Hypothetical Past & Present Consequence)",
+    "explanation": "Mixed conditionals are used to express how a hypothetical or unreal situation in the past affects the present, or vice versa. The most common structure in engineering troubleshooting is: If + Past Perfect (past condition), + would/could/might + infinitive (present result).",
+    "exercises": [
+      {
+        "type": "reorder",
+        "question": "we / checked / now / wouldn't / if / be / had / failing / the / the / tolerances / assembly",
+        "correct_answer": "If we had checked the tolerances, the assembly wouldn't be failing now"
+      },
+      {
+        "type": "gap_fill",
+        "question": "If the fabricator ____ (use) a thicker gauge steel, the chassis wouldn't be vibrating right now.",
+        "correct_answer": "had used",
+        "options": [
+          "used",
+          "had used",
+          "has used"
+        ]
+      },
+      {
+        "type": "reorder",
+        "question": "would / we / better / the / static / simulated / pressure / if / be / operating / had / it",
+        "correct_answer": "If we had simulated the static pressure, it would be operating better"
+      },
+      {
+        "type": "gap_fill",
+        "question": "We ____ (not have) this thermal impedance issue today if the CAD model had been drafted correctly.",
+        "correct_answer": "would not have",
+        "options": [
+          "will not have",
+          "would not have",
+          "did not have"
+        ]
+      },
+      {
+        "type": "reorder",
+        "question": "I / wouldn't / to / have / redesign / if / I / the / expert / plenum / were / an / outsourced",
+        "correct_answer": "If I were an expert, I wouldn't have to outsource the plenum redesign"
+      },
+      {
+        "type": "gap_fill",
+        "question": "If they ____ (understand) fluid dynamics, they wouldn't have placed the intake vent there.",
+        "correct_answer": "understood",
+        "options": [
+          "understand",
+          "understood",
+          "had understood"
+        ]
+      },
+      {
+        "type": "reorder",
+        "question": "the / better / performance / the / would / cooling / be / we / upgraded / if / had / fans",
+        "correct_answer": "The cooling performance would be better if we had upgraded the fans"
+      },
+      {
+        "type": "gap_fill",
+        "question": "If the material ____ (be) more malleable, we wouldn't be dealing with these micro-fractures on the fold.",
+        "correct_answer": "were",
+        "options": [
+          "was",
+          "were",
+          "had been"
+        ]
+      },
+      {
+        "type": "reorder",
+        "question": "ameliorated / if / have / the / we / flaw / design / wouldn't / struggling / be / now / we",
+        "correct_answer": "If we had ameliorated the design flaw, we wouldn't be struggling now"
+      },
+      {
+        "type": "gap_fill",
+        "question": "The project ____ (be) completed by now if the bespoke components had arrived on schedule.",
+        "correct_answer": "would be",
+        "options": [
+          "will be",
+          "would be",
+          "would have been"
+        ]
+      }
+    ]
+  },
+  "phase_6_listening": {
+    "script": "Adriano: G'day Chloe, have you had a squiz at the updated 3D assembly for the cooling stand?\n\nChloe: Yeah, mate. It’s looking pretty solid, but I reckon we might have a slight issue with the sheet metal tolerances on that bottom fold.\n\nAdriano: Really? I ran the flow simulation and the static pressure held up perfectly within the plenum.\n\nChloe: The airflow is spot on, no doubt. But the fabricator down the road is absolutely flat out this week, and they usually struggle to hold a half-millimetre tolerance on a 90-degree bend with this gauge of steel. It might throw a spanner in the works when it comes to the fan mounts.\n\nAdriano: Ah, I see what you mean. If we increase the fold radius slightly, it should ameliorate the stress on their tooling.\n\nChloe: Spot on. Give that a burl with a 2mm radius and shoot me the revised drawings. If it all lines up, we can send it off for prototyping by this arvo.\n\nAdriano: Too easy. I'll get the CAD updated right now.",
+    "exercises": [
+      {
+        "type": "true_false",
+        "question": "Adriano's primary concern was the structural integrity, not the airflow.",
+        "correct_answer": "False"
+      },
+      {
+        "type": "true_false",
+        "question": "Chloe identified a potential manufacturing issue with the metal bending.",
+        "correct_answer": "True"
+      },
+      {
+        "type": "true_false",
+        "question": "The local fabricator has plenty of free time to work on the prototype.",
+        "correct_answer": "False"
+      },
+      {
+        "type": "true_false",
+        "question": "Adriano decides to ignore Chloe's advice and proceed with his original design.",
+        "correct_answer": "False"
+      },
+      {
+        "type": "true_false",
+        "question": "They plan to send the design out for prototyping by the afternoon.",
+        "correct_answer": "True"
+      },
+      {
+        "type": "gap_fill",
+        "question": "Chloe asks Adriano if he has had a ____ at the assembly, meaning to take a look.",
+        "correct_answer": "squiz"
+      },
+      {
+        "type": "gap_fill",
+        "question": "Chloe mentions the fabricator is very busy by saying they are ____ ____.",
+        "correct_answer": "flat out"
+      },
+      {
+        "type": "gap_fill",
+        "question": "Chloe suggests Adriano should try the new radius by saying 'Give that a ____'.",
+        "correct_answer": "burl"
+      },
+      {
+        "type": "gap_fill",
+        "question": "They plan to send it off by this ____, an Australian abbreviation for afternoon.",
+        "correct_answer": "arvo"
+      },
+      {
+        "type": "gap_fill",
+        "question": "Adriano agrees to the task enthusiastically by replying '____ easy'.",
+        "correct_answer": "Too"
+      }
+    ]
+  },
+  "phase_7_idiom": {
+    "idiom": "Throw a spanner in the works",
+    "meaning": "To introduce a problem, dilemma, or obstacle that prevents a plan or mechanical process from succeeding.",
+    "translation": "Colocar areia na engrenagem / Estragar os planos",
+    "exercises": [
+      {
+        "question": "Which situation correctly demonstrates 'throwing a spanner in the works'?",
+        "options": [
+          "Completing a project ahead of schedule.",
+          "A sudden supplier bankruptcy delaying all manufacturing.",
+          "Lubricating a machine to make it run faster."
+        ],
+        "correct_answer": "A sudden supplier bankruptcy delaying all manufacturing."
+      },
+      {
+        "question": "The sudden software update really threw a ____ in the works for our system integration.",
+        "options": [
+          "hammer",
+          "spanner",
+          "wrench"
+        ],
+        "correct_answer": "spanner"
+      },
+      {
+        "question": "If your colleague throws a spanner in the works, how might you feel?",
+        "options": [
+          "Frustrated and delayed",
+          "Relieved and relaxed",
+          "Motivated and inspired"
+        ],
+        "correct_answer": "Frustrated and delayed"
+      },
+      {
+        "question": "Select the closest synonym phrase.",
+        "options": [
+          "To grease the wheels",
+          "To upset the apple cart",
+          "To bite the bullet"
+        ],
+        "correct_answer": "To upset the apple cart"
+      },
+      {
+        "question": "In American English, the equivalent idiom is 'throw a monkey wrench in the works'. In Australia, they use:",
+        "options": [
+          "spanner",
+          "screwdriver",
+          "plier"
+        ],
+        "correct_answer": "spanner"
+      }
+    ]
+  }
+}
