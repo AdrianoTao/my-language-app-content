@@ -1,0 +1,319 @@
+{
+  "id": "c2_aus_offgrid_travel_004",
+  "title": "Off-Grid Travel: Power Management in the Australian Outback",
+  "description": "A C2-level lesson exploring the logistics, DIY electrical setups, and colloquial vocabulary of independent campervan travel in remote Australia.",
+  "phase_1_vocab": [
+    {
+      "word": "Arduous",
+      "definition": "Involving or requiring strenuous effort; difficult and tiring.",
+      "translation": "Árduo / Penoso"
+    },
+    {
+      "word": "Ubiquitous",
+      "definition": "Present, appearing, or found everywhere.",
+      "translation": "Onipresente"
+    },
+    {
+      "word": "Obviate",
+      "definition": "To remove a need or difficulty; to prevent or avoid a problem.",
+      "translation": "Obviar / Evitar / Prevenir"
+    },
+    {
+      "word": "Respite",
+      "definition": "A short period of rest or relief from something difficult or unpleasant.",
+      "translation": "Trégua / Descanso"
+    },
+    {
+      "word": "Pragmatic",
+      "definition": "Dealing with things sensibly and realistically in a way that is based on practical rather than theoretical considerations.",
+      "translation": "Pragmático"
+    }
+  ],
+  "phase_2_text": "Embarking on a road trip across the Australian Outback is an undeniably arduous undertaking, requiring far more than a passing glance at a map. To venture beyond the coastal fringes is to embrace extreme isolation, where the need for absolute self-reliance is ubiquitous. For modern travellers—particularly those engineering their own off-grid setups with custom power-path management and solar integrations—meticulous preparation serves to obviate the severe risks associated with such an inhospitable environment. Ensuring that a dual-battery system and its corresponding microcontrollers can withstand the relentless thermal load provides a much-needed respite from the anxieties of equipment failure miles from civilization. A highly pragmatic approach is essential; every component, from the sensors monitoring the 12V fridge temperature to the heavy-duty suspension, must be optimized for durability. Out here, the landscape is unforgiving, and there is little room for theoretical idealism or fragile electronics. Consequently, mastering the logistics of remote Australian travel not only tests one's mechanical and electrical prowess but also immerses the driver entirely in the profound, desolate beauty of the interior.",
+  "phase_3_comprehension": [
+    {
+      "id": "q1",
+      "question": "According to the text, what is the primary benefit of meticulous preparation and engineering a robust off-grid setup?",
+      "ideal_answer_keywords": [
+        "obviate risks",
+        "prevent failure",
+        "respite from anxiety"
+      ]
+    },
+    {
+      "id": "q2",
+      "question": "What is implied about the environment of the Australian interior based on the requirement for a 'pragmatic approach'?",
+      "ideal_answer_keywords": [
+        "unforgiving",
+        "harsh",
+        "inhospitable",
+        "no room for error",
+        "fragile"
+      ]
+    },
+    {
+      "id": "q3",
+      "question": "Do you believe the increasing reliance on complex electronic telemetry in campervans detracts from the traditional, rugged experience of remote travel? Why or why not?",
+      "ideal_answer_keywords": []
+    }
+  ],
+  "phase_4_drills": {
+    "matching": [
+      {
+        "word": "Arduous",
+        "match": "Extremely demanding and exhausting"
+      },
+      {
+        "word": "Ubiquitous",
+        "match": "Encountered everywhere; pervasive"
+      },
+      {
+        "word": "Obviate",
+        "match": "To proactively eliminate a risk or need"
+      },
+      {
+        "word": "Respite",
+        "match": "A brief reprieve from hardship"
+      },
+      {
+        "word": "Pragmatic",
+        "match": "Guided by practical experience rather than theory"
+      }
+    ],
+    "context_fill": [
+      {
+        "sentence": "By installing a secondary alternator, we managed to ____ the need for a noisy petrol generator.",
+        "correct_word": "obviate",
+        "distractors": [
+          "ameliorate",
+          "mitigate",
+          "respite"
+        ]
+      },
+      {
+        "sentence": "The red dust of the Pilbara is ____; it finds its way into every crevice of the vehicle.",
+        "correct_word": "ubiquitous",
+        "distractors": [
+          "arduous",
+          "pragmatic",
+          "redundant"
+        ]
+      },
+      {
+        "sentence": "After three days of driving over severely corrugated dirt tracks, arriving at the sealed highway was a welcome ____.",
+        "correct_word": "respite",
+        "distractors": [
+          "impedance",
+          "anomaly",
+          "paradigm"
+        ]
+      },
+      {
+        "sentence": "Replacing the entire transmission in the field was an ____ task that took the crew twelve hours.",
+        "correct_word": "arduous",
+        "distractors": [
+          "ubiquitous",
+          "convivial",
+          "pragmatic"
+        ]
+      },
+      {
+        "sentence": "While the elegant glass dashboard looked incredible, a more ____ design using analog switches was chosen for the expedition.",
+        "correct_word": "pragmatic",
+        "distractors": [
+          "arduous",
+          "egalitarian",
+          "bespoke"
+        ]
+      }
+    ]
+  },
+  "phase_5_grammar": {
+    "rule_name": "Correlative Comparatives (The... the...)",
+    "explanation": "This structure (The + comparative adjective/adverb, the + comparative adjective/adverb) is used to show a proportional or causal relationship between two variables, often used in technical or scientific contexts to describe how one changing parameter affects another.",
+    "exercises": [
+      {
+        "type": "reorder",
+        "question": "further / from / drive / the / you / civilization / crucial / the / becomes / redundancy / more",
+        "correct_answer": "The further you drive from civilization, the more crucial redundancy becomes"
+      },
+      {
+        "type": "gap_fill",
+        "question": "The ____ (efficient) the solar panels are, the faster the auxiliary battery charges.",
+        "correct_answer": "more efficient",
+        "options": [
+          "efficienter",
+          "more efficient",
+          "most efficient"
+        ]
+      },
+      {
+        "type": "reorder",
+        "question": "greater / load / the / thermal / the / faster / degrades / component / the",
+        "correct_answer": "The greater the thermal load, the faster the component degrades"
+      },
+      {
+        "type": "gap_fill",
+        "question": "The more arduous the terrain, ____ (high) the fuel consumption will be.",
+        "correct_answer": "the higher",
+        "options": [
+          "higher",
+          "the higher",
+          "the highest"
+        ]
+      },
+      {
+        "type": "reorder",
+        "question": "less / the / have / we / impedance / the / better / flows / current / the",
+        "correct_answer": "The less impedance we have, the better the current flows"
+      },
+      {
+        "type": "gap_fill",
+        "question": "The ____ (hot) the ambient temperature, the harder the compressor must work to maintain the fridge.",
+        "correct_answer": "hotter",
+        "options": [
+          "hotter",
+          "more hot",
+          "hottest"
+        ]
+      },
+      {
+        "type": "reorder",
+        "question": "the / code / more / robust / the / fewer / we / experience / errors",
+        "correct_answer": "The more robust the code, the fewer errors we experience"
+      },
+      {
+        "type": "gap_fill",
+        "question": "The ____ (heavy) the vehicle, the longer the braking distance.",
+        "correct_answer": "heavier",
+        "options": [
+          "more heavy",
+          "heavier",
+          "heavy"
+        ]
+      },
+      {
+        "type": "reorder",
+        "question": "higher / the / pressure / the / static / the / uniform / more / is / distribution / air / the",
+        "correct_answer": "The higher the static pressure, the more uniform the air distribution is"
+      },
+      {
+        "type": "gap_fill",
+        "question": "The more you prepare for the Outback, ____ (likely) you are to encounter a critical failure.",
+        "correct_answer": "the less likely",
+        "options": [
+          "the least likely",
+          "less likely",
+          "the less likely"
+        ]
+      }
+    ]
+  },
+  "phase_6_listening": {
+    "script": "Davo: G'day Adriano, how's the campervan fit-out coming along? You still aiming to head up north next week?\n\nAdriano: Hey Davo. Yeah, mate. I’ve been flat out wiring the new ESP32 microcontrollers for the battery management system. It’s been an arduous process, to be honest, trying to get the telemetry right.\n\nDavo: I reckon! You're basically acting as your own sparky. Just make sure the solar regulator can handle the continuous load. Once you're out beyond the black stump, there's no servo around the corner if you fry the circuitry.\n\nAdriano: Exactly. I've programmed in some redundancy to obviate any total power losses. I need to make sure the fridge stays ice cold, you know?\n\nDavo: Struth, that's the most pragmatic thing I've heard all day! If the fridge carks it out there, the trip is officially ruined. Hot beers are an absolute tragedy.\n\nAdriano: That's the plan. I just need a quick respite this weekend before the final push on the fabrication.\n\nDavo: Good call, mate. Let's grab a flat white later this arvo. You've earned a breather.",
+    "exercises": [
+      {
+        "type": "true_false",
+        "question": "Adriano is hiring an electrician to wire his campervan.",
+        "correct_answer": "False"
+      },
+      {
+        "type": "true_false",
+        "question": "Davo warns Adriano about the lack of amenities in remote areas.",
+        "correct_answer": "True"
+      },
+      {
+        "type": "true_false",
+        "question": "Adriano programmed redundancy specifically because he does not care about the power loss.",
+        "correct_answer": "False"
+      },
+      {
+        "type": "true_false",
+        "question": "Davo considers a broken fridge on an Outback trip to be a major disaster.",
+        "correct_answer": "True"
+      },
+      {
+        "type": "true_false",
+        "question": "They plan to meet up for a coffee in the morning.",
+        "correct_answer": "False"
+      },
+      {
+        "type": "gap_fill",
+        "question": "Davo says Adriano is acting as his own '____', which is Australian slang for an electrician.",
+        "correct_answer": "sparky"
+      },
+      {
+        "type": "gap_fill",
+        "question": "Davo reminds him there is no '____' (gas/service station) around the corner in the Outback.",
+        "correct_answer": "servo"
+      },
+      {
+        "type": "gap_fill",
+        "question": "Davo uses the exclamation '____', which is an old Australian slang expression of surprise or agreement.",
+        "correct_answer": "Struth"
+      },
+      {
+        "type": "gap_fill",
+        "question": "If a machine '____ it', it means it has broken down or died completely.",
+        "correct_answer": "carks"
+      },
+      {
+        "type": "gap_fill",
+        "question": "Davo suggests they grab a '____ ____', a very popular style of coffee in Australia.",
+        "correct_answer": "flat white"
+      }
+    ]
+  },
+  "phase_7_idiom": {
+    "idiom": "Beyond the black stump",
+    "meaning": "An extremely remote, isolated, or far-off place; deep in the Australian Outback.",
+    "translation": "No fim do mundo / Onde Judas perdeu as botas",
+    "exercises": [
+      {
+        "question": "Which scenario best represents travelling 'beyond the black stump'?",
+        "options": [
+          "Driving 10 minutes to the local supermarket in Sydney.",
+          "Driving for three days into the central desert where there is no mobile phone reception.",
+          "Taking a ferry across Sydney Harbour."
+        ],
+        "correct_answer": "Driving for three days into the central desert where there is no mobile phone reception."
+      },
+      {
+        "question": "If you break down ____, you might have to wait days for a mechanic to reach you.",
+        "options": [
+          "beyond the black stump",
+          "flat out",
+          "like a lead balloon"
+        ],
+        "correct_answer": "beyond the black stump"
+      },
+      {
+        "question": "Is 'beyond the black stump' used for locations close to the coast or major cities?",
+        "options": [
+          "Yes, it applies to any suburban area.",
+          "No, it specifically refers to the remote inland/Outback regions.",
+          "It only applies to beaches."
+        ],
+        "correct_answer": "No, it specifically refers to the remote inland/Outback regions."
+      },
+      {
+        "question": "Select the closest equivalent idiom in American/British English.",
+        "options": [
+          "In the middle of nowhere",
+          "Around the corner",
+          "A stone's throw away"
+        ],
+        "correct_answer": "In the middle of nowhere"
+      },
+      {
+        "question": "I can't get a Wi-Fi signal out here, mate. We're well and truly beyond the ____.",
+        "options": [
+          "red dirt",
+          "black stump",
+          "tall poppy"
+        ],
+        "correct_answer": "black stump"
+      }
+    ]
+  }
+}
