@@ -1,0 +1,319 @@
+{
+  "id": "c2_aus_workplace_003",
+  "title": "Navigating Australian Workplace Culture and Corporate Etiquette",
+  "description": "A C2-level lesson exploring the nuances of egalitarian corporate structures, professional communication, and cultural adaptability in Australia.",
+  "phase_1_vocab": [
+    {
+      "word": "Egalitarian",
+      "definition": "Relating to or believing in the principle that all people are equal and deserve equal rights and opportunities.",
+      "translation": "Igualitário"
+    },
+    {
+      "word": "Camaraderie",
+      "definition": "Mutual trust and friendship among people who spend a lot of time together.",
+      "translation": "Camaradagem / Coleguismo"
+    },
+    {
+      "word": "Meritocracy",
+      "definition": "A society or system in which people get power, influence, or promotion on the basis of their ability and achievements.",
+      "translation": "Meritocracia"
+    },
+    {
+      "word": "Tall Poppy Syndrome",
+      "definition": "A cultural phenomenon where people are resented, attacked, or criticized because their talents or achievements elevate them above their peers.",
+      "translation": "Síndrome da Papoula Alta (aversão ao sucesso alheio)"
+    },
+    {
+      "word": "Convivial",
+      "definition": "Relating to an atmosphere or event that is friendly, lively, and enjoyable.",
+      "translation": "Sociável / Festivo / Acolhedor"
+    }
+  ],
+  "phase_2_text": "Adapting to the Australian corporate environment requires a nuanced understanding of its fundamentally egalitarian structure. Unlike the heavily stratified hierarchies found in many global markets, Australian workplaces operate largely as a meritocracy, where input is valued across all tiers of seniority. This absence of rigid deference fosters a strong sense of camaraderie among colleagues. However, professionals must strike a delicate balance; while demonstrating competence is crucial, overt self-promotion can quickly trigger the 'Tall Poppy Syndrome', leading to subtle ostracization. Management styles typically favour a convivial approach, often blurring the lines between formal meetings and casual debriefs over a 'flat white' coffee. Consequently, interpersonal skills and cultural adaptability are just as heavily scrutinized during performance appraisals as technical acumen. Immigrating professionals must recalibrate their communication strategies, ensuring they project confidence without appearing boastful, and participate actively in the informal, yet highly consequential, social rituals that underpin team cohesion.",
+  "phase_3_comprehension": [
+    {
+      "id": "q1",
+      "question": "According to the text, what might happen to a professional who engages in overt self-promotion in an Australian workplace?",
+      "ideal_answer_keywords": [
+        "Tall Poppy Syndrome",
+        "subtle ostracization",
+        "resentment"
+      ]
+    },
+    {
+      "id": "q2",
+      "question": "What is implied about the role of informal social rituals, such as casual debriefs over coffee, in the Australian corporate world?",
+      "ideal_answer_keywords": [
+        "consequential",
+        "team cohesion",
+        "performance appraisals",
+        "scrutinized",
+        "blurring lines"
+      ]
+    },
+    {
+      "id": "q3",
+      "question": "Do you believe an egalitarian workplace structure is inherently more productive than a strictly hierarchical one, particularly in high-stakes engineering projects? Justify your stance.",
+      "ideal_answer_keywords": []
+    }
+  ],
+  "phase_4_drills": {
+    "matching": [
+      {
+        "word": "Egalitarian",
+        "match": "Promoting equal rights and minimizing hierarchy"
+      },
+      {
+        "word": "Camaraderie",
+        "match": "Mutual trust and friendship within a group"
+      },
+      {
+        "word": "Meritocracy",
+        "match": "Advancement based strictly on ability and performance"
+      },
+      {
+        "word": "Tall Poppy Syndrome",
+        "match": "Cultural tendency to cut down high achievers"
+      },
+      {
+        "word": "Convivial",
+        "match": "A friendly, lively, and enjoyable atmosphere"
+      }
+    ],
+    "context_fill": [
+      {
+        "sentence": "The Friday afternoon barbecue is a staple for building ____ within the engineering department.",
+        "correct_word": "camaraderie",
+        "distractors": [
+          "meritocracy",
+          "impedance",
+          "anomalies"
+        ]
+      },
+      {
+        "sentence": "Australia prides itself on being an ____ society where the CEO and the intern converse on a first-name basis.",
+        "correct_word": "egalitarian",
+        "distractors": [
+          "convivial",
+          "legacy",
+          "bespoke"
+        ]
+      },
+      {
+        "sentence": "His blatant boasting about his university grades unfortunately made him a target for the ____.",
+        "correct_word": "Tall Poppy Syndrome",
+        "distractors": [
+          "meritocracy",
+          "camaraderie",
+          "plenum"
+        ]
+      },
+      {
+        "sentence": "Despite the high-pressure deadlines, the design office maintains a highly ____ and supportive environment.",
+        "correct_word": "convivial",
+        "distractors": [
+          "egalitarian",
+          "redundant",
+          "mitigated"
+        ]
+      },
+      {
+        "sentence": "The startup operates as a strict ____; promotions are awarded purely on output, regardless of tenure.",
+        "correct_word": "meritocracy",
+        "distractors": [
+          "camaraderie",
+          "actuation",
+          "tolerance"
+        ]
+      }
+    ]
+  },
+  "phase_5_grammar": {
+    "rule_name": "Cleft Sentences for Emphasis",
+    "explanation": "Cleft sentences divide a simple sentence into two clauses to highlight specific information. In professional discourse, structures beginning with 'It is...' or 'What...' are used to deliberately focus the listener's attention on the key point of an argument.",
+    "exercises": [
+      {
+        "type": "reorder",
+        "question": "is / team / it / cohesion / value / what / they / most",
+        "correct_answer": "What they value most is team cohesion"
+      },
+      {
+        "type": "gap_fill",
+        "question": "____ is the egalitarian structure that surprised me the most about working in Sydney.",
+        "correct_answer": "It",
+        "options": [
+          "It",
+          "What",
+          "That"
+        ]
+      },
+      {
+        "type": "reorder",
+        "question": "was / technical / the / it / acumen / secured / that / promotion / his",
+        "correct_answer": "It was the technical acumen that secured his promotion"
+      },
+      {
+        "type": "gap_fill",
+        "question": "____ I found most challenging was adapting to the convivial, yet highly scrutinized, atmosphere.",
+        "correct_answer": "What",
+        "options": [
+          "It",
+          "What",
+          "Which"
+        ]
+      },
+      {
+        "type": "reorder",
+        "question": "not / it / the / was / pay / the / culture / but / that / me / attracted",
+        "correct_answer": "It was not the pay but the culture that attracted me"
+      },
+      {
+        "type": "gap_fill",
+        "question": "What they expect from a project manager ____ mutual trust and clear communication.",
+        "correct_answer": "is",
+        "options": [
+          "are",
+          "is",
+          "it"
+        ]
+      },
+      {
+        "type": "reorder",
+        "question": "the / camaraderie / was / missed / what / he / most / overseas / working",
+        "correct_answer": "What he missed most working overseas was the camaraderie"
+      },
+      {
+        "type": "gap_fill",
+        "question": "It is the meritocracy ____ drives innovation in this particular sector.",
+        "correct_answer": "that",
+        "options": [
+          "what",
+          "that",
+          "whom"
+        ]
+      },
+      {
+        "type": "reorder",
+        "question": "happens / that / is / ostracization / what / subtle / you / boast / if",
+        "correct_answer": "What happens is that subtle ostracization occurs if you boast"
+      },
+      {
+        "type": "gap_fill",
+        "question": "____ the Tall Poppy Syndrome that you really need to be wary of when presenting your achievements.",
+        "correct_answer": "It's",
+        "options": [
+          "It's",
+          "What's",
+          "That's"
+        ]
+      }
+    ]
+  },
+  "phase_6_listening": {
+    "script": "Sarah: Hey Mark, how's the new engineer settling in? I reckon he's finding the pace a bit full-on.\n\nMark: G'day Sarah. Yeah, he's a bright spark, no doubt about it. But he's struggling a little with our egalitarian setup. He kept calling the director 'Sir' during the stand-up meeting this morning.\n\nSarah: Oh, really? That must have gone down like a lead balloon. The boss absolutely hates that formal stuff; he thinks it kills the vibe.\n\nMark: Too right. I took him aside for a quick yarn over a cuppa to get him up to speed. I explained that it’s a pure meritocracy here, but no one likes a show-off. We don't want him falling foul of the Tall Poppy Syndrome before he's even passed probation.\n\nSarah: Good call. He needs to build a bit of camaraderie with the floor staff. Tell him to come along to the pub on Friday; it’s usually pretty convivial.\n\nMark: Will do. He’s putting in the hard yards, just needs to crack the cultural code, mate.",
+    "exercises": [
+      {
+        "type": "true_false",
+        "question": "The new engineer is adapting perfectly to the egalitarian structure without any issues.",
+        "correct_answer": "False"
+      },
+      {
+        "type": "true_false",
+        "question": "The director of the company prefers to be addressed with formal titles like 'Sir'.",
+        "correct_answer": "False"
+      },
+      {
+        "type": "true_false",
+        "question": "Mark had an informal chat with the new engineer to explain the workplace culture.",
+        "correct_answer": "True"
+      },
+      {
+        "type": "true_false",
+        "question": "Sarah suggests the new hire should work late on Friday instead of going to the pub.",
+        "correct_answer": "False"
+      },
+      {
+        "type": "true_false",
+        "question": "Mark believes the new engineer is working hard despite the cultural misunderstandings.",
+        "correct_answer": "True"
+      },
+      {
+        "type": "gap_fill",
+        "question": "Sarah thinks the new engineer is finding the pace a bit ____-on, meaning very intense.",
+        "correct_answer": "full"
+      },
+      {
+        "type": "gap_fill",
+        "question": "Mark describes the new hire as a bright ____, meaning an intelligent person.",
+        "correct_answer": "spark"
+      },
+      {
+        "type": "gap_fill",
+        "question": "Calling the boss 'Sir' went down like a ____ balloon, meaning it was poorly received.",
+        "correct_answer": "lead"
+      },
+      {
+        "type": "gap_fill",
+        "question": "Mark took him aside for a quick ____ over a cuppa, meaning a chat.",
+        "correct_answer": "yarn"
+      },
+      {
+        "type": "gap_fill",
+        "question": "He is putting in the hard ____, meaning working diligently and making an effort.",
+        "correct_answer": "yards"
+      }
+    ]
+  },
+  "phase_7_idiom": {
+    "idiom": "Go down like a lead balloon",
+    "meaning": "To be received very badly by an audience; to fail completely or be unpopular.",
+    "translation": "Cair como uma bomba / Pegar super mal / Ser um fracasso",
+    "exercises": [
+      {
+        "question": "Which scenario best illustrates an idea 'going down like a lead balloon'?",
+        "options": [
+          "You pitch a mandatory weekend shift to the team, and everyone groans in frustration.",
+          "You suggest a new software tool that speeds up the workflow, and everyone cheers.",
+          "You submit your final report ahead of the deadline."
+        ],
+        "correct_answer": "You pitch a mandatory weekend shift to the team, and everyone groans in frustration."
+      },
+      {
+        "question": "His joke about the company's recent budget cuts went down like a ____ balloon.",
+        "options": [
+          "helium",
+          "lead",
+          "hot-air"
+        ],
+        "correct_answer": "lead"
+      },
+      {
+        "question": "If your proposal goes down like a lead balloon, people are likely feeling:",
+        "options": [
+          "Annoyed or unamused",
+          "Inspired and motivated",
+          "Indifferent"
+        ],
+        "correct_answer": "Annoyed or unamused"
+      },
+      {
+        "question": "Select the closest synonym phrase.",
+        "options": [
+          "To hit it out of the park",
+          "To fail miserably",
+          "To get up to speed"
+        ],
+        "correct_answer": "To fail miserably"
+      },
+      {
+        "question": "Is this idiom generally used in formal academic writing or spoken conversation?",
+        "options": [
+          "Formal academic writing",
+          "Spoken conversation / informal settings",
+          "Legal documents"
+        ],
+        "correct_answer": "Spoken conversation / informal settings"
+      }
+    ]
+  }
+}
