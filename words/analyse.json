@@ -1,0 +1,377 @@
+{
+  "definition": "To examine critically and in detail the elements or structure of something, typically as a basis for discussion or interpretation.",
+  "match": [
+    {
+      "en": "analyse",
+      "pt": "analisar"
+    },
+    {
+      "en": "analysed",
+      "pt": "analisado"
+    },
+    {
+      "en": "analyser",
+      "pt": "analisador"
+    },
+    {
+      "en": "analysing",
+      "pt": "analisando"
+    },
+    {
+      "en": "analysis",
+      "pt": "análise"
+    },
+    {
+      "en": "analyst",
+      "pt": "analista"
+    },
+    {
+      "en": "analytic",
+      "pt": "analítico"
+    },
+    {
+      "en": "analytical",
+      "pt": "analítico"
+    },
+    {
+      "en": "analytically",
+      "pt": "analiticamente"
+    },
+    {
+      "en": "analyze",
+      "pt": "analisar"
+    },
+    {
+      "en": "analyzed",
+      "pt": "analisado"
+    },
+    {
+      "en": "analyzing",
+      "pt": "analisando"
+    }
+  ],
+  "sentences": [
+    {
+      "en": "We must critically {{analyse}} the structural flaws in the current economic model.",
+      "pt": "Devemos analisar criticamente as falhas estruturais no atual modelo econômico."
+    },
+    {
+      "en": "Scholars often {{analyse}} ancient manuscripts to uncover hidden historical truths.",
+      "pt": "Acadêmicos frequentemente analisam manuscritos antigos para descobrir verdades históricas ocultas."
+    },
+    {
+      "en": "The software is designed to {{analyse}} complex datasets quickly and accurately.",
+      "pt": "O software é projetado para analisar conjuntos de dados complexos com rapidez e precisão."
+    },
+    {
+      "en": "It is absolutely essential to {{analyse}} the root causes of systemic poverty.",
+      "pt": "É absolutamente essencial analisar as causas raízes da pobreza sistêmica."
+    },
+    {
+      "en": "The forensic team meticulously {{analysed}} the DNA evidence found at the scene.",
+      "pt": "A equipe forense analisou meticulosamente as evidências de DNA encontradas na cena."
+    },
+    {
+      "en": "Once the blood samples are {{analysed}}, we can confirm the exact diagnosis.",
+      "pt": "Assim que as amostras de sangue forem analisadas, poderemos confirmar o diagnóstico exato."
+    },
+    {
+      "en": "She {{analysed}} the financial reports to identify any underlying fiscal anomalies.",
+      "pt": "Ela analisou os relatórios financeiros para identificar quaisquer anomalias fiscais subjacentes."
+    },
+    {
+      "en": "The newly discovered poem was {{analysed}} by prominent literary critics worldwide.",
+      "pt": "O poema recém-descoberto foi analisado por proeminentes críticos literários em todo o mundo."
+    },
+    {
+      "en": "The laboratory technician carefully calibrated the spectrum {{analyser}} before the experiment.",
+      "pt": "O técnico de laboratório calibrou cuidadosamente o analisador de espectro antes do experimento."
+    },
+    {
+      "en": "A portable gas {{analyser}} was deployed to detect hazardous chemical leaks.",
+      "pt": "Um analisador de gases portátil foi utilizado para detectar vazamentos químicos perigosos."
+    },
+    {
+      "en": "They relied on a sophisticated network {{analyser}} to troubleshoot the connectivity issues.",
+      "pt": "Eles contaram com um sofisticado analisador de rede para solucionar os problemas de conectividade."
+    },
+    {
+      "en": "The breath {{analyser}} indicated a blood alcohol level well above the limit.",
+      "pt": "O bafômetro indicou um nível de álcool no sangue bem acima do limite."
+    },
+    {
+      "en": "{{analysing}} consumer behavior trends is crucial for our upcoming marketing strategy.",
+      "pt": "Analisar as tendências de comportamento do consumidor é crucial para nossa próxima estratégia de marketing."
+    },
+    {
+      "en": "He spent the entire night {{analysing}} the intricate legal precedents involved.",
+      "pt": "Ele passou a noite inteira analisando os intrincados precedentes legais envolvidos."
+    },
+    {
+      "en": "We are currently {{analysing}} the environmental impact of the proposed pipeline construction.",
+      "pt": "Atualmente, estamos analisando o impacto ambiental da construção proposta do oleoduto."
+    },
+    {
+      "en": "{{analysing}} Shakespeare's subtle wordplay can significantly enhance your literary appreciation.",
+      "pt": "Analisar o sutil jogo de palavras de Shakespeare pode melhorar significativamente sua apreciação literária."
+    },
+    {
+      "en": "The geopolitical {{analysis}} provided profound insights into the escalating regional conflict.",
+      "pt": "A análise geopolítica forneceu percepções profundas sobre o conflito regional em escalada."
+    },
+    {
+      "en": "A thorough cost-benefit {{analysis}} is mandatory before we approve the merger.",
+      "pt": "Uma minuciosa análise de custo-benefício é obrigatória antes de aprovarmos a fusão."
+    },
+    {
+      "en": "Her rigorous statistical {{analysis}} debunked the previously accepted scientific consensus completely.",
+      "pt": "Sua rigorosa análise estatística desmascarou completamente o consenso científico anteriormente aceito."
+    },
+    {
+      "en": "The final report unfortunately lacks an in-depth {{analysis}} of the structural flaws.",
+      "pt": "Infelizmente, o relatório final carece de uma análise aprofundada das falhas estruturais."
+    },
+    {
+      "en": "Critical discourse {{analysis}} reveals how power dynamics actively shape public rhetoric.",
+      "pt": "A análise crítica do discurso revela como as dinâmicas de poder moldam ativamente a retórica pública."
+    },
+    {
+      "en": "The senior financial {{analyst}} accurately predicted the sudden global market downturn.",
+      "pt": "O analista financeiro sênior previu com precisão a súbita queda do mercado global."
+    },
+    {
+      "en": "A cybersecurity {{analyst}} is primarily responsible for identifying hidden network vulnerabilities.",
+      "pt": "Um analista de cibersegurança é o principal responsável por identificar vulnerabilidades ocultas na rede."
+    },
+    {
+      "en": "She works as a lead intelligence {{analyst}} for a prominent government agency.",
+      "pt": "Ela trabalha como analista de inteligência principal para uma agência governamental proeminente."
+    },
+    {
+      "en": "An industry {{analyst}} highlighted the disruptive potential of these renewable energy startups.",
+      "pt": "Um analista do setor destacou o potencial disruptivo dessas startups de energia renovável."
+    },
+    {
+      "en": "Philosophy often employs an {{analytic}} approach to dissect complex moral dilemmas.",
+      "pt": "A filosofia frequentemente emprega uma abordagem analítica para dissecar dilemas morais complexos."
+    },
+    {
+      "en": "The therapist uses {{analytic}} techniques to explore the patient's deepest subconscious fears.",
+      "pt": "O terapeuta usa técnicas analíticas para explorar os medos subconscientes mais profundos do paciente."
+    },
+    {
+      "en": "Advanced {{analytic}} geometry forms the absolute foundation of modern theoretical physics.",
+      "pt": "A geometria analítica avançada forma a base absoluta da física teórica moderna."
+    },
+    {
+      "en": "His sharp {{analytic}} mindset makes him exceptionally adept at strategic problem-solving.",
+      "pt": "Sua afiada mentalidade analítica o torna excepcionalmente hábil na resolução estratégica de problemas."
+    },
+    {
+      "en": "The ideal candidate must possess strong {{analytical}} skills to tackle intricate datasets.",
+      "pt": "O candidato ideal deve possuir fortes habilidades analíticas para lidar com conjuntos de dados complexos."
+    },
+    {
+      "en": "An {{analytical}} thinker naturally breaks down formidable obstacles into manageable, distinct components.",
+      "pt": "Um pensador analítico divide naturalmente obstáculos formidáveis em componentes distintos e gerenciáveis."
+    },
+    {
+      "en": "The scientific method relies heavily on empirical observation and rigorous {{analytical}} reasoning.",
+      "pt": "O método científico depende fortemente da observação empírica e do rigoroso raciocínio analítico."
+    },
+    {
+      "en": "She wrote an insightful {{analytical}} essay deconstructing the prevalent socio-economic inequalities.",
+      "pt": "Ela escreveu um ensaio analítico perspicaz desconstruindo as desigualdades socioeconômicas predominantes."
+    },
+    {
+      "en": "To succeed in law school, one must constantly learn to think {{analytically}}.",
+      "pt": "Para ter sucesso na faculdade de direito, é preciso aprender constantemente a pensar analiticamente."
+    },
+    {
+      "en": "The software processes the raw information {{analytically}} to generate actionable business metrics.",
+      "pt": "O software processa as informações brutas analiticamente para gerar métricas de negócios acionáveis."
+    },
+    {
+      "en": "They approached the logistical nightmare {{analytically}}, resolving it step by step smoothly.",
+      "pt": "Eles abordaram o pesadelo logístico de forma analítica, resolvendo-o passo a passo suavemente."
+    },
+    {
+      "en": "Addressing the unprecedented crisis {{analytically}} prevented the executive team from panicking.",
+      "pt": "Abordar a crise sem precedentes analiticamente evitou que a equipe executiva entrasse em pânico."
+    },
+    {
+      "en": "Researchers must carefully {{analyze}} the severe side effects of the experimental drug.",
+      "pt": "Os pesquisadores devem analisar cuidadosamente os graves efeitos colaterais do medicamento experimental."
+    },
+    {
+      "en": "We utilize sophisticated algorithmic models to {{analyze}} consumer behavior in digital markets.",
+      "pt": "Utilizamos modelos algorítmicos sofisticados para analisar o comportamento do consumidor em mercados digitais."
+    },
+    {
+      "en": "It takes specialized software to effectively {{analyze}} these incredibly vast genomic sequences.",
+      "pt": "É necessário um software especializado para analisar efetivamente essas sequências genômicas incrivelmente vastas."
+    },
+    {
+      "en": "He intends to {{analyze}} the semantic shifts occurring in contemporary online communication.",
+      "pt": "Ele pretende analisar as mudanças semânticas que ocorrem na comunicação online contemporânea."
+    },
+    {
+      "en": "The sociologists {{analyzed}} the detrimental impact of globalization on isolated indigenous communities.",
+      "pt": "Os sociólogos analisaram o impacto prejudicial da globalização nas comunidades indígenas isoladas."
+    },
+    {
+      "en": "Once the quarterly earnings were fully {{analyzed}}, the stakeholders expressed their immense satisfaction.",
+      "pt": "Assim que os lucros trimestrais foram totalmente analisados, as partes interessadas expressaram sua imensa satisfação."
+    },
+    {
+      "en": "The ancient manuscript was {{analyzed}} using carbon dating and advanced spectroscopic techniques.",
+      "pt": "O manuscrito antigo foi analisado usando datação por carbono e técnicas espectroscópicas avançadas."
+    },
+    {
+      "en": "The engineering team {{analyzed}} the structural integrity of the suspension bridge thoroughly.",
+      "pt": "A equipe de engenharia analisou minuciosamente a integridade estrutural da ponte pênsil."
+    },
+    {
+      "en": "They meticulously {{analyzed}} the competitor's pricing strategy to regain their market dominance.",
+      "pt": "Eles analisaram meticulosamente a estratégia de preços do concorrente para recuperar seu domínio de mercado."
+    },
+    {
+      "en": "{{analyzing}} live satellite imagery helps meteorologists track the unpredictable trajectory of hurricanes.",
+      "pt": "Analisar imagens de satélite ao vivo ajuda os meteorologistas a rastrear a trajetória imprevisível dos furacões."
+    },
+    {
+      "en": "She is currently {{analyzing}} the potential environmental hazards of the proposed industrial plant.",
+      "pt": "Ela está atualmente analisando os potenciais riscos ambientais da planta industrial proposta."
+    },
+    {
+      "en": "We spent the entire afternoon {{analyzing}} the intricate legal precedents involved here.",
+      "pt": "Passamos a tarde inteira analisando os intrincados precedentes legais envolvidos aqui."
+    },
+    {
+      "en": "{{analyzing}} the raw survey data took significantly longer than the research team expected.",
+      "pt": "Analisar os dados brutos da pesquisa levou muito mais tempo do que a equipe de pesquisa esperava."
+    }
+  ],
+  "pronunciationExercises": [
+    {
+      "question": "analysis",
+      "options": [
+        "paralysis",
+        "analysis"
+      ],
+      "correct": "analysis"
+    },
+    {
+      "question": "analyse",
+      "options": [
+        "analyse",
+        "penalise"
+      ],
+      "correct": "analyse"
+    },
+    {
+      "question": "analyst",
+      "options": [
+        "catalyst",
+        "analyst"
+      ],
+      "correct": "analyst"
+    },
+    {
+      "question": "analytical",
+      "options": [
+        "analytical",
+        "political"
+      ],
+      "correct": "analytical"
+    },
+    {
+      "question": "analytic",
+      "options": [
+        "analytic",
+        "paralytic"
+      ],
+      "correct": "analytic"
+    },
+    {
+      "question": "analyzing",
+      "options": [
+        "agonizing",
+        "analyzing"
+      ],
+      "correct": "analyzing"
+    },
+    {
+      "question": "analyzed",
+      "options": [
+        "vandalized",
+        "analyzed"
+      ],
+      "correct": "analyzed"
+    },
+    {
+      "question": "analyser",
+      "options": [
+        "analyser",
+        "fertilizer"
+      ],
+      "correct": "analyser"
+    },
+    {
+      "question": "analysis",
+      "options": [
+        "dialysis",
+        "analysis"
+      ],
+      "correct": "analysis"
+    },
+    {
+      "question": "analyze",
+      "options": [
+        "paralyze",
+        "analyze"
+      ],
+      "correct": "analyze"
+    },
+    {
+      "question": "analytically",
+      "options": [
+        "politically",
+        "analytically"
+      ],
+      "correct": "analytically"
+    },
+    {
+      "question": "analyst",
+      "options": [
+        "panelist",
+        "analyst"
+      ],
+      "correct": "analyst"
+    },
+    {
+      "question": "analytic",
+      "options": [
+        "analytic",
+        "catalytic"
+      ],
+      "correct": "analytic"
+    },
+    {
+      "question": "analysis",
+      "options": [
+        "synthesis",
+        "analysis"
+      ],
+      "correct": "analysis"
+    },
+    {
+      "question": "analyze",
+      "options": [
+        "analyze",
+        "cannibalize"
+      ],
+      "correct": "analyze"
+    }
+  ]
+}
